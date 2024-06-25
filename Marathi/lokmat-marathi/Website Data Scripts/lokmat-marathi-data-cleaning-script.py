@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Correct the file path by using double backslashes or raw string
-file_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\Marathi\lokmat-marathi\Data Excels (Main Data, Shortened Excel)\lokmat-marathi-poaching.xlsx"
+file_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\Marathi\lokmat-marathi\Data Excels (Main Data, Shortened Excel)\lokmat-marathi-wildlife-data.xlsx"
 
 # Load the data from the provided Excel file
 df = pd.read_excel(file_path)
@@ -52,7 +52,7 @@ for _, row in df_text_concat.iterrows():
 df_cleaned = pd.DataFrame(rows)
 
 # Save the cleaned DataFrame to a new Excel file
-output_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\Marathi\lokmat-marathi\Data Excels (Main Data, Shortened Excel)\lokmat-marathi-data-cleaned.xlsx"
+output_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\Marathi\lokmat-marathi\Data Excels (Main Data, Shortened Excel)\lokmat-marathi-wildlife-data-cleaned.xlsx"
 df_cleaned.to_excel(output_path, index=False)
 
 print(f"Cleaned data saved to: {output_path}")
