@@ -3,12 +3,12 @@ import requests
 import pandas as pd
 
 # Load the data from the Excel file
-file_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\Marathi\lokmat-marathi\Data Excels (Main Data, Shortened Excel)\lokmat-marathi-poaching-data-shortened.xlsx"
+file_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\Marathi\lokmat-marathi\Data Excels (Main Data, Shortened Excel)\lokmat-marathi-wildlife-data-shortened.xlsx"
 data = pd.read_excel(file_path)
 
 # Create directories if they don't exist
-text_folder = "wildlabs-text-files"
-image_folder = "wildlabs-images"
+text_folder = "lokmat-marathi-wildlife-text-files"
+image_folder = "lokmat-marathi-wildlife-images"
 os.makedirs(text_folder, exist_ok=True)
 os.makedirs(image_folder, exist_ok=True)
 
