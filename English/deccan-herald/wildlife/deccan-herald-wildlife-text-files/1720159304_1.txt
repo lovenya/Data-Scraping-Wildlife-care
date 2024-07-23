@@ -1,7 +1,0 @@
-The Karnataka State Forest Department, on Monday, launched ‘Hejje’ — a habitat tracking device, in Bandipur Tiger Reserve, to collect vital information of habitats like patrolling efficiency, herbivore and carnivore population, water availabiliy and man-animal conflicts. 
-
-ADVERTISEMENTDeveloped by KeyFalcon Solutions, Bangalore, with inputs from Bandipur Tiger Reserve Director H C Kantharaju, other forest officials and Honorary Wildlife Warden Rajkumar D.
-
- Hejje is equipped with android mobile application which can be used by anti-poaching camp staff during their patrolling to collect information like animal sightings, water level in lakes, suspicious activities, tree population and so on. The information would be made available on an internal application for further analysis by forest department officials. 
-
-Using the device, forest officials would get live update of their respective anti-poaching patrolling activities like patrol start time, end time, distance covered and animal sighted instantly on their mobile without using internet. It also ensures that data is secured by encrypting all information and accessible only to authorised personnel. Tiger movement along fringes can be detected through alert mechanism which will help in taking proactive measures. Even pug mark and animal paths can be monitored by taking photograph and down loading it with GPS location.
