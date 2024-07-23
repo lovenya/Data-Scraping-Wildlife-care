@@ -1,0 +1,27 @@
+For all the havoc that zebra mussels, Asian carp, round gobies and dozens of other alien species have wrought on the great lakes of North America, those waters have never known a foe like the sea lamprey. The vampire-like parasites cost many millions each year in depleted fisheries and eradication efforts.
+
+ADVERTISEMENTWildlife managers have long used lampricide — the lamprey version of pesticide — with mixed results. Now, an innovative control programme seeks to improve on that method by using pheromones to trick the bloodsuckers into voluntarily corralling themselves in designated areas, to then be trapped or poisoned. But achieving this depends on cracking the fish’s olfactory language.
+
+“The broad goal is to understand how this animal makes decisions,” said Michael Wagner, a fish ecologist at Michigan State University. “Then, we want to use that understanding to guide lampreys’ movements by manipulating the landscape of fear and opportunity.”
+
+Lampreys look like the stuff of horror films: a slithering, tubular body topped with a suction-cup mouth ringed with row upon row of hooked yellow teeth. With this mouth, a sea lamprey anchors to its fish prey and uses its rasping tongue to drill into the victim’s flesh. It remains there for up to a month, feeding on blood and body fluids. Even if a fish survives the attack, the gaping wound left behind often results in death. In their natural ranges, lampreys are important components of food webs. The problems begin only when they shift from native to invader.
+
+Chemical experiments 
+
+Desperate to find solutions, Canada and the United States in 1955 established the Great Lakes Fishery Commission. Its researchers tested nearly 7,000 chemicals on lamprey larvae and fish to identify one that would kill the invaders, with minimal effect on other fishes. Eventually, they settled on 3-trifluoromethyl 4-nitrophenol, or TFM, a metabolism-targeting poison applied to larvae-infested streams. At the same time, the commission built about 70 lamprey barriers to limit migration.
+
+Lamprey numbers in the lakes soon plummeted by 90 to 95 per cent, sparing some 100 million pounds of fish each year. But that success requires continuing effort. Today, the commission spends around $20 million annually on lamprey control, mostly to apply TFM to about 100 streams, where it has a 98 per cent success rate in killing larvae. The poison, however, is not perfect; there are occasional mishaps with native fish. In 2014, for example, it inadvertently killed 32 juvenile sturgeons, a protected species.
+
+Relying on one chemical also puts managers in a precarious position. “A fire could destroy the supply, the price could go up, or lampreys could develop a resistance to lampricide,” said Marc Gaden, spokesman for the Great Lakes Fishery Commission.
+
+Marc, Michael and others say that pheromones could alleviate some of the reliance on poison. “We’re trying to move away from brute-force techniques like pesticides and achieve the most environmentally friendly control of lampreys possible,” Michael said.
+
+Researchers have been investigating lamprey pheromones since the 1980s, though records from the late 19th century show that French fishers suspected that lampreys use odor to attract mates. In fact, pheromones seem to play a prominent role throughout the lamprey life cycle. Like salmon, lampreys spawn in rivers and streams, but instead of returning to the place of their birth, they use the scent of current larvae — which burrow into the muck and remain there around four years before metamorphosing into parasites and moving into open water — to determine where to deposit their own young. “It’s like choosing where to raise your kids based on a neighbourhood’s crime rate and quality of schools,” Michael  said. “The odour larvae release says, ‘We’re thriving here.’”
+
+Male lampreys follow their noses to larvae-filled streams ahead of females. There, they construct a cradle of small stones (the name lamprey possibly derives from the Latin lampetra, or “stone licker”) and then pump out a concoction of come-hither chemicals to guide females to their love nest. After spawning, both parents die.
+
+Making larvae is not the only way the parasites use scent, however. Researchers also suspect that lamprey tissue contains an alarm cue, which warns others to steer clear of injured or dead lampreys. When Michael poured just a few drops of a solution extracted from decaying lampreys into a tank of live fish, their frenzied response makes it appear as if someone flipped on a blender.
+
+The researchers hope to use synthesised versions of these three chemical classes to hack lampreys’ natural behaviours, creating a “push-pull” means of control, with the alarm pheromone nudging the animals away from certain areas, the migration and sex ones reeling them in. Lamprey males could be tricked into selecting subpar streams, females could be sent down dead ends, and all could be manipulated for more cost-effective poisoning and trapping. Such pheromone-driven strategies have long been used for insects, but never for a vertebrate species.
+
+“It turns out that the principles of control for insects also hold for lampreys,” said Jim Miller, an entomologist at Michigan State who serves on the fishery commission’s board as a pest management adviser.

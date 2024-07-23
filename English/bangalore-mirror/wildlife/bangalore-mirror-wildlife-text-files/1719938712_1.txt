@@ -1,0 +1,16 @@
+Scientists from the city-based Wildlife Conservation Society–India and National Centre for Biological Sciences (NCBS) along with other universities have, for the first time, developed a scientifically robust method to estimate the Asiatic wild dog dhole population.
+ 
+The dhole is among the carnivore species that are threatened with extinction and its population numbers unknown. This large carnivore is found in the forests of India and till now, there were no methods available to reliably estimate dhole populations. With this new study, scientists developed a method to estimate dhole numbers using genetic information and advanced population models.
+ 
+NCBS said that the scientists conducted field surveys across 350 sq km of Wayanad Wildlife Sanctuary to collect dhole scats (fecal droppings) in 2019. 
+They extracted DNA from the scats and used a novel approach involving Single Nucleotide Polymorphisms or SNPs to identify unique dhole individuals. 
+Combining this with statistical methods called Spatial Capture-Recapture models, the researchers were able to estimate and map dhole numbers and density across the sanctuary.
+
+
+Ours is the first attempt to estimate dhole populations through targeted surveys designed specifically for this species ­–Arjun Srivathsa, study author 
+The study further found that Wayanad has 12–14 per 100 sq km, with around 50 individuals estimated within the sanctuary’s administrative boundary. 
+“Ours is the first attempt to estimate dhole populations through targeted surveys designed specifically for this species. The results suggest that Wayanad supports high densities of the dhole. Recent nationwide tiger surveys showed that the sanctuary also has a relatively large tiger population, with 11–13 animals per 100 sq km. The fact that two large carnivores can co-exist in such high densities is indicative of an abundant prey base and high-quality habitat. It is also a testament to how well the sanctuary is managed by the Forest Department,” said Arjun Srivathsa, the lead author of the study.
+ 
+The scientists said that India supports 23 percent of the world’s carnivore species in around 2.3 percent of the global land area. However, some of these species are threatened with extinction.
+ 
+“For species like dhole that do not have individual markings, genetic methods are the only way we can get statistically robust estimates of population. The genetic tools we developed will be critical for evidence-based conservation of dholes,” said co-author of the study, Uma Ramakrishnan.

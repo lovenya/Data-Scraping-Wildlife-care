@@ -1,0 +1,19 @@
+The Kolkata Special Task Force arrested three persons, including one Bangladeshi national identified as Mamun, from the airport area on September 2 and recovered at least 23 SIM boxes, with a capacity to store 256 SIM slots from different locations, 400 preactivated SIM cards, WiFi modems of different service providers, laptops and other communication equipment from them.
+
+The arrests and the subsequent recovery opened up a Pandora's Box exposing an international SIM box-based communication racket across the state that routes international phone calls as local calls, which are charged by local mobile service providers. SIM boxes, also known as SIM-banks, are usually fitted with a few hundred GSM SIM cards used to route calls through data-functional devices.
+
+According to cyber experts a SIM box works as a virtual telephone and the senior police officers investigating the case have expressed serious concern that such illegal exchanges could serve as "secret channels" and could threaten national security while potentially robbing network providers of rightful revenue. According to cyber experts, a SIM box contains a number of SIM cards linked to a gateway, but stored separately, making it difficult to locate and identify the origin of phone calls.ADVERTISEMENTRead more: Man arrested for spreading communal messages through WhatsApp ahead of Bhabanipur bypoll 
+
+SIM box technology is used to route international calls as local calls. Each box has hundreds of GSM SIM cards. Using this technology, the box operator is able to bypass international rates charged by local mobile network operators and also pose a significant national security risk. Calls rerouted through a SIM box will be masked with a local number. For instance, a call from Pakistan will have a local number.
+
+Even a single SIM box is capable of routing thousands of international dubious calls each day, which shows the gravity of the situation. According to sources, the callers made several attempts to learn about the location and movement of Army contingents in the state of West Bengal. The suspicious activity was detected when army officials in Siliguri flagged the suspicious nature of the calls to the helpline.
+
+More threatening is that in the last 20 days the STF has managed to arrest seven more people in this connection with three of them in Kolkata, one from Nadia, one from Odisha and one a Bangladeshi national traced in North 24 Parganas.
+
+"We have arrested one Amit Gupta from 16 Swinhoe Lane. Gupta was using three active SIM boxes having 512 slots with 73 active mobile phone SIM cards. He was using the technology to terminate the International Subscriber Dialling (ISD) and Voice over Internet Protocol (VoIP) bypassing international gateways of domestic service providers," a senior STF officer said.
+
+Interrogating Gupta, police arrested another person identified as Pradip Dutta from Baranagar area in North 24 Parganas. A huge number of SIM cards and SIM boxes were recovered from him.
+
+This is the second time within a year that a SIM box racket has been busted in Bengal. In December last year, city police busted a similar racket after receiving inputs from the Lucknow-based Military Intelligence Unit.
+
+"The revelations are a threat to national security and we have informed the union ministry of home affairs regarding the development. We are also trying to find out whether there is any terror link to the whole thing. The arrested people are being interrogated to know their exact plans and details," the officer said.Check out the latest DH videos:

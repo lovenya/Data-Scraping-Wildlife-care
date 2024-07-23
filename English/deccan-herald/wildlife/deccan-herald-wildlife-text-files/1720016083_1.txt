@@ -1,0 +1,44 @@
+<img src="https://images.deccanherald.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticle_images%2F2011%2F05%2F24%2Ffly-250.jpg?w=1200" alt=""/>ADVERTISEMENTA father of five and a professed geek, Chris Anderson, editor-in-chief of ‘Wired’ magazine, is always looking for child-friendly activities that could, he hopes, inculcate his children with techie sensibilities.
+
+So one weekend in 2007, Anderson brought home a model radio-controlled airplane and a Lego Mindstorms robotics kit. Soon he and the children put the two toys together, making the Lego robot fly the plane. The result was a clunky Lego drone. His children moved on to other playthings. But Anderson was captivated. And that led him to found an online network for amateur drone enthusiasts, DIY Drones, and to co-found a new business, 3D Robotics, which features an online store for those hobbyists.
+
+“This is the future of aviation,” Anderson, 49, said. “Our children will not believe that people used to drive cars and drive airplanes. We are the weak link in the chain.”
+
+Unlike traditional radio-controlled planes, unmanned aerial vehicles, or UAVs, have the capacity for autonomous flight and navigation. A radio-controlled plane becomes an autonomous drone when it is given an autopilot, which Anderson calls “giving the plane a brain.”
+
+Anderson was among the enthusiasts recently attending the third annual Autonomous Vehicle Competition, where about 50 teams of software programmers and robot tinkerers from across the country faced off in robot races.
+
+Though many of the racers focused on antics like dressing their robots as dinosaurs, Anderson believes that unmanned aircraft are not just for fun-loving hobbyists. He argues that small drones outfitted with sensors could be used to assess emergency situations like that at the Fukushima Daiichi nuclear plant, to find survivors of natural disasters, to assist law enforcement and to monitor pipelines, agricultural crops and wildlife populations.
+
+He is not alone in his thinking; many companies and research institutions are working to design drones for commercial and other uses. The Federal Aviation Administration estimates that around 50 companies, universities, and government organisations are at work on at least 155 drone designs in the US alone. Some companies already manufacture sophisticated drones. AeroVironment, based in Monrovia, California, designed the 4.2-pound, hand-launched Raven aircraft currently used by US military forces in Iraq and Afghanistan.
+
+Still, there are privacy and safety concerns, which the FAA mitigates by limiting commercial opportunities for UAVs and by requiring special permits for unmanned vehicles to fly in the National Airspace System — a complex web of more than 19,000 airports that involves about 1,00,000 flights a day and thousands of air traffic controllers.
+
+So far, the agency has issued 240 such permits — the department of homeland security received permission to patrol the border with drones, and Nasa was allowed to fly unmanned aircraft to spot wildfires across the West.
+
+The FAA has an additional 164 permit applications pending, and early this fall expects to release new rules, which Anderson hopes will be more lenient toward unmanned aircraft.
+Anderson said DIY Drones had 15,000 members and had about 1 million page views a month, tapping into a world of do-it-yourself hobbyists who build their own small drones and fly them around parks and neighbourhoods. Many of the site’s members, he said, work day jobs at major technology companies like Apple and work in their off hours to develop open source software that can fly seagull-size drones.
+
+Quadcopters
+
+Anderson founded 3D Robotics with Jordi Munoz, 24. The two met soon after Anderson trolled the web for fellow homegrown drone-makers and saw a video of Munoz flying a helicopter using a repurposed Wii controller. The company now sells the autopilot hardware, cords and sensors needed to build unmanned planes and quadcopters, small helicopters with four rotors.
+
+“We are growing really fast,” said Munoz, the company’s chief executive, who assembled early prototypes at his home. “When we first started I was working 24 hours a day, seven days a week for almost a year.”
+
+The company opened a manufacturing facility in San Diego, which now employs 14 people to assemble and ship drone parts. Last year, the company had a 20 per cent increase in sales every month, the founders said, with total sales over $1 million. Customers pay about $300 for an autopilot that includes a GPS device, accelerometers, gyroscopes, magnetometers and all the gadgetry necessary to turn a model plane into an autonomous drone. Other companies sell pre-assembled drones.
+
+Under FAA guidelines, recreational fliers like Anderson and his customers must keep unmanned aircraft lower than 400 feet, away from other aircraft and within the operator’s sight.
+
+Nicholas Roy, an associate professor of aeronautics and astronautics at the Massachusetts Institute of Technology, works with students to build the software to run small-scale drones that do not rely on GPS equipment, which is often faulty indoors and in cities — what Roy calls an ‘urban canyon’.
+
+“In terms of understanding what it means to operate in the physical world with intelligence, unmanned aerial vehicles are a fantastic way to do that,” said Roy, who also leads MIT’s Robust Robotics Group. But he has some reservations about the widespread use of drones.
+
+“It’s easy to say, these things are so small, what damage can they do?” he said. “But they can carry an awful lot of energy and they can accumulate energy very quickly. When one comes out of the sky and hits the ground the potential for real damage is there.”
+
+Others emphasise the privacy concerns. “The hobbyists are of less concern from a privacy perspective, but I am worried about surveillance of certain parts of cities by law enforcement using drones as though we were somehow in the theatre of war,” said Ryan Calo, director of the Consumer Privacy Project at Stanford Law School. “And I’m worried about the inadequacy of privacy law at a constitutional and subconstitutional level to deal with that.”
+
+But, at the drone event, Anderson and Munoz seemed most concerned with keeping their aircraft dry and airborne despite the snow flurries.
+
+“No guts, no glory,” said Anderson, who expected some drones to crash.
+
+After a day of sputtering failures and spectacular and often unpredictable flights, first place in the aerial category went to Antonio Liska, a 29-year-old aerospace engineer who hopes to start a business selling drones. He programmed his own autopilot and plans to fly his unmanned aircraft into volcanoes in Central America — “just because I can,” he said.ADVERTISEMENT

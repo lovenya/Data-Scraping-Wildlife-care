@@ -1,0 +1,88 @@
+Poached skins matched to tigers
+
+
+
+
+BBC NEWS, 11 March 2009
+Victoria Gill, Science reporter
+
+A new piece of software is able to identify individual tigers by the unique stripe patterns on their coats.
+
+This tool, the developers say, will make it easier to estimate tiger populations and aid conservation efforts.
+
+It is also able to match skins sold on the black market to photographs of the animals taken using camera traps.
+
+The team of scientists based in the UK and India report its invention in the journal Biology Letters.
+
+The program was based on software originally designed to scan the markings of grey seals and identify them from photographs.
+
+The researchers adapted this for tiger stripes, and combined it with a 3D map of the surface of a tiger's body.
+
+This
+enabled them effectively to unwrap the pattern of stripes from an image
+of a live animal and match it to picture of the flat skin.
+
+Dr
+Ullas Karanth, a researcher from the Wildlife Conservation Society
+India Program, worked on the project with the UK-based company
+Conservation Research.
+
+Shooting Tigers
+
+"Tigers are very secretive animals and it is a major challenge to estimate their numbers," Dr Karanth explained.
+
+Over
+a decade ago, he came up with the idea of using camera traps - hidden
+cameras operated by trip wires - to monitor tiger populations.
+
+“Until camera trapping is an ongoing process, the usefulness of this amazing software will be limited ” 
+Belinda Wright, Wildlife Protection Society of India
+
+Since
+then researchers have used a combination of this automated photography
+- and tagging and tracking the animals - to monitor their numbers.
+
+But
+each new photograph of a tiger had to be compared with every animal in
+a database of images. It is a laborious process, Dr Karanth says.
+
+"No
+piece of software is as good at discerning shapes as the human brain,
+but we can use this to shortlist the most likely matches, and then
+eyeball the photos in that shortlist," Dr Karanth told BBC News. "It's
+a very powerful tool."
+
+While they were testing the software, Dr
+Karanth and his colleagues found images of three tigers that, it turned
+out, had later been killed by poachers.
+This inspired the designers
+to build in a forensic tool that could be used to trace the origin of
+any skin to a photograph of the tiger.
+
+They also adapted it for other species with unique markings, including leopards, zebras and salamanders.
+
+More needed
+
+Belinda
+Wright is executive director of the Wildlife Protection Society of
+India, an organisation that investigates every tiger death in the
+country.
+
+She says simplifying the process of identifying tigers
+from camera trap images would be "very beneficial" to conservation
+research.
+
+But, she warned, opportunities to find the origin of a confiscated tiger skin are rare.
+
+"Skins are often seized in very remote locations, and we often don't get decent photographs of them," Ms Wright explained.
+
+Further, camera trapping is not yet carried out continuously in all of the areas throughout India where tigers live.
+
+This
+will be necessary, she says, to maintain a census of the tiger
+population. "Until camera trapping is a regular and ongoing process,"
+said Ms Wright, "the usefulness of this amazing software will be
+limited."
+
+
+newslink

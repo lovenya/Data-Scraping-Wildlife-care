@@ -1,0 +1,27 @@
+One moment, the ten fleas were happily sucking blood from hedgehogs being treated at Tiggywinkles Wildlife Hospital in Aylesbury, which, of course, is in England. The next, they were being plucked from their comfortable home and transported to Cambridge, where they ended up in a glass box with a Styrofoam floor. From time to time, bright lights would flood the box, so that a high-speed camera could film them. And the fleas did what fleas do in times of crisis: they jumped.
+
+When fleas jump, it is no ordinary leap. The insects can shoot as high as 38 times their body length, about three inches. And the acceleration is so intense that fleas have to withstand 100 Gs, or 100 times the force of gravity. “You and I pass out if we experience five Gs,” said Malcolm Burrows, an expert on insect jumping at the University of Cambridge. 
+
+Dr Burrows and his colleague Gregory Sutton obtained the fleas from Tiggywinkles to address a question that had vexed naturalists for centuries: how fleas manage their spectacular jumps. In a paper published in The Journal of Experimental Biology, they report that the insects turn themselves into catapults, storing energy that they release as they push off with what passes, in fleas, for feet. Burrows and Dr Sutton are the latest in a long line of naturalists who have studied these insects. 
+
+With all the strength it takes
+
+In 1664, the British physicist Robert Hooke put a flea under a microscope for the first time. He thought the flea jumped with all six legs: “These six legs he clitches up altogether, and when he leaps, springs them all out, and thereby exerts his whole strength at once.” Since it takes about one-thousandth of a second for a flea to hurl itself into the air, Hooke was obviously making a tremendous guess. It took three centuries for scientists to gather the first hard data about jumping fleas. 
+
+In the 1960s, Eric Lucey, a biologist at the University of Edinburgh, filmed the insect with what was then the most advanced high-speed camera, at a thousand frames per second. Dr Lucey showed the film to Henry Bennet-Clark, an expert on insects who was also at the University of Edinburgh at the time. Dr Bennet-Clark realised that the fleas were generating a hundred times more power than their muscles could actually provide. 
+
+He noticed that just before leaping, the flea bends the closest segment of its hind legs toward the body for about a tenth of a second.  When Bennet-Clark dissected fleas, he discovered that their leg muscles were connected to pads of stretchy protein called resilin. In 1967, he and Lucey proposed that fleas store energy in springlike tissues, which they then release.
+
+In 1972, another British naturalist, Miriam Rothschild, published a similar study with much the same conclusion. But Rothschild and Bennet-Clark disagreed about how the force from the spring lifted the flea off the ground. Rothschild argued that fleas planted a kneelike joint called the trochanter to jump. Bennet-Clark thought the fleas pushed off from footlike segments, called the tarsi.
+
+Unfortunately, their films were too blurry to determine who was right. In 2009, Burrows decided it was time to attack the question anew, using 21st-century technology. Over the course of a week, Sutton filmed 51 jumps, which were analysed on a computer. The scientists noticed that the fleas sometimes jumped with trochanters and tarsi both planted on the Styrofoam. But sometimes only the tarsi made contact. “These two jumps appear to be the same,” said Dr Sutton. It seemed that, as Bennet-Clark had argued, only the tarsi mattered. And Sutton and Burrows got the same result from mathematical models of the forces produced in flea jumps. 
+
+The actual jumps matched Bennet-Clark’s hypothesis. So it seems that fleas leap by channeling their stored energy down to the tips of their legs. “Their work is pretty bulletproof,” said Steven Vogel, an expert in biomechanics at Duke University. 
+
+More complex than thought
+
+Sutton and Burrows suspect that flea springs are more complex than originally thought. They’ve studied another jumping insect, the froghopper, and found that its resilin pads are layered over hard cuticle. This sandwich structure stores lots of energy, while the stretchy resilin keeps the hard cuticle from cracking. The scientists suspect fleas use the same biomechanical trick. Sutton says superior springs are just one of several important lessons fleas can teach engineers. They might also learn how to build robots that can leap over rough terrain. “Insect jumping is incredibly precise and incredibly fast,” he said. 
+
+“If you could build a robot that could do that, it would be fantastic.” But Sutton acknowledged that some of the most important secrets of fleas remain to be worked out. No one knows how fleas lock their springs in place and then release them, for instance. And no one knows how fleas snap their two hindmost legs at the same time. If they weren’t so precise, the insects would spin wildly off course. “If you’re half a millisecond off, you’re done, and we have no idea how they do it,” Sutton said. 
+
+New York Times News ServiceADVERTISEMENT

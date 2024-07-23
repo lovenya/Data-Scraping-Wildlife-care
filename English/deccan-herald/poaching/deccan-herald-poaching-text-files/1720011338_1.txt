@@ -1,0 +1,27 @@
+Poaching of eight lions in April 2007 in the Gir had sent shock waves across the state following which the state government formed a task force to suggest ways to protect the Asiatic lions in their last abode, whose number as per the last survey was 359.
+
+"Based on the recommendations of the task force, we are in the process of introducing these high-tech gadgets in the Gir forest for lion conservation," Principal Chief Conservator of Forest (Wildlife), Pradeep Khanna said.
+
+"We have identified technology partners for development of communication systems based on GPS," Khanna said.
+
+The task force, which was also headed by Khanna, had proposed integrated solution to incorporate modern technology for enhancing conservation efficiency, he said.
+Gujarat Government, last week in an affidavit in the Supreme Court, declined to give Gir Lions to Madhya Pradesh for their relocation in Kuno-Palpur sanctuary.The task force has proposed to use GPS-based system for surveillance tracking, animal tracking and also tracking of vehicles coming inside the Gir Sanctuary.
+
+It is envisaged that all field level subordinates (foresters), supervisory staff and senior officers would be equipped with hand-held devices capable of voice, data and geo-coordinate transmission. Such devices would be networked to a central server.
+
+Long-term data generated from the network would increase our understanding about the dispersal dynamics of large carnivores, the task force report said.
+Regarding animal surveillance through GPS tracking, the task force has proposed that approximately 10 per cent of the lion population covering its entire geographical spread should be fitted with GPS Collars capable of transmission of signals.
+
+In the initial phase, about 10-20 animals may be fitted with the GPS collars. Coupled with surveillance tracking and geographical record of sightings, it could generate excellent spatio-temporal models of dispersion, the task force said.
+
+The task force has also suggested establishing of automated sensor grid, which would consist unattended, miniaturised, weatherproof, concealable sensors that are networked via a radio gateway and which when triggered would generate alarms in a predefined manner. The sensors should be capable of detecting motion and metal. It is proposed that such sensors should be placed at strategic points in an array so as to minimise false alarms and maximise coverage, the task force report said.
+
+The sensors would have a built in processor which would use intelligent algorithms to classify the type of intrusion and its location.
+
+In order to enhance surveillance capability in darkness, the task force has proposed to equip all the mobile patrolling squads with one long range night vision equipment.
+The detection range of such equipment should be 700 to 800 meters and the recognition range should be 300 to 500 meters, the report said.
+
+"The entire exercise is being carried out to ensure that the last species of Asiatic lions do not fall pray to the poachers in the future," Khanna said.
+
+He further said, "Task force while preparing the report has kept in mind that upon implementation, the envisaged technological solution should make human resource more effective and potent. It should help the field staff to respond more effectively to events. It should help to reduce response-time and as such increase the output of a limited force." 
+ADVERTISEMENT

@@ -1,0 +1,13 @@
+But the holiday greeting that surfaced just before Christmas was a ruse by cybercriminals to steal documents and other data from law enforcement, military and government workers, particularly those involved in computer crime investigations.
+
+Analysts who have studied the malicious software said on Wednesday that hackers were able to use the e-mail to collect sensitive law enforcement data. But so far there has been no evidence that any classified information was compromised.
+
+The targeted e-mail attack comes as the federal government is desperately trying to beef up its cybersecurity after the release of thousands of State Department cables and military documents by the WikiLeaks website. Federal authorities want to improve technology systems and crack down on employees to prevent the theft or loss of classified and sensitive information.
+
+The red holiday e-mail card, with its brightly decorated Christmas tree, prompted recipients to click on a link, which would then download the ZueS malware, a well-known malicious code that is often used to steal passwords and other online credentials, primarily to poach Internet banking information. The malware was created several years ago and is widely available for criminals to acquire and adapt. It has been used to steal millions of dollars.
+
+In this case, however, the code downloaded a second payload that is designed to steal documents from the recipient's computer, accessing Microsoft Word and Excel files. Don Jackson, director of threat intelligence for Atlanta-based SecureWorks, a computer security consulting company, said the attack was somewhat small and targeted to a limited number of groups with law enforcement, military and government affiliations.
+
+It was small enough, he said, to suggest that it was sent out manually and not by a large network of infected computers. He said it was not large enough to be picked up by cybersecurity spam traps or sensors.
+
+Analysts learned of the e-mail attack last week and have spoken with federal authorities about it. While ZueS-related attacks are fairly common, this latest one stood out because of the use of the White House connection to lure recipients in and the targeted way it went after law enforcement, analysts said.ADVERTISEMENT

@@ -1,0 +1,44 @@
+For a century, doctors have waged war against bacteria, using antibiotics as their weapons. But that relationship is changing as scientists become more familiar with the 100 trillion microbes that call us home – collectively known as the microbiome.
+
+ADVERTISEMENT“I would like to lose the language of warfare,” said Dr Julie Segre, a senior investigator at the National Human Genome Research Institute. “It does a disservice to all the bacteria that have co-evolved with us and are maintaining the health of our bodies.”
+
+This new approach to health is known as medical ecology. Rather than conducting indiscriminate slaughter, Segre and like-minded scientists want to be microbial wildlife managers. No one wants to abandon antibiotics outright, but by nurturing the invisible ecosystem in and on our bodies, doctors may be able to find other ways to fight infectious diseases, and with less harmful side effects. Tending the microbiome may also help in the treatment of disorders that may not seem to have anything to do with bacteria, including obesity and diabetes.
+
+“I cannot wait for this to become a big area of science,” said Dr Michael A Fischbach, a microbiologist at the University of California, San Francisco, and an author of a medical ecology manifesto published this month in the journal Science Translational Medicine. 
+Judging from a flood of recent findings about our inner ecosystem, that appears to be happening. 
+
+Last week, Segre and about 200 other scientists published the most ambitious survey of the human microbiome yet. Known as the Human Microbiome Project, it is based on examinations of 242 healthy people tracked over two years. The scientists sequenced the genetic material of bacteria recovered from 15 or more sites on their subjects’ bodies, recovering more than 5 million genes.
+
+The project and other studies like it are revealing some of the ways in which our invisible residents shape our lives, from birth to death. A number of recent reports shed light on how mothers promote the health of their children by shaping their microbiomes.
+In a study published June 13 in the journal PLoS One, Dr Kjersti Aagaard-Tillery, an obstetrician at Baylor College of Medicine, and her colleagues described the vaginal microbiome in pregnant women. Before she started the study, Aagaard-Tillery expected this microbiome to be no different from that of women who weren’t pregnant.
+
+“In fact, what we found is the exact opposite,” she said. Early in the first trimester of pregnancy, she found, the diversity of vaginal bacteria changes significantly. Abundant species become rare, and vice versa.
+
+In a study of 16 lactating women published last year, Katherine M Hunt of the University of Idaho and her colleagues reported that the women’s milk had up to 600 species of bacteria, as well as sugars called oligosaccharides that babies cannot digest. The sugars serve to nourish certain beneficial gut bacteria in the infants, the scientists said. The more the good bacteria thrive, the harder it is for harmful species to gain a foothold.
+
+Ecological disruptions
+
+As the child grows and the microbiome becomes more ecologically complex, it also tutors the immune system. Ecological disruptions can halt this education. In March, Dr Richard S. Blumberg of Harvard and his colleagues reported an experiment that demonstrates how important this education is.
+
+The diversity of species that make up the microbiome is hard to fathom. But it is even more difficult to understand how the immune system copes with this onslaught. In any one person’s mouth, for example, the scientists of the Human Microbiome Project found about 75 to 100 species. Some that predominate in one person’s mouth may be rare in another person’s. Still, the rate at which they are being discovered indicates that there may be as many as 5,000 species of bacteria that live in the human mouth. “The closer you look, the more you find,” said Susan M Huse of the Marine Biological Laboratory in Woods Hole, Mass., a contributor to the microbiome project.
+
+Although the project has focused largely on bacteria, the microbiome’s diversity is wider. For example, our bodies also host viruses. Many species in the human ‘virome’ specialise in infecting our resident bacteria. But in the DNA samples stored in the Human Microbiome Project’s database, Dr Kristine Wylie of Washington University and her colleagues are finding a wealth of viruses that target human cells. It is normal, it seems, for people to have a variety of viruses busily infecting their human hosts. 
+
+The microbiome also includes fungi. In the June 8 issue of the journal Science, Dr. David Underhill, a research scientist at Cedars-Sinai hospital in Los Angeles, and his colleagues reported on a wealth of fungal species in the guts of humans and other mammals. In mice, for example, they catalogued 100 species of fungi that are new to science, along with 100 already known. This diversity is all the more remarkable when you consider that it is tolerated by an immune system that has evolved to fight off microbes. 
+
+Scientists have only a dim understanding of how the system decides which to kill and which to tolerate.
+
+Antibiotics kill off harmful bacteria, but broad-spectrum forms can kill off many desirable species, too. Fischbach likens antibiotics to herbicides sprayed on a garden. The herbicide kills the unwanted plants but also kills off the tomatoes and the roses. 
+
+The gardener assumes that the tomatoes and roses will grow back on their own. In fact, there’s no guarantee the microbial ecosystem will automatically return to normal. “It’s one of those assumptions we make today that will seem silly in retrospect,” Fischbach said.
+
+Indeed, some bacteria are adapted for invading and establishing themselves in disrupted ecosystems. A species called Clostridium difficil will sometimes invade a person’s gut after a course of antibiotics. From 2000 to 2009, the number of hospitalised patients in the United States found to have C. difficile more than doubled, to 336,600 from 139,000. Once established, the antibiotic-resistant C. difficile can be hard to eradicate.
+
+Now that scientists are gaining a picture of healthy microbiomes, they are optimistic about restoring devastated ones. “I don’t know that we’re quite on the cusp of being able to do that well at this point. But I think at least the data is starting to argue that these might be possibilities,” said Barbara Methe of the J Craig Venter Institute, a principal investigator on the microbiome project.
+
+One way to restore microbiomes may be to selectively foster beneficial bacteria. To ward off dangerous skin pathogens like Staphylococcus aureus, for instance, Segre envisions applying a cream infused with nutrients for harmless skin bacteria to feed on. “It’s promoting the growth of the healthy bacteria that can then overtake the staph,” she said.
+
+Adding the bacteria directly may also help. Unfortunately, the science of so-called probiotics lags far behind their growth in sales. In 2011, people bought $28 billion of probiotic foods and supplements, according to the research firm EuroMonitor International. But few of them have been tested as rigorously as conventional drugs.
+Nonetheless, he sees a few promising probiotic treatments.
+
+ A growing number of doctors are treating C. difficile with fecal transplants: Stool from a healthy donor is delivered like a suppository to an infected patient. The idea is that the good bacteria in the stool establish themselves in the gut and begin to compete with C. difficile. This year, researchers at the University of Alberta reviewed 124 fecal transplants and concluded that the procedure is safe and effective, with 83 per cent of patients experiencing immediate improvement as their internal ecosystems were restored.

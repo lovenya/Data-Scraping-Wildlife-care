@@ -1,0 +1,53 @@
+Tall peaks vulnerable to climate change
+
+ADVERTISEMENTAsia’s mountainous Hindu Kush-Himalayan (HKH) region, site of Mount Everest and many of the world’s tallest peaks, are extremely vulnerable to climate change, a new study has revealed.
+
+Kathmandu-based researchers from the International Centre for Integrated Mountain Development (ICIMOD) have said that as rising temperatures disturb the balance of snow, ice and water, threatening millions of mountain people and 1.3 billion people living downstream in Asia’s major river basins.
+
+The region offers livelihoods to the 210 million people living there and indirectly provides goods and services to the 1.3 billion people living in river basins downstream who benefit from food and energy.
+
+Rich in biodiversity, the region is home to some 25,000 plant and animal species, and contains a larger diversity of forest types than the Amazon. Yet despite an abundance of natural resources in the region, poverty is rife. 
+
+The HKH region, home to 30 percent of the world’s glaciers, has been called the “Third Pole”. But there are scant data on these glaciers. Using remote sensing studies, the project was able to tally the number of glaciers in the region, more than 54,000, and measure the area covered, 60,000 km. 
+
+Of these 54,000 glaciers, however, only ten have been studied regularly to determine the net loss or gain of ice and snow (called the mass balance). That handful of studies shows a loss of mass balance, with the rate of loss roughly doubling between 1980 and 2000 and 1996 and 2005. In the Everest area, the data show a marked acceleration in the loss of glacial mass between 2002 and 2005. Glaciers appear to be shrinking in both the central and eastern Himalayas. Country-specific studies have found that depletion of glacial area over the past 30 years was 22 percent in Bhutan and 21 percent in Nepal. 
+
+The clean glaciers of the Tibetan plateau are retreating at a faster rate than the glaciers of the rugged central Himalayas, which have higher debris cover; debris creates an insulating effect, slowing melting. Although field verification and additional data collection will be needed before firmer conclusions about glacier retreat can be drawn, the data represent a significant step in bridging the knowledge gap on climate change in the HKH.
+ 
+Smarter undersea robots come closer to reality
+
+Researchers including one of Indian-origin have demonstrated how a new software, which has been sponsored by the Office of Naval Research (ONR), helps robots become smarter at surveying large portions of the ocean.
+
+ Researchers at the Massachusetts Institute of Technology (MIT) and University of Southern California (USC) developed a persistent surveillance theory that provides a framework for decision-making software that maximizes a robot’s collection of information over a given area. It gives some guarantees on performance in dynamic environments. 
+
+“The ability to do surveillance that takes into account the actual conditions of the environment brings a whole new level of automation and capability,” Daniela Rus, co-director of MIT’s Computer Science and Artificial Intelligence Laboratory Center for Robotics, said. 
+
+“We have come up with a solution that lets the robot do local reasoning to make decisions and adjust the path autonomously without having to come up to the surface to interact with humans,” she said. The scientists produced an algorithm that incorporates both the user’s sensing priorities and environmental factors, such as ocean currents, into a computer model to help undersea robots conduct surveys and mapping missions more efficiently. 
+
+Tests proved the benefits of using the new algorithm. The scientists conducted two separate experiments using underwater robots called gliders, operated by oceanographers. They used two gliders, one with the algorithm and one without, to measure whether the experimental technology yielded better maps of algae blooms and other underwater phenomena in the Pacific Ocean. 
+
+“In areas where the oceanographers wanted more information, the persistent surveillance algorithm actually produces more detail,” Gaurav S. Sukhatme, ANTIDOTE’s principal investigator and director of USC’s Robotic Embedded Systems Lab, said. 
+
+“The system can automatically figure out how to divide its time between areas that are more interesting and areas that are less interesting,” he said. The algorithm helps the gliders decide when to spend more time looking at regions that have changes in activity or environmental factors. 
+
+Without the control algorithm, gliders paid equal attention to all areas and acquired less information during the experiments in Monterey Bay, Calif., and along the southern coastal waters near Los Angeles in October and November 2010.
+
+Farming key to survival of many threatened species
+
+A number of threatened species in the developing world are entirely dependent on human agriculture for their survival, a new study has found.
+
+ According to researchers at the University of East Anglia (UEA), rather than just using farmland to supplement their natural habitat, many species would actually be driven to extinction without it. 
+
+Species such as the White-shouldered Ibis in Cambodia, the Sociable Lapwing in Kazakhstan and the Liben Lark in Ethiopia rely on local people and their agriculture. 
+
+The greatest benefit comes from local communities practising traditional agriculture with low ecological impact. Valuable practices include grazing animals on land where rare species breed and feed, and growing cereal crops which provide a rich source of food. 
+
+“Conservation efforts in the developing world focus a lot of attention on forest species and pristine habitats – so people have usually been seen as a problem. But there are a number of threatened species – particularly birds but probably a whole range of wildlife – which heavily depend on the farmed environment,” Hugh Wright, the lead author, said. 
+
+“Many of the traditional farming systems that benefit these species are now under threat both from industrial, large-scale agriculture and from more local economic development. 
+
+We need to identify valuable farmland landscapes and support local people so that they can continue their traditional farming methods and help maintain this unique biodiversity,” he said. 
+
+Conserving biodiversity by supporting or mimicking traditional farming methods has long been a feature in Europe, but it has rarely been applied in developing countries. 
+
+The UEA researchers found at least 30 threatened or near threatened species relying on farmland in the developing world, but further research is likely to find many more.

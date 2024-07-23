@@ -1,0 +1,25 @@
+Picture this: You go to a local swimming pool on a warm summer’s day, put on your 
+diver’s mask and plunge in. As soon as you’re in the water, you take on the role of an underwater archaeologist, searching for a treasure chest!
+
+German researchers have developed the world’s first augmented reality (AR) system for underwater use, where a diver’s mask is fitted with a special display that superimposes computer-generated graphics in the diver’s line of sight. 
+Apart from applications in entertainment, the technology could also be used by professional divers in the maintenance of bridges, offshore oil rigs and dams.
+
+“Augmented reality research has made enormous progress in the last few years, creating many exciting, albeit land-based applications,” says researcher Lisa Blum of the Fraunhofer Institute for Applied Information Technology (FIT). “We are the first to demonstrate an AR application designed for underwater use.”
+
+Submerged use is a major challenge for technical systems. They must be waterproof and robust enough to withstand the high additional pressure of increasing diving depth.
+
+The FIT system’s main component is a waterproof display in front of a diver’s mask, which lets the diver see the real underwater environment along with additional virtual objects. 
+
+“Thus, a run-of-the-mill indoor pool may be visually upgraded to a virtual coral reef with shoals, mussels and weeds,” Blum says. 
+
+A camera – fitted on top of the diver’s mask – is connected to an ultra-mobile PC that the diver carries in a backpack. The system detects underwater markers in the camera’s video stream, and tracks the diver’s orientation using onboard sensors. Combining the technologies, a visually-aligned representation of the virtual 3D scenes is generated on the mask’s display.
+
+In the demo game, the diver is placed in the role of an underwater archaeologist searching for a treasure chest. The playground consists of six virtual ‘islands’ on the sea bed, each with its specific marine wildlife. 
+
+The treasure chest is located on one of the islands, but it then takes a code number to open the lock. The elements of this number can be found in ‘magical’ mussels that hide in the other five locations.
+
+“The user interface of this novel underwater game is highly intuitive and optimised for the swimming and diving player,” Blum says. 
+
+In fact, it all works without any manual interaction devices, she boasts.
+
+“For the player, our game combines the sensation of weightlessness under water with augmented reality, creating a unique exciting experience that may become a new special attraction for water parks,” she adds.

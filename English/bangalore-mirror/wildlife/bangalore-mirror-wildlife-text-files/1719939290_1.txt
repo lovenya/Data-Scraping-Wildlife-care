@@ -1,0 +1,22 @@
+By Melvin Mathew
+
+Ministry of Road Transport and Highways of India to rely on artificial intelligence to prevent road accidents and traffic violations
+
+With an aim to reduce deaths caused by accidents in the country, the Ministry of Road Transport and Highways of India (Morth) is planning to use Intelligent Transport Management Systems (ITMS) on highway roads.
+ 
+To develop the technology for the project, Morth had invited applications from Hackathon and at the two-day national conference Manthan, the five winners of the ITMS hackathon were announced. Out of the five winners, one o is a Bengaluru-based startup Pixute by Cocoslabs.
+ 
+Akshata Kari, COO, Pixute by Cocoslabs, said, “We aim to reduce accidents by at least 20-40 per cent. Our goal is the accident-prone Tumakuru-Ghat toll. We are taking up a CSR project there to conduct the impact study by implementing road-speed calming systems. This pilot will likely last for 4-6 months.”
+ 
+A lot of traffic intelligence is moving to the camera software. Utilising any camera, our AI-based software can identify multiple traffic violations. Real-time detection of these violations can be communicated to the Central Command centre. They are informed about the type of violations; location and the violation is linked to the number plate, added Kari.
+ 
+Additionally, the software can also detect seatbelt, triple-riding and helmet violations. It will also enable early detection and management of accidents and provide travel advisory & warnings to road users about potential accidents. It can also alert drivers about road conditions.
+ 
+Under Phase I, the company will install multi-sensor ITMS systems for high-speed detection (up to 180Kmph) – using ANPR (Automatic Number Plate Recognition); wrong lane/side driving, wildlife/human crossing, fallen object/accident on the highway detection; etc.
+
+ We aim to reduce accidents by at least 20 - 40 per cent ­–Akshata Kari, COO, Pixute by Cocoslabs 
+In Phase II, they will focus on Variable Signboard Implementation (VMS) alerting on lane closures, reduced lane speed ahead, average lane speed, fogging etc and backend alerting of slow-speed violators, stolen/ blacklisted vehicles, crowding, vehicle stoppage, etc. Phase III will be on the integrations part such as violation challan generation using the E-Challan platform and existing ICCC integration.
+ 
+Currently, there are few variable signboards and static message boards. The company plan on turning the static messages into dynamic messaging boards based on data captured from AI and cameras.
+ 
+According to the company, the ANPR recognition is 90 per cent accurate and being an Indian-based AI, it can detect all types of Indian-made vehicles and discern between pedestrians and vehicles.
