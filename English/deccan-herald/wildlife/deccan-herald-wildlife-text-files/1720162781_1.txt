@@ -1,0 +1,39 @@
+Unmanned Aerial Vehicles (UAVs), commonly known as drones, have of late changed the concept of warfare. They have reduced the number of casualties that used to take place in a ‘manned platform’.  An aerial vehicle can be remotely controlled from thousands of kilometres away.
+
+ADVERTISEMENTBut, in India, there was a concern with regard to the use of drones. Drones, being unregulated earlier, posed a tremendous threat to security along with the coherent treat of espionage and snooping. “We call it Special Technical Help (STH) in the army. It provides a lot of aid to the foot soldier with technical assistance,” says war veteran Colonel Mir Ziauddin.
+
+Benefits galore
+
+But, all this doesn’t undermine its benefits for civilian usage. Drones have been used for aerial crop surveys, aerial photography, search and rescue, inspection of power lines and pipelines, counting wildlife, delivering medical supplies to otherwise inaccessible regions, and detecting illegal hunting, reconnaissance, cooperative environment monitoring, border patrol missions, convoy protection, forest fire detection and monitoring, among many others.
+
+“If put to good use, its benefits are immense — for government, security agencies, companies, researchers, retailers and aviation enthusiasts. At the same time, its versatility, small size and wide reach can be misused for invasion of privacy, strategic or commercial espionage, collision with flying aircraft and ground assets; delivery of explosives and contraband, among others,” says Amber Dubey, Partner and India Head of Aerospace and Defence at global consultancy KPMG.
+
+New draft
+
+Recently, the Directorate General of Civil Aviation (DGCA) came out with draft guidelines for civil use of UAVs. As per the guidelines, UAV operations at or above 200 feet AGL (above ground level) in uncontrolled airspace will require permit from the DGCA. Also, operation of civil UAV in controlled airspace is restricted under the proposed norms. However, according to the guidelines, civil UAV operations below 200 ft AGL in uncontrolled airspace will not require a UAOP (Unmanned Aerial Operation). 
+
+Welcome step
+
+Some experts see these draft guidelines as a welcome step. “There is a market in India for usage of drones in areas like commercial photography, policing duties, and survey of land, rivers and industrial facilities. In view of such civil applications, it is necessary to develop a policy to regulate this activity. Potential customers have always been hesitant in employing drones for commercial use due to absence of regulations and clarity in the approval process,”  says Rajiv Chib, Director of Aerospace and Defence at PwC India.
+
+Seconding Chib, Dubey goes on to say, “The draft guidelines proposed by the DGCA is a good start. It will help promote growth of UAVs in India, help serve India’s remote communities, assist in disaster monitoring and relief, promote ‘Make in India’, and excite Indian youth. India is heavily dependent on Israel for its military drones. That may gradually reduce, as the nascent Indian UAV industry grows.”
+
+Colonel Zia, stating that security should be paramount, draws a parallel between the US gun regulations, and UAVs, if not regulated. “If not controlled, it will be like the US gun law. Till the time the government realises the harm in it, the mafia controlling it will have created a strong lobby.” 
+
+Air Marshall B K Pandey gives an entirely different perspective. “Once the government steps in, nothing is going to happen,” says Pandey. Though he believes that regulating drones is the need of the hour, he has doubts whether the DGCA can implement this policy. “The answer lies in promoting the industry in such a way that it is a healthy growth. But the DGCA always proves to be obstructionist in most of the cases,” he says. He also believes that the future belongs to UAVs saying, “There is a reduction in the casualties. Also, the amount of support that a manned aerial vehicle needed is eliminated.”
+
+Concerns exist
+
+Even for the experts who praised it, there are some issues that they think need to be addressed. “While import and manufacturing of UAV need to be licensed, some of the DGCA guidelines need to be liberalised. The height restriction of 200 ft for UAOP should be increased to at least 500 ft.  There should be no need to file a flight plan for operations below 500 ft in unrestricted areas. Visual Line of Sight (VLOS) restrictions should go — it restricts the utility of a UAV fitted with a camera and product delivery capability. The airspace restriction over a 30 km radius from Rashtrapati Bhawan is excessive and needs to be pruned down to reasonable limits — say around 5 km,” says Dubey.
+
+“It is hoped that approvals will be simple and efficiently regulated. We cannot have 90-day periods to obtain such approvals. Overall, the policy should assist the drone market in finding its rightful place in India.  In areas of restricted airspace, security and safety issues play a major role. They are equally important, however, we need to be careful that we do not go overboard  with  over stringent norms and stifle the market,” thinks Chib.
+
+According to the data available with UAVGLOBAL, there are 443 manufacturers of drones globally, out of which 299 are military manufacturers and rest are civilian manufacturers. India has eight manufacturers of drones, which are Aurora Integrated Systems (TATA), Defence Research & Development Organisation (DRDO), Idea Forge, Hindustan Aeronautics, Kadet Defence Systems, National Aerospace Laboratories, OM UAV Systems and Speck Systems. 
+
+More drones to come
+
+“Apart from concentrating on its various products, HAL would like to emerge as the ‘One Stop Centre’ for all types of UAVs in future. Hindustan Aeronautics Limited (HAL) has also created a Strategic Business Unit for design, development and production of a full range of UAVs. HAL has designed and developed Mini UAV. We are collaborating with Defence Research and Development Organisation (DRDO) and CSIR-NAL for the Micro and Medium Altitude Long Endurance (MALE) UAVs,” says T Suvarna Raju, Chairman and MD of HAL. 
+
+HAL has designed and developed Mini UAV of the eight kilogram class, which is undergoing extensive flight testing. The company has also signed a Memorandum of Understanding (MoU) with Aeronautical Development Establishment (ADE) for cooperation in design, development and production of Medium Altitude Long Endurance (MALE) UAV ‘Rustom II’. HAL would ruggedise and productionise the Micro UAVs of 0.5-4 kilogram class developed by ADE, and CSIR-NAL. HAL has also set up maintenance facilities for UAVs. As a nodal agency, HAL is supporting the Searcher Mk1, Mk2 and Heron MALE UAVs acquired by the Indian Armed Forces and strategic agencies,” adds Raju. 
+
+In a country like India, with hostile neighbours providing a swarming ground to many Violent Non-State Actors (VSNAs) acting against itself, security concerns should be prioritised. But the government and its agencies must work out a way to balance it, so not to harm the interests of business.

@@ -1,0 +1,35 @@
+As cell phone networks grow exponentially connecting every corner of the country, researchers and environmentalists are jittery about the impact of electromagnetic radiation on birds, bees and other animals.
+
+ While there is no conclusive scientific evidence on how it works, a large volume of scientific literature shows that the electromagnetic field does have an adverse long-term impact on the biological and behavioural systems, though the causal mechanism remains unknown.
+
+With an 800 million-plus subscriber base, India has the world’s second largest mobile user population, set to cross the one-billion mark in another two years. In the absence of any regulation in most of the states till recently, millions of mobile phone towers have come up all over the country without any assessment on what could be their impact on the ecology and wildlife. Thousands of kilometers of high-tension electrical lines that criss-cross the nation also contribute to the natural environment’s increasing electromagnetic load.
+
+MoEF’s expert panel
+A ministerial expert panel has waved the red flag now. “The review of existing literature shows that electromagnetic radiation is interfering with the biological systems in more ways than one and there have already been some warning bells sounded in the case of bees and birds, which probably heralds the seriousness of this issue and indicates the vulnerability of other species as well,” the expert panel said in its report. 
+
+Set up by the Union Ministry of Environment and Forests last year following a Lok Sabha query, the 10-member panel headed by Asad Rahmani, director of Bombay Natural History Museum said while there were few reassuring reports, a vast majority of published literature indicated deleterious effects of electromagnetic field in various species. The panel has representation from Indian Institute of Science, Bangalore, electrical engineering department of Indian Institute of Technology, Delhi and the Department of Telecommunication.
+
+Analysing 919 scientific studies on the impact of birds, bees, humans, other animals and plants published in the literature, the panel found as many 593 studies depicting long-term adverse health impacts while 130 studies could not spot such an impact. As many as 196 studies remain inconclusive. 
+
+Most of the short-term studies primarily looked at the thermal impacts of EMR exposure on biological systems. They failed to detect any substantially significant changes in the biological process and could not prove any acute change in health conditions at the present background level of exposure.
+
+Impact on immunity, behaviour, etc
+On the other hand, long-term studies reported alarming observations detecting negative consequences on immunity, reproductive success, behaviour, communication and coordination among all and sundry. The impact on birds and bees is relatively more evident.
+
+Though EMR’s influence on birds has been studied since the late 1960s, most of the studies so far have been limited to results of the radiation heat on egg development and chick formation. The non-thermal effects on the reproductive cycle were seen in a handful of isolated studies. Decline of house sparrows and their changed behaviour have been attributed to the growth of cell phone towers too in studies carried out abroad.  
+      
+In a similar Indian study, house sparrow population was found fast disappearing from Bhopal, Nagpur, Jabalpur, Ujjain, Gwalior, Chhindwara, Indore and Betul due to a sharp increase in cell phone numbers. In another experiment, Punjab University zoologists exposed 50 eggs of house sparrows to EMR for five to 30 minutes and found that all the 50 embryos were damaged in some form or other.
+
+The Punjab University team also demonstrated how cell phone radiation destroyed honey bee colonies in a phenomenon called colony collapse disorder. The West Coast of the USA is thought to have lost 60 per cent of its commercial bee population while the loss is 70 per cent in East Coast. Colony collapse disorder has also spread to Germany, Switzerland, Spain, Portugal, Italy, Greece and UK. 
+
+There are studies to show that bees lose their navigational skills after being exposed to electromagnetic radiation. Another study carried out by zoologists in the University of Kerala found that if mobile phones in working conditions with frequency 900 MHz are kept for 10 minutes in a beehive, the worker bees stopped coming to the hive after 10 days. Both studies in Punjab and Kerala observed a drastic drop in egg production by the queen bees. Any impact on the bee population can in turn have a negative influence on agriculture.
+
+The team also assessed the International Commission on Non-Ionizing Radiation Protection guideline, often flaunted by the telecomm industry to claim that non-ionising radiation can not pose any threat to biological system. It found that both ICNIRP and Institute of Electrical and Electronics Engineers (IEEE) do not take a large body of published scientific literature into account in the absence of any scientific proof on causal evidence.
+
+Panel’s suggestions
+The Rahmani panel, on the other hand, prefers a precautionary approach to minimise the exposure level and considering EMR as pollution, which would have to be tackled through a law later. For the moment, it suggested bringing about some regulations on the installation of mobile towers and carrying out much more research to come out with definitive answers for many unanswered questions. It suggested controlling installation of mobile phone towers in the vicinity of wildlife protected areas, bird sanctuaries, Ramsar sites, turtle breeding areas, bee colonies and zoos.
+
+Also it asked the Department of Telecommunications to publish the location of all cell phone towers on a GIS map, which will help monitor the population of birds and bees in and around the towers. Unfortunately barring Delhi and West Bengal, no state has any guidelines, whatsoever, on mobile phone tower installation.
+
+For new towers, the panel’s suggestion is new towers must be above 80 ft and below 199 ft to avoid the requirement for aviation safety lighting.  It also recommended constructing towers on a platform which can be relocated in future and construct them at existing “antenna farms”, away from high migratory bird traffic, wetlands and other bird sites.
+ADVERTISEMENT

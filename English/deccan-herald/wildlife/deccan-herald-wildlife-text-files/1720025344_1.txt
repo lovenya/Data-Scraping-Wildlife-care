@@ -1,0 +1,17 @@
+Scientists have cracked the code of how mosquitoes develop immunity to virus, potentially opening the way to better vaccines for diseases such as dengue.
+
+ADVERTISEMENTA team from the Commonwealth Scientific and Industrial Research Organisation (CSIRO) Lab, in Geelong, has shown Vago, a protein previously identified in fruit flies, is released by infected mosquito cells, warning other cells to defend against the invading virus.
+
+Mosquito-transmitted emerging viruses, such as dengue, Japanese encephalitis and West Nile threaten the health of our people, livestock and wildlife. Globally, dengue infects 50-100 million people and kills around 22,000 people annually, the journal Proceedings of the National Academy  of Sciences reported.
+
+According to Peter Walker, professor at CSIRO, these insect vectors present a particular biosecurity risk for Australia as they are rapidly spreading into new areas driven by a number of factors including climate change and increased travel and trade.
+
+"Difficulties in generating safe and effective vaccines for many of these pathogens present significant challenges due to their complex ecology and the range of hosts the viruses can infect," Walker said, according to a CSIRO statement.
+
+"Until now, very little was known about the defensive anti-viral response of insects. Unlike humans and other mammals, insects lack key components of the immune response including antibodies, T-cells and many important cytokines (a category of signalling molecules), such as interferon."
+
+Using West Nile Virus as their infection model, the research team has demonstrated that, although unrelated structurally, Vago acts in mosquitoes like human interferon.
+
+"Mosquito cells can sense the presence of a virus  by detecting its small genome, stimulating the secretion of Vago. The secreted Vago then binds to receptors on other cells, signalling an anti-viral defensive response to limit the infection. 
+
+"This is the first demonstration that such a  mechanism exists in mosquitoes or any other invertebrate," Walker said.

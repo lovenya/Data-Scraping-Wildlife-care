@@ -1,0 +1,17 @@
+LRAD tech, infrasound and lights at right angles on tracks can stop trains killing wildlife
+
+A Bengaluru-based veterinarian with considerable experience in treating and rehabilitating wildlife has written to the Union minister of railways to consider existing technologies to check wildlife casualties on railway tracks, especially elephants run over by trains.
+
+Colonel Dr Navaz Shariff, chief vet at the People for Animals, Bengaluru, said more than 50 elephants have been killed on railway tracks since 2010, including the recent incident where a seven-month-old calf was knocked dead by a train at Bhelaguri in Jorhat, Assam. Quite often, wild animals are killed on rail tracks traversing forests.
+
+A possible solution is utilising existing technologies such as the Long Range Acoustic Device (LRAD), Infrasound and installation of lights directed at right angles on tracks in the forest ranges, Dr Shariff wrote in his letter.
+
+LRAD is a fool-proof technology that can save the lives of several animals. The technology is not just fairly simple but also works on minimal energy, perhaps solar-driven. Upon installation, when a train with RFID/ barcode/QR code crosses the sensors placed on the track, LRAD is triggered. LRAD then actuates and emits sound waves repulsive to wildlife approaching or on the tracks, keeping them away from the vicinity.
+
+As the train leaves, the LRAD is turned off, ensuring safe animal crossing.
+
+Similarly, elephants react to infrasound. This is one of the reasons they’re so quick to react when a natural disaster is looming, such as an earthquake. Installation of infrasound can keep elephants away from railway tracks.
+ 
+Furthermore, the installation of lights directed at right angles from the tracks can also be done to ensure elephants do not approach the tracks at night.
+
+According to Dr Shariff, the requisites for installing this technology is a sensor mechanism to detect trains: “Sensors could be placed in between railway tracks around every 3 to 4 km based on the sound propagation, an actuator for the LRAD, and LRAD itself. As the train approaches a forest zone, the sensor sends a message to the actuator so that LRAD could emit sound waves at prefixed decibel range to ward off wild animals from train tracks.”

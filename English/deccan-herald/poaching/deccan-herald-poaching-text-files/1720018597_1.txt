@@ -1,0 +1,63 @@
+A flurry of complaints from Uber drivers about an unusually high number of cancelled bookings was the spark that ignited a bitter legal fight with Ola, Uber's rival for dominance of India's $12 billion taxi market, according to court documents and a source with direct knowledge of Uber's case.
+
+ADVERTISEMENTA seven-member internal team was set up to investigate the drivers' complaints in November, and its findings are the basis of a lawsuit filed by Uber accusing Ola of a campaign to disrupt its business and poach its drivers, said the source.
+
+Ola, an Indian company backed by Japan's SoftBank Group Corp , denies any wrongdoing.
+
+Uber is suing Ola for $7.5 million to compensate for lost revenue and goodwill, alleging the Indian market leader created about 94,000 fake user accounts with the ride-hailing service and used them to make more than 405,000 false bookings.
+
+The broad outlines of the lawsuit were reported when it was filed last month, but a Reuters review of court filings and interviews with sources close to both sides have uncovered new details about how Uber says it was able to trace fake bookings and calls to Ola employees, and Ola's response to the allegations.
+
+It paints a picture of a no-holds-barred corporate battle between the two start-ups in one of the world's fastest growing taxi markets, where both have been burning millions of dollars of investor money as they seek to undercut each other with cheaper fares.
+
+A source close to Ola said the case against it had been fabricated in retaliation for a lawsuit it had filed earlier this year accusing Uber of flouting a court order to switch to clean-fuel cars in the Indian capital.
+
+Uber said it could not comment on a matter that was still before the courts, and Reuters was unable to independently verify the allegations made by either side.
+
+SoftBank, one of Ola's largest investors, declined to comment on the case.
+
+FOUR-MONTH INVESTIGATION
+
+Uber's investigation identified locations and internet protocol addresses of tens of thousands of users who had booked and cancelled rides, using information logged when a new customer account is created on Uber's platform, the source familiar with the company's case said.
+
+In court documents, Uber says it found 660 accounts used to make troublesome bookings came from a building housing Ola's office in the western city of Pune. Most of the rest were created near Ola's office in the tech hub Bengaluru, it said.
+
+In the court filings, Uber said more than 23,000 of its drivers quit due to "illegal and wrongful interference" between September 2015 and February 2016.
+
+The source close to Ola said the company had made its own checks and found no correlations in the thousands of data points submitted by Uber in its complaint, which included names and mobile phone numbers alleged to belong to Ola employees.
+
+The data could have been compiled in a few hours using names, business addresses and phone numbers linked to Ola that could be looked up online, the source said.
+
+The Delhi High Court has set a hearing on the latest case in September. Ola's case against Uber is before the same court.
+
+The backdrop to the legal sparring is a relentless price war between Uber and Ola, who also offer competing incentives to lure drivers.
+
+"The one which lasts the longest will eventually win and enjoy monopoly power," said Neil Shah, research director at Counterpoint Research.
+
+Counterpoint estimates Uber's growth has outpaced Ola over the last two years, when it doubled its market share to 26.5 percent. Ola, however, still leads with 52 percent share.
+
+LINKEDIN PROFILES, GOOGLE MAPS
+
+Uber's legal submissions included several images of LinkedIn profiles, locations pinpointed with Google Maps and hundreds of phone numbers it said belonged to people associated with Ola.
+
+Reuters called dozens of those numbers, but most were not operational.
+
+One number cited in court documents, from which 74 cancellations were made, belonged to a user identified as Kisan Kumar.
+
+When Reuters called the number, the person answering identified himself as college student Shashank Kumar in Pune and said Kisan was his brother.
+
+Shashank said he often used Uber and Ola but had not made repeated cancellations on the Uber platform. Reuters was unable to contact Kisan for comment.
+
+Another number Reuters was able to connect to belonged to someone identified as "Shiv D" in Uber's filings, which alleged he created 30 fake accounts to book and cancel dozens of rides.
+
+Shiv D said he had worked for Ola helping drivers get new cars, but denied Uber's allegations and said he had since left the company.
+
+The fake bookings are not the only accusation levelled by Uber against Ola.
+
+Uber says one of its biggest losses of earnings came on New Year's Eve, when drivers in New Delhi began getting calls around 5 p.m. telling them to shut off the ride-hailing app as there was a technical glitch that needed to be fixed.
+
+When they checked back hours later to see if they could get back online they were told Uber had made no such calls.
+
+Uber says in the court documents its investigation traced the source of the calls to two numbers registered in Ola's name. Reuters was able to confirm by dialling that one of the numbers identified in the documents was an Ola call centre.
+
+The source close to Ola denied it made the calls and said the company's call centre number was public information that Uber's team could simply have looked up

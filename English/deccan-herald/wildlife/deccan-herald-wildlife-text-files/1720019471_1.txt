@@ -1,0 +1,42 @@
+Management plans for the conservation of Indian wildlife depend on knowing the actual number of animals in a protected area, every year. These numbers are not only important as indicators of “species health”, but also determine promotions, transfers and other life-altering decisions that affect the staff of the Forest Department. 
+
+ADVERTISEMENTBut actual numbers of animals in our forest mean little for the protection and conservation of the animals themselves. While this can be partially attributed to patchy protected area enforcement, much of the responsibility lies in the way science and scientific results are manipulated to produce desired outcomes.
+
+Like corporate timber harvesting
+
+The system of forest management in India is based on the idea of corporate timber harvesting operations. The Forest Department under the British was mainly assigned the role of optimising timber production for the various industrialising schemes that the British government had instituted, including supplying their World War I effort. This management regime has changed very little after Independence, and is still useful in territorial forest divisions where timber harvests are the main concern. 
+
+Where this system falters is when it is applied to much more dynamic populations of animals that move and hide. Making accounts for things that are often invisible or unknown, hidden behind trees or under the sea, can be frustrating if not impossible. Hence the expectation is that certain techniques will allow the invisible to become visible such that they can be accounted for in the Forest Department’s calculations.
+
+These techniques involve the use of established scientific methods such as transects or camera-trapping to spot wildlife and then combining these results with statistics to be able to predict the unseen. These results, however, do not often appear in a form that is usable by the Forest Department. Keeping accounts requires tallying accurate numbers, but when science does not produce an actual number, the whole premise of this accounting goes haywire. While this logic certainly argues for the need for absolute results, it says nothing about the validity of such account keeping in the first place. 
+What science tells us…
+
+Census techniques such as those used in the decadal Indian population census are standardised through statistics and therefore accepted in spite of the inaccuracies caused by people moving around and not being counted. In situations where even less is known, such as when estimating wildlife populations, scientific methods can give us clues that normal observations cannot.
+
+ Errors are accounted for by systematic data collection, and this data is generalised to account for the animals that were not seen during the data collection, using statistics. What results from these studies is a very reliable approximation of the number of animals in an area. Usually, the absolute number that is publicised is the average number within the specific range of the approximate number of animals.
+
+It is important that the decision-makers realise that an average is not always the best way to represent the results of a population estimate of an endangered species. Since the output of the scientific studies is a limited range of population sizes, the actual population could fall anywhere in that range and the average could be an overestimate or an underestimate if it is not accurate. While this range is usually small, even a minor overestimate could have serious consequences if the management plan based on this overestimate is in effect for a decade or longer. 
+
+For instance, the cod fisheries of North-East USA are grounded in management plans that use average population sizes to set fish-catch limits. Cod fish is a much-prized seafood that has been fished to the point of being endangered. Now strict limits are enforced on their harvest and these limits are based on scientific data. However, recently the results of one of the scientific evaluations of the species were slightly misinterpreted, resulting in the management regime being based on an overestimate of the population. 
+
+As a result, more cod were harvested than was ecologically sustainable. At present, cod populations have crashed with the fishing potentially being banned until the population recovers. 
+
+While scientific studies on population produce results that create a slight fuzziness in the way we think about the number of fish or any other animal in an ecosystem, it gives us a truthful picture of what is known about a species. 
+
+Obtaining a small range within which ‘the correct answer’ lies, makes for poor account keeping, but it is also very useful. Given the failures that have resulted from basing management on absolute numbers, some governments have begun to embrace scientific results that incorporate uncertainty. Far from suggesting that scientists do not know anything, this uncertainty around results are now viewed as a means to clarify exactly what is known or unknown about an ecosystem or species. Scientific uncertainty is now the way forward. 
+
+Into the future
+
+At present conservation science and policy in India are highly mistrustful of each other, and this is rightly so. Neither has had a good history of interacting with and understanding the other. However, if we can use the experience of others to guide our path, these divergences can soon be resolved. The Food and Agriculture Organisation of the UN has proposed a new way to manage and conserve fisheries, called the ‘Ecosystem Approach to Fisheries’.
+
+They define it as, “an approach to fisheries which strives to balance diverse societal objectives by taking account of the knowledge and uncertainties about biotic, abiotic and human components of ecosystems and their interactions and applying an integrated approach to fisheries within ecologically meaningful boundaries”. Thus uncertainty is very much a part of the way fisheries science will move forward.
+
+An example of a new perspective on science in policy is the one being used by the National Marine Fisheries Service (NMFS) of the USA. They base their recommended sustainable fishing limits on scientific assessments of different fish species and populations. As is typical of many scientific population studies, the studies of these fish produce results that identify a maximum and minimum number within which they expect the actual population number to fall. 
+
+The model that NMFS used to follow was similar to that of the Indian Forest Service, to keep accounts of how many fish are in the water, in order to decide how best to harvest or protect them. However, NMFS has now changed its perspective, embracing the fuzzy numbers that scientific assessments produce. 
+
+The range of population numbers produced by studies are used by the NMFS to decide how much of a risk they are willing to take with a species. The more endangered a species, the more likely they are to choose a harvest limit based on the lowest population estimate in the range provided. 
+
+This kind of use of information is amenable to being adapted and adopted in other countries. 
+
+If the Indian Forest Service were to similarly embrace science with all its inaccuracies, perhaps this could provide a basis to better prioritise exactly how different species are managed. Science-based conservation could actually become possible in India, provided that scientific results are understood and used appropriately.

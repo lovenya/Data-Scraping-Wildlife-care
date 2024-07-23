@@ -1,0 +1,29 @@
+A software-based system for smart phone enabled surveillance and tracking has been developed by the state-run Gujarat Info Petro limited which will find diverse applications in sectors like forest and agriculture.
+
+ADVERTISEMENTThis system will be of great help in conservation of endangered species of Asiatic lions in Gir and other flora- fauna found in forests of Gujarat.
+
+"We have developed an unique MIS system on GIS base for surveillance and tracking. It can be run on a windows operated mobile phone to identify exact location of the trouble prone areas in dense forests," GIPL CEO Vijay Sharma said.
+
+"The system which updates the server over the air (OTR), eradicates the need for physical filing of data on a computer, and can also conduct digital surveys of the agricultural fields," he said.
+
+Management Information System (MIS), till now has been confined to laptop and desktop usage. It is widely used by the industry as a ERP solution, for effectively managing the organisations.
+
+Superimposing, MIS data on Geographic Information System (GIS), for quick referencing had been a challenge so far for the ICT sector.
+
+"A forest beat guard armed with such a software driven mobile phone can help check acts of poaching, fire, tree cutting, encroachments on forest land, by clicking a picture of the site and sending it through SMS to the server," he said. 
+
+"The moment a picture (with the location, longitude and latitude) lands on the server an alert is generated to the concerned person and rescue teams can be rushed to the exact spot in very short time," Sharma said, explaining how the system operates.
+
+"Using the GPS feature the location of forest beat guard can also be tracked, through PDA (smart phone) based mobile surveillance system, so that the forest department can keep an eye on whether they are performing their duties or not," Sharma said.
+
+GIPL, is a wholly owned subsidiary of the state run Gujarat State Petroleum Corporation (GSPC). The company has developed the technology for Gujarat Forest Department.
+
+The company is in the process of developing a system based on similar technology for the Gujarat Seed Certificate Corporation that would help in conducting surveys of the agricultural fields.
+
+"We are developing a system for the state Seed Certificate Corporation that would help in surveying the field area and also help estimate its potential yield," Sharma said.
+
+The states of Andhra Pradesh and Maharashtra have evinced interest in adopting this mobile based invention for surveillance and tracking.
+
+The company recently bagged the best innovation award instituted by state ICT body Gujarat Electronics and Software Industries Association (GESIA).
+
+The project has been supported by the Gujarat's Forest Department.

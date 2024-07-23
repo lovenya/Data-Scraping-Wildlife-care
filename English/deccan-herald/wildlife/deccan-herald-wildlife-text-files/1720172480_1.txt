@@ -1,0 +1,15 @@
+Catching killer weeds and invasive species has just got easier with geographic profiling (GP), a statistical tool that tracks wanted criminals, a study reveals.
+
+ADVERTISEMENTA team led by Steven Le Comber, from The School of Biological and Chemical Sciences, Queen Mary, University of London,  has shown that GP can also identify the source of invasive animals and plants, such as Giant hogweed and Japanese knotweed. 
+
+GP uses the locations of linked crimes (murder, rape or arson), to identify the predicted location of the offender's residence, the journal Ecography reported. 
+
+Invasive species, are now viewed as the second most important driver of world biodiversity loss behind habitat destruction, said a university statement. 
+
+"We found that existing methods performed reasonably well finding a single source, but did much less well (than GP) when there were multiple sources -- as is typically the case as invasive species spread," said Comber. 
+
+The cost of invasive species can run into billions of dollars. Therefore, prevention and control of invasive species is a priority for conservation bodies, wildlife and agriculture ministries globally. 
+
+The team also analysed historical data from the Biological Records Centre (BRC) for 53 invasive species in the UK, ranging from marine invertebrates to woody trees and from a wide variety of habitats to attempt to identify the source of each species. 
+
+In both the computer simulations and the real datasets, GP dramatically outperformed other techniques, particularly as the number of sources (or potential sources) increased.

@@ -1,0 +1,27 @@
+Leeches are offering the best hope of finding one of the world’s rarest animals. Ewen Callaway reports on how researchers are using DNA from the leeches’ most recent meal to track down Vietnam’s elusive saola.
+
+ADVERTISEMENT<img src="https://images.deccanherald.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticle_images%2F2012%2F05%2F07%2FSaola.jpg?w=1200" alt=""/>The saola (pseudoryx nghetinhensis) was first described from skulls found in a Vietnamese forest reserve, but the elusive antelope has rarely been seen alive. Little is known about its range or population, which probably numbers in the low hundreds.
+
+Conservationists are now planning to trawl tropical leeches for saola DNA. Prompted by published research showing that the bloodsuckers can store DNA from their meals for several months, the saola search is at the vanguard of an approach to gauging biodiversity that could prove much more efficient than conventional methods. Rather than setting out camera traps, the idea is to collect and sequence DNA left in the environment, in everything from soil to leeches’ stomachs. “I am almost sure that in 10 years all the research on biodiversity will be done with DNA, because it will be so easy to get this type of information and the cost is not very high,” says Pierre Taberlet, a geneticist at Joseph Fourier University in Grenoble, France, and co-editor of the April issue of Molecular Ecology, which is devoted to the emerging field of studying environmental DNA.
+
+The saola is so elusive that it has been dubbed the Asian unicorn. It hadn’t been spotted for a decade until 2010, when villagers in the Laotian province of Bolikhamxay caught one alive, only for the animal to die after a few days in captivity.
+
+In 2011, Vietnam established a small saola reserve in the animal’s only known habitat, the Annamite Mountains that straddle the country’s border with Laos. A more precise estimate of the antelope’s range would help to target conservation efforts, says Nicholas Wilkinson, a Vietnam-based wildlife ecologist at the University of Cambridge, UK, who is working with the conservation group WWF. 
+
+Their team failed to find the saola using camera traps and considered bringing in trained dogs to help the hunt, at an estimated cost of $400,000. “I, to a large extent, had given up on finding a survey method that would be useful in time to save the species,” Wilkinson says.
+
+Forging ahead
+
+But last year, he received an email from geneticist Thomas Gilbert at the University of Copenhagen, describing his experiments with leeches. Gilbert, his colleague Mads Bertelsen and their team had fed goat blood to medicinal leeches (Hirudo spp) – something that is “a lot harder than it sounds”, says Gilbert. 
+
+The team resorted to tempting the creatures with blood-filled condoms warmed under a heat-lamp, and putting the leeches into syringes attached to blood-filled test tubes sealed by a thin film. After killing the leeches over the course of several months, the team identified goat DNA in every one of them.
+
+To see whether the technique could find mammal DNA in the wild, Gilbert asked Wilkinson to ship him some tropical leeches (haemadipsa spp). Wilkinson collected them on the Vietnamese side of the Annamite Range and sent them to Copenhagen. Gilbert’s team did not find any saola DNA, but 21 of the 25 leeches they tested contained DNA from other mammals, including the Truong Son muntjac deer (muntiacus truongsonensis) and the Annamite striped rabbit (nesolagus timinsi), which was discovered only a decade ago. The International Union for Conservation of Nature (IUCN) lists both species as “data deficient” because scientists know so little about their populations or habitat.
+
+“It is a very easy way to get a snapshot of what animals are in the area,” says Gilbert.
+
+Leeches are impossible to avoid in tropical forests, and they can be collected by the dozen by simply peeling them off intrepid researchers’ clothes. The plummeting cost of DNA sequencing makes leech surveys cheap, and DNA from hundreds of the animals could be combined and analyzed in a single experiment.
+
+The method is unlikely to provide information about an animal’s population, but leeches should help to pin down its range. The Vietnam field trial suggests that leeches preserve DNA from only their most recent blood meal, so an animal’s range is likely to include the location where the leech was found. Surveying leech blood is just one of many ways to collect environmental DNA that have emerged in recent years. In the Molecular Ecology special issue, various research teams worked out the diet of a leopard by sequencing DNA in its faeces; tracked earthworm communities in soil; and reconstructed ancient Siberian habitats from DNA preserved in permafrost. Meanwhile, Australian scientists have found DNA from critically endangered species and potentially toxic plants in traditional Chinese medicines.
+
+Researchers refer to environmental DNA studies as “meta-bar-coding,” because they rely on DNA bar codes: short DNA sequences that uniquely identify a species. Bar-coding makes it possible to distinguish between two species of butterfly, for example, by sequencing just a portion of a gene. But much of the DNA recovered from environmental sources such as soil or faeces has been shredded into short strands, and existing bar-coding databases tend to contain the longer stretches that were identified with old DNA sequencing technologies.

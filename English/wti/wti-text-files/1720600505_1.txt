@@ -1,0 +1,25 @@
+The following is a first person account by Jose Louise on his experiment with technology to fight wildlife trade in Bhutan.
+Who wants yet another booklet in the bag to misplace? Why can’t the identification guide be electronic?
+Chhoglay Namgyal, member of the Forest Protection and Surveillance Unit (FPSU, and I were in the middle of a month-long training for the frontline forest guards of Bhutan, travelling from one end of the country to another conducting joint training programmes on wildlife crime prevention and management .
+A PDF file in the mobile phone is not a bad idea, but why not an app itself?
+
+My former career in IT still refuses to let go and the idea to develop an app for species identification was thus born.
+Finding the right developer was the toughest task. The first company we approached was ready to make the app within a month after going through the concept and presentations, but they quoted a sum enough to develop another version of Android OS all together.
+Subsequent developers we met did not fit the bill and time was running out. Then a common friend introduced me to a young app developer based at Mumbai who was ready to take a look at the concept. He responded to my email within an hour, saying that he was ready to give it a try.
+After an hour long discussion on the phone, he was ready to make a prototype even without a payment! “I love wildlife and I am ready to do this for the cause at a minimal cost and the risk is all mine”, he said. That’s how the prototype came into being.
+Developing an app is not an easy task, even if it is mostly static mobile-based software.While the developers need each detail, you need to be clear about navigation, communication, information security and even aesthetic options.
+
+
+Here’s what we needed for an interactive guide for illegal wildlife trade species identification:
+
+The ability for an authorized user to search for a particular species of animal by name or category.
+Brief descriptions about the animal, its distribution, legal protection status, etc.
+Various photos of derivatives and so a user can check images, enlarge them and compare with the products he has in hand.
+A built-in messaging system so users can mutually connect to collaborate on identification.
+
+IFAW-WTI team members performed a preliminary testing of this app and after a few months of tweaking it was ready for prototype testing.
+We presented the app to a 14-member team of Bhutan forestry officials in the month of May during another crime prevention training. The application file was shared over emails and all of them could install it on various phones.
+The functionality was smooth.
+We have just received official communication from the Bhutan government that they will go ahead with the deployment of the app as part of their wildlife trade control initiatives.
+Fortunately, once the app is developed and used for Bhutan, the same structure can be replicated in any country or region.
+For now, I am back to flow charts and discussing the final tweaks with the developer testing the app on various mobile phones and ensuring that there are no technical issues during the final stage of roll out.

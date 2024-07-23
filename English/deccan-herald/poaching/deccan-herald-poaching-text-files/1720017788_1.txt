@@ -1,0 +1,18 @@
+Apple Inc is hiring automotive technology and design experts to staff up a top-secret research lab, with the possible intention of building a car, the Financial Times reported on Friday, citing several people familiar with the iPhone maker.
+
+ADVERTISEMENTIt's unclear whether the world's largest smartphone maker is simply looking for talent to shore up CarPlay, the in-car entertainment and software service it unveiled last year that CEO Tim Cook has identified as pivotal to the company’s longer-term future.
+But the background and seniority of the executives it is recruiting suggest that Apple may be trying to build a car, the newspaper said, citing sources. Apple recently hired the head of Mercedes-Benz's Silicon Valley research and development unit, Johann Jungwirth, according to a LinkedIn profile. While his title on the site is Head of Mac Systems Engineering, the Financial Times reported he had joined the new research team.
+
+Apple, which like Google  is trying to incorporate its software into cars, has recently tried to recruit from the automotive industry, two sources with knowledge of the approaches told Reuters.
+The company has been trying to poach experts in fields such as robotics, according to the sources, who spoke on condition of anonymity because they were not authorised to speak to the press.
+“Three months ago I would have said it was CarPlay,” FT quoted a person who has worked closely with Apple for many years as saying. “Today I think it’s a car,” the person said.
+
+Wants iOS in cars
+
+The research lab was set up late last year, soon after Apple revealed its forthcoming smart watch and latest iPhones, the daily said.
+
+Trying to design and build an actual car would mark a change for the iPhone maker, which researches and discards plenty of projects but has so far mainly stuck to its core expertise in mobile and electronic devices. But it's been open about wanting to integrate its core iOS software into automobiles. The connected car, or vehicles with a full range of Internet and software services beyond mere navigation and communications, is considered one of the ripest areas for expansion for technology companies.
+Last March, Apple unveiled CarPlay, which lets drivers access contacts on their iPhones, make calls or listen to voicemails without taking their hands off the steering wheel.
+
+Along with HomeKit and HealthKit, the idea is to extend Apple’s software dominance into industries including home devices, healthcare, and automobiles.
+Apple did not respond to requests for comment.

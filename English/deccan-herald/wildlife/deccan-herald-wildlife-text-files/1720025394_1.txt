@@ -1,0 +1,35 @@
+Traditionally, species counts are done by a biologist flying in a small plane or a helicopter. While many missions still require the range of those craft and the experienced eyes of a scientist, drones offer many advantages, including the ability to fly very close without scaring animals, writes Sean Patrick Farrell.
+
+ADVERTISEMENTAn electric whir filled the air of this high desert valley as Jeff Sloan, a cartographer for the United States Geological Survey, hurled a small remote-controlled airplane into the sky. The plane — a 4 1/2-pound one — dipped; then its plastic propeller whined and pulled it into the sky. There, at an altitude of 400 feet, it skimmed back and forth, taking thousands of high-resolution photographs over a wetland teeming with ducks, geese and sandhill cranes.
+
+The plane, with its 55-inch wingspan, looks like one of those radio-controlled planes beloved of hobbyists. But its sophisticated video uplink and computer controls give it away as a small unmanned aerial system, better known as a drone. Drone technology, which has become a staple of military operations, is now drawing scientists with its ability to provide increasingly cheaper, safer and more accurate and detailed assessments of the natural world.
+
+ “This is really cutting edge for us,” said Jim Dubovsky, a migratory-bird biologist with the United States Fish and Wildlife Service, which is responsible for the health of more than a thousand bird species.
+
+Designed to monitor enemy positions from afar, the early planes, from about 2005, which cost $2,50,000 per system, were slated for destruction when an Army colonel thought they might be better used for scientific research and were donated to the Geological Survey. 
+
+They were retrofitted for civilian life with new cameras and other gauges. Their first noncombat mission was counting sandhill cranes. 
+
+Keeping count
+
+Traditionally, species counts are done by a biologist flying in a small plane or a helicopter. While many missions will still require the range of those craft and the experienced eyes of a scientist, drones offer many advantages, including the ability to fly very close without scaring animals. 
+
+“I think I’m the only electrical engineer who’s ever applied for a marine mammal harassment permit,” Gregory Walker, director of the Alaska Center for Unmanned Aircraft Systems Integration at the University of Alaska, Fairbanks, said, referring to a federal permit necessary for close study of the animals. He has used drones to gather images of seals and sea lions that might have slipped underwater as a full-size plane or helicopter approached.
+
+ Though such mammals are less startled by drones than by airplanes, birds, particularly easily spooked species like cranes, require a more cautious approach. In 2010, when researchers first tried out the plane, no one knew what to expect; there were even worries that the birds might fly into the drone. While that did not happen, the cranes promptly scattered, perhaps mistaking it for a predatory eagle. But then the scientists changed their approach. 
+
+Sandhill cranes settle in the wetlands each evening and rarely move until morning, making them an easy target for a drone with a thermal imaging camera. Video of the birds appeared as “a bunch of rice grains on a piece of paper, a dark piece of paper,” Dubovsky said. 
+
+A complete count, which was conducted in an evening, proved to be as accurate as manned flight counts. Since that flight, drones have scanned Idaho’s backcountry for pygmy rabbits; been battered by trade winds and rain in Hawaii while monitoring fencing protecting rare plant species; and gauged the restoration of the recently undammed Elwha River in northwest Washington.
+
+The greatest problem now is a lack of trained pilots and equipment. Politics may affect the studies as well. Recently, Sen. Tom Coburn, R-Okla., called for halting wildlife drone missions as a cost-saving measure under the federal budget sequestration. Another hurdle is getting clearance to fly. The US Federal Aviation Administration approvals for this year’s sandhill crane study came too late for the peak migration to Colorado, so crew members tested new camera systems and mapping abilities and demonstrated the drone’s operation for a journalist.
+
+A safer alternative?
+
+The FAA is working on new guidelines that will smooth the integration of private commercial drones into the airspace in 2015. Until then, most scientific flights are operated experimentally by the federal government and by public institutions like the University of Alaska, Fairbanks, and the University of Florida, which have robust drone research programmes. Those new rules cannot come soon enough for Phillip A Groves, a fisheries biologist with a firm that operates dams on the Snake River. He sees drones as a safer alternative to manned flights. 
+
+Three years ago, a biologist and a pilot he knew were killed while on a salmon survey when their helicopter crashed. “We were just stunned,” said Groves, who has had his own brushes with danger flying through Idaho’s canyons. He now works with Walker, who belongs to an unmanned-aircraft centre, to survey threatened Chinook salmon nesting sites with a multirotor helicopter drone. 
+
+While the work takes longer — two to three days with a two-person drone crew compared with a single day of a biologist in a helicopter — the overall cost is lower and the data captured by cameras rather than human eyes is far more accurate, he said. “The photos and video are clean, and we are learning that my visual counts may be underestimating counts at local sites,” he said, noting that fish often build nests atop one another. 
+
+While small drones do have drawbacks, including short battery lives, they can be flown in less than ideal weather and in areas where a manned craft might not venture. Groves said he had steered his drones into canyons with 40-mile-an-hour gusts — enough to abort a manned helicopter mission. The device struggled but flew, and no one’s life was put in danger. And that margin of safety, Groves said, is “priceless”.

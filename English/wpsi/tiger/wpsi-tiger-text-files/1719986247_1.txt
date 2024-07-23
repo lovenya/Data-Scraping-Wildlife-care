@@ -1,0 +1,58 @@
+Can Big Data Save The Last Of India's Wild Tigers?
+
+
+THE HUFFINGTON POST
+18 January 2015
+
+Ensia | Roger Drouin
+This story originally appeared on Ensia.
+
+Traveling
+in small, nomadic groups, carrying knives, axes and steel traps, tiger
+poachers in India have long held advantages over those trying to
+protect the big cats. The poachers, motivated mainly by demand for
+tiger bones used in traditional medicine in China, return every two to
+three years to places where they know “every stream and rocky outcrop”
+and set traps along tigers’ pathways or near watering holes, says
+Belinda Wright, executive director of the Wildlife Protection Society
+of India. They are seldom caught.
+
+“They have unbelievable knowledge and jungle craft,” Wright says. “They will use every trick in the book.”
+
+But
+a study published last August by Wright, ecologist Koustubh Sharma and
+colleagues could help turn the tide against tiger poaching in India,
+home to more than half of the tiger’s global wild population.
+
+The
+study, published in the journal Biological Conservation, applied a new
+method to estimate the probability of occurrence and detection of tiger
+crime in various areas of India, then used it to identify 73 key “hot
+spots” with high likelihood of tiger poaching and trafficking in tiger
+parts. According to the authors, it could lead to more efficient
+anti-poaching efforts by giving conservationists, enforcement officials
+and forest rangers working to save the tigers the ability to home in on
+where enforcement is needed most and thus improve the odds of saving
+India’s imperiled national animal.
+
+Over the past few years,
+Sharma, a senior regional ecologist with Snow Leopard Trust and
+scientist with Nature Conservation Foundation, and his team wrote
+computer code and analyzed 25,000 data points — collected since 1972
+across 605 districts — on wildlife poaching crimes, including locations
+of confirmed tiger poaching instances and sites where tiger parts had
+been seized. “It’s such a huge dataset that whenever I would run the
+analysis cycle, it would take 20 to 25 minutes for each model,” Sharma
+says.
+
+“An intelligence network is the most crucial step in
+curbing tiger and wildlife crime,” says Wright. More intelligence means
+being able to better place informers on the ground and use cell phone
+interceptions. It also means knowing where to target field patrols and
+forest ranger activities. Of utmost importance, Sharma says, is knowing
+where crime patterns have changed as poachers’ tactics change. That’s
+why researchers worked to formulate modeling that could be updated
+regularly.
+
+read
+more

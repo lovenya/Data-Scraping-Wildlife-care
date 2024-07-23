@@ -1,0 +1,29 @@
+MIT scientists developed a new algorithm that can predict extreme events that are likely to occur in the real world, by spotting instabilities that may affect climate, aircraft performance or ocean circulation.
+
+Many extreme events - from a rogue wave that rises up from calm waters, to an instability inside a gas turbine, to the sudden extinction of a previously hardy wildlife species seem to occur without warning.
+
+It is nearly impossible to predict when such bursts of instability will strike, particularly in systems with a complex and ever-changing mix of players and pieces.
+
+Scientists at Massachusetts Institute of Technology (MIT) have devised a framework for identifying key patterns that precede an extreme event.
+
+The framework can be applied to a wide range of complicated, multidimensional systems to pick out the warning signs that are most likely to occur in the real world.
+
+"Currently there is no method to explain when these extreme events occur," said Themistoklis Sapsis, associate professor at MIT.
+
+"We have applied this framework to turbulent fluid flows, which are the Holy Grail of extreme events. They're encountered in climate dynamics in the form of extreme rainfall, in engineering fluid flows such as stresses around an airfoil, and acoustic instabilities inside gas turbines," said Sapsis.
+
+"If we can predict the occurrence of these extreme events, hopefully we can apply some control strategies to avoid them," he said.
+
+In predicting extreme events in complex systems, scientists have typically attempted to solve sets of dynamical equations - incredibly complex mathematical formulas that, once solved, can predict the state of a complex system over time.
+
+Researchers can plug into such equations a set of initial conditions, or values for certain variables, and solve the equations under those conditions.
+
+If the result yields a state that is considered an extreme event in the system, scientists can conclude that those initial conditions must be a precursor, or warning sign.
+
+Aside from equations, scientists have also looked through available data on real-world systems to pick out characteristic warning patterns.
+
+However, extreme events occur only rarely, and if one were to rely solely on data, they would need an enormous amount of data, over a long period of time, to be able to identify precursors with any certainty.
+
+The researchers instead developed a general framework, in the form of a computer algorithm, that combines both equations and available data to identify the precursors of extreme events that are most likely to occur in the real world.
+
+Sapsis said that the framework is generalisable enough to apply to a wide range of systems in which extreme events may occur. He plans to apply the technique to scenarios in which fluid flows against a boundary or wall, such as air flows around jet planes, and ocean currents against oil risers.ADVERTISEMENT

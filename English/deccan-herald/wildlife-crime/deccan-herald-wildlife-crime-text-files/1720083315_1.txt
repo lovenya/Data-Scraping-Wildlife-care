@@ -1,0 +1,15 @@
+Popular microblogging website Twitter may be a powerful tool to forecast criminal activity, according to a study that analysed over 1.5 million public tweets.
+
+"My initial hypothesis was that there would be no correlation between Twitter use and crime. After all, people do not share with the world that they intend to or have just committed a crime," said Matthew Gerber, assistant professor at University of Virginia in the US.
+
+"What they do share are things like social events or outings that could lead to criminal activity," Gerber said.
+
+The team chose Twitter over other social media platforms for its openness and the fact that anyone can access Global Positioning System (GPS)-tagged tweets generated in a given area.
+
+Researchers collected data of more than 1.5 million public tweets tagged with Chicago-area GPS coordinates spanning January to March of 2013, as well as crime records covering the same period and geographic area.
+
+After dividing and mapping out tweets and crime records onto a grid and identifying common topics of discussion (eg sports, restaurants, and entertainment) appearing in tweets, they combined conclusions from this analysis with older forecasting models to predict crimes over the next month.
+
+Researchers found that the result of the combined method was more precise, accurately predicting 19 out of 25 crime types.
+
+"Some cities that utilise such methods as a basis for resource allocation have seen dramatic decreases in crime," Gerber said.ADVERTISEMENT

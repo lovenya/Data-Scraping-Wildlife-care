@@ -1,0 +1,32 @@
+Walayar, May 22 2014: In what may prove to be a plausible solution to elephant train-hits, an Animal Detection System (ADS) was tested for the first time in India last month, as part of a Wildlife Trust of India (WTI) Rapid Action Project (RAP) with Inometrics Ltd., in collaboration with the Southern Railways and the Kerala State Forest Department.
+ 
+The testing was carried out at the railway stretch between Walayar to Kanjikode, Kerala on the B Line, in the presence of officials from all concerned parties last month. “This site was specifically chosen since 14 fatal accidents involving elephants have taken place on this stretch between 1978 and 2010. There are over 500-600 elephants in this part of the Western Ghats alone and the urgency of mitigating train hits by whatever means necessary is upon us. The patrolling team cannot be physically present at every possible railway crossing  location and having such a system in place will theoretically help the teams monitor multiple places at the same time,” said Joseph Thomas, DFO, Palakkad Division.
+
+
+
+
+
+
+The team recording the intrusion and detection rate.
+
+Photo: WTI
+
+Jose Louies, the Regional Head of the South India, WTI, explained the workings of the system saying, “These are solar powered wireless sensors and can indicate the intrusion of a large mammal like an elephant. To put it simply, when an animal crosses the path of the ADS, which will be strategically placed near the tracks, it will give off an alarm to the nearest railway station so that the station master can immediately notify the patrolling team. This system has generally been used for human-elephant conflict mitigation with success and was therefore decided to try out its modified version to help mitigate train hits as well.”
+
+
+During the testing, a captive elephant was walked four times between two sensors set up at the site. The Master Control Unit (MCU) was set up at the Walayar Railway Station to receive the signals from the field, which was monitored by a railway officer along with the CEO of Inometrics, Krishnan Pankaj. It was found that the ‘intrusion’ was captured in real time by the sensors at the site and in a one-two second delay reached the signal reached the MCU. The end user, i.e., the patrolling team was then alerted via Short Messaging Service (SMS) within 10-12 seconds.
+
+
+
+
+Nandalal, the Senior Divisional Engineer (East), of the Palakkad Division, Southern Railways commended the initiative and commented on the testing saying, “With approximately 75-80 trains plying on this route every day, a need has been felt to help make this stretch as safe as possible for our natural heritage. We have given our set of suggestions to the WTI personnel and the CEO of Inometrics to help make this device as successful as possible and will continue to provide whatever support is needed.”
+ 
+
+
+Consultative meeting at site of  officials from State Forest Department, Southern Railways,
+
+WTI and Inometrics. Photo: WTI
+
+
+
+While the testing is still in its nascent stages and more modifications need to be made along with obtaining final clearances from the relevant departments before the device is launched, this demonstration continues to remain the first of its kind for this purpose. “Elephant mortality due to man-made causes has unfortunately reached staggering proportions across the country with over 215 elephants dying in rail and road accidents between 1987 and 2013 and we need innovative yet simple ideas like these to help minimise accidents as much as possible. We hope to see the device in action soon, once all the improvements are made and necessary clearances acquired,” commented Radhika Bhagat, Head of the Wild Aid Division of WTI.

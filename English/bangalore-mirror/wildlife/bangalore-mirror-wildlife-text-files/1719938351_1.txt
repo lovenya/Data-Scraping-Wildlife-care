@@ -1,0 +1,13 @@
+It’s being fixed, says fire dept
+
+For the past one month, calls to 101 - Fire and Emergency Services- were not going through from the phones of non-BSNL telecom service providers. Whenever citizens and Covid-19 emergency response personnel like wildlife rescue volunteers, animal activists dialled 101; they would get a response saying that the number was invalid.
+
+“The other day, we got a call about a kite that was stuck and trapped in manja (Chinese thread) on a tree. We wanted to rescue it,” said a wildlife volunteer.
+
+“We required the ladder used by the fire services to rescue the bird and when we called 101 it said that the number does not exist,” he added. The volunteer had to Google the Fire and Emergency office number of the headquarters in Halasur, who in turn, called up their control room near Maharani College to solve the crisis. The bird was rescued after a delay.
+
+Deputy Director Technical, Fire and Emergency Services, Ravishankar told BM that the emergency number was not connecting as there was a glitch in the software. “Though the control room staff had complained and the matter was brought to their higher-ups, offices of service providers including BSNL had no staff due to lock-down,” said Ravishankar.
+
+When asked why this problem persisted only with private telecom service providers and not with BSNL, Director General, Cellular Operators Association of India (COAI) Rajan S Mathews stated, “All calls from private operators to Emergency Services are routed through BSNL for delivery to the final destination as BSNL is a government provider and the one providing services to these emergency entities.”
+
+The technical team went to the fire control room’s telephone exchange and rectified it. “Earlier, the software would automatically add the prefix 080 to the emergency number when dialled, but after the software was updated a month ago, it wasn’t taking the prefix which ended up making the number invalid. The glitch was rectified with Airtel service provider and would be rectified for other telecom service providers subsequently,” said Chief Fire Officer Manjunath BN.

@@ -1,0 +1,21 @@
+Those who live east of the Rocky Mountains have probably encountered switchgrass, perhaps without even realising it. A hardy perennial, the roadside and prairie grass is as ubiquitous as it is unassuming.
+ 
+ 
+ 
+ 
+ 
+ You may get to know it better soon, though. Switchgrass has been lauded as a promising source of biofuels with multiple advantages over current favored options, including corn. Genetically modifying switchgrass could boost crop yields and its commercial viability. But to close in on realising that potential requires one small tweak: a genetic sterility switch that prevents the modified grass from contaminating the genes of nearby unmodified grasses. Dazhong “Dave” Zhao, a UWM associate professor of biological sciences, hopes to build that switch. Unlike fossil fuels, which consist of decomposed organic material buried underground for millions of years, biofuels are derived from plants grown today or from animal waste. Burning fossil fuels releases new carbon dioxide into our atmosphere and contributes to global warming, while biofuels emit only as much carbon dioxide as the plants absorbed during their lifetime. Switchgrass is an attractive biofuel feedstock because it can grow on marginal lands of little agricultural value. It also requires less chemical fertiliser than corn, the dominant source of ethanol currently mixed into unleaded gasoline.
+ 
+ “Grasses can grow anywhere and are not in competition with human food production,” Zhao says.
+ 
+ In addition to being a low-input and fast-growing crop, switchgrass can survive for 10 years or more, while corn must be sown at the start of each growing season. Last but not least, switchgrass greatly reduces erosion by holding soil in place while providing habitat for birds, insects and other wildlife.
+ 
+ To make biofuel production more sustainable, Zhao and postdoctoral researcher Jian Huang are tackling the main obstacle keeping genetically modified switchgrass off the commercial market. It’s the possibility that lab-engineered genes could escape human control by mixing with genes of wild-growing grasses, which might interrupt natural processes in unpredictable ways.
+ 
+ Genetically modified tomatoes were first approved for human consumption in 1994, but food crops are typically short-lived and tightly managed. Grasses are less domesticated and live a long time, heightening the concern about genetic contamination. “Completely eliminating both male and female fertility is the only fail-safe way to prevent gene flow,” Zhao says.
+ 
+ Under current federal regulations, only genetically modified grasses that are absolutely sterile in the lab can enter field trials. That’s where researchers determine whether sterility and other introduced properties can be maintained long-term in real-world conditions.
+ 
+ Zhao hopes to create sterile switchgrass by introducing a fusion gene into its reproductive cells, using a harmless bacterium as a delivery vehicle. The fusion gene merges the Solo Dancers, or SDS, gene — an essential player in the reproduction of many plant species — with a toxic gene called Barnase.
+ 
+ “By combining the SDS and Barnase genes, we have created a new gene with very specific toxicity: It kills only the tissue that makes a plant’s version of eggs and sperm,” Zhao says. The new gene acts without affecting plant growth or flower development.

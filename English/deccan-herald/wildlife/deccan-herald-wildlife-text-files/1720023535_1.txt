@@ -1,0 +1,36 @@
+They can record video images and produce heat maps. They can be used to track fleeing criminals, stranded hikers – or just as easily, political protesters. And for strapped police departments, they are more affordable than helicopters. 
+
+ADVERTISEMENTDrones are becoming a darling of law enforcement authorities across the country. But they have given rise to fears of government surveillance, in many cases even before they take to the skies. And that has prompted local and state lawmakers from Seattle to Tallahassee to proscribe how they can be used by police or to ground them altogether.
+
+Although surveillance technologies have become ubiquitous in US life, like licence plate readers or cameras for catching speeders, drones have evoked unusual discomfort in the public consciousness. “To me, it’s Big Brother in the sky,” said Dave Norris, a city councilman in Charlottesville, Virginia, which this month became the first city in the country to restrict the use of drones. “I don’t mean to sound conspiratorial about it, but these drones are coming, and we need to put some safeguards in place so they are not abused.”
+
+In Charlottesville, police officers are prohibited from using in criminal cases any evidence obtained by drones, also known as unmanned aerial vehicles. Never mind that the city police department does not have a drone, nor has it suggested buying one. The police are not barred from using drones for other efforts, like search and rescue.
+Norris said the advent of new policing technologies poses new policy problems for his city. For example, Charlottesville permits the police to install cameras temporarily in areas known for drug dealing, but it has rebuffed a police request to install cameras along its downtown shopping corridor. It has also chosen not to install cameras at traffic lights to spot speeding cars, as is common elsewhere. “Drones are capable of taking surveillance to a whole new level,” Norris said.
+
+Last week, the Seattle police department agreed to return its two still-unused drones to the manufacturer after mayor Michael McGinn answered public protests by banning their use. On Thursday, the Alameda County Board of Supervisors in Oakland, Calif., listened to the county sheriff’s proposal to use federal money to buy a 4-pound drone to help his officers track suspected criminals – and then listened to raucous opposition from the anti-drone lobby, including a group that uses the Twitter handle (AT)NOMBY, short for Not Over My Back Yard.
+
+This week, members of Congress introduced a bill that would prohibit drones from conducting what it called ‘targeted surveillance’ of individuals and property without a warrant. A federal law enacted last year paved the way for drones to be used commercially and made it easier for government agencies to obtain them. The Department of Homeland Services offered grants to help local law enforcement buy them. Drone manufacturers began to market small, lightweight devices specifically for policing. Drones are already used to monitor movement on US borders and by a handful of police departments, and emergency services agencies around the country are just beginning to explore their uses.
+
+The Federal Aviation Administration has received about 80 requests, including some from police and other government agencies, for clearance to fly drones, according to a Freedom of Information Act request filed by the Electronic Frontier Foundation, which seeks to limit their use for police surveillance.
+
+Cost-effective technology
+
+Law enforcement authorities say drones can be a cost-effective technology to help with a host of policing efforts, like locating bombs, finding lost children, monitoring weather and wildlife or assisting rescue workers in natural disasters.
+
+“In this time of austerity, we are always looking for sensible and cost-effective methods to improve public safety,” said Capt. Tom Madigan of the Alameda County Sheriff’s Department. “We are not looking at military-grade Predator drones. They are not armed.”
+For now, drones for civilian use run on relatively small batteries and fly short distances. In principle, various sensors, including cameras, can be attached to them. But there is no consensus in the law on how the data collected can be used, shared or stored.
+
+State and local government authorities are trying to fill that void. As they do, they are weighing not only the demands of the police and civil libertarians but also tricky legal questions. The law offers citizens the right to take pictures on the street, for instance, just as it protects citizens from unreasonable searches.
+
+State legislatures have come up with measures that seek to permit certain uses, while reassuring citizens against unwanted snooping. Virginia is furthest along in dealing with the issue. In early February, its state Legislature passed a two-year moratorium on the use of drones in criminal investigations, although it has yet to be reviewed by the governor.
+
+In several states, proposals would require the police to obtain a search warrant before collecting evidence with a drone. Arizona is among them. So is Montana. The bill’s sponsor there, Sen. Matt Rosendale, a Republican, said he had no problems with drones being used for other purposes, like surveying forest fires, but he was especially vexed by the prospect of government surveillance. The manufacturers, he added, were marketing the new technology to government agencies, but neither federal nor local statutes specified how it could be used. “The technology was getting in front of the laws,” Rosendale said.
+An Idaho lawmaker, Chuck Winder, said he did not want to restrict law enforcement with a search warrant requirement. He said he was drafting language that would give law enforcement discretion to evaluate if there was “reasonable suspicion of criminal conduct.” 
+
+The attention by lawmakers has delighted traditional privacy advocates. “I’ve been working on privacy issues for over a decade and rarely do we see such interest in a privacy threat that’s largely in the future,” said Jay Stanley, a senior policy analyst with the American Civil Liberties Union in Washington. “Drones are a concrete and instantly graspable threat to privacy.”
+
+A counterargument has come from an industry group, the Association for Unmanned Vehicle Systems International, which plays down fears about wholesale surveillance. The drones for sale for civilian use, it says, are nothing like the armed military grade aircraft used in wars overseas.
+
+“They’re another tool in the law enforcement representative’s tool kit,” said Gretchen West, the group’s executive vice president. “We’re not talking about large aircraft able to surveil a large area.”
+
+The FAA is drafting rules on how drone licences will be issued. Thursday, it announced the creation of six sites around the country where drones of various sorts can be tested. Pressed by advocacy groups, it said it would invite public comment on privacy protections in those sites. The agency estimates that the worldwide drone market could grow to $90 billion in the next decade.

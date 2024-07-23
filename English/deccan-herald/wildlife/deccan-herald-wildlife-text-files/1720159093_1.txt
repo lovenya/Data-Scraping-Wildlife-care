@@ -1,0 +1,25 @@
+Scientists have developed a new, low-cost way to save rare animals and plants from poachers and plunderers - using maths.
+
+ADVERTISEMENTResearchers from The University of Queensland used a mathematical model to outwit poachers in Africa's Greater Virunga Landscape - one of the most bio-diverse places on Earth, with 13 protected areas covering 13,800 square kilometres.
+
+By studying the poachers' incursion patterns and prioritising patrols, the technology could improve protection of endangered animals and plants where they most need it, while minimising patrol and conservation costs, said Dr Richard Fuller.
+
+"The great thing about this approach is that it can be applied anywhere in the world," Fuller said.
+
+"Our study in central Africa showed that patrols are usually carried out near patrol stations where rangers are based, and they aren't very effective at stopping illegal hunting beyond a few kilometres," said Fuller.
+
+The team studied which areas had the most illegal poaching and logging, the impact on wildlife, and the cost of patrolling the threatened areas.
+
+Dr James Watson said the researchers included all the information in a mathematical model that prioritised the location of patrols.
+
+"For example, since the poachers know well where the patrol bases are, patrollers should target more remote areas – a hot-spot for illegal poachers – by extending their patrols," Watson said.
+
+"The study showed that this reduced the cost of meeting all conservation targets in the landscape by as much as 63 per cent.
+
+"By providing a big picture view of the entire landscape, the model enabled us to maximise conservation efforts on a limited budget," Watson said.
+
+Fuller said that apart from deterring illegal poaching, the approach could also be used to prevent disturbance of threatened species by human activity, or to prevent major weed invasions.
+
+"With this model, we can help rangers target their routes and provide the best protection for our native wildlife and plants, even when they have a limited budget," Watson said.
+
+The study was published in the Journal of Applied Ecology.

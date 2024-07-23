@@ -1,0 +1,50 @@
+Meet the family that’s marrying bleeding edge technology with a passion for indigenous construction to create world-class drones. All in a Banashankari backyard
+ 
+ 
+ 	Banashankari. A complex warren of independent homes, all housing the ubiquitous Bengaluru family; parents, children, in-laws, sometimes a cat, often a dog. The smell of sambar wafts through on many Sundays; in some of these homes there are the sounds of music and mythology blaring from the TV as evening turns to night. But in one home, things are different. From the outside, the residence of the Chandrashekhars’ is not remarkable. Inside too, are the expected trappings of an upwardly mobile middle class home – a hall lovingly decorated with family photos; a dining table neatly covered in a plastic tablecloth. So far, average digs. Step into the backyard, however, and ‘average’ is hardly the right description. A small workshop – ground plus first floor – houses a thrilling indigenous enterprise. This is the place where dreams take flight – quite literally – via the drones of DC Enterprises. And the motors they make have gone all the way, from the Australian Department of Defence to The Netherlands, among others. 
+ 	 
+
+ 	Family matters
+ 	
+ 	  	It’s a family outfit if there was ever one. Father N Chandrashekhar (68) and son Uttam (33) are the chief brains and tinkerers behind a plethora of Micro Air Vehicles, nestled amid a workshop teeming with nuts, bolts, tools, weighing machines and whatnots. Daughter Deepa is a freelance graphic designer who doubles up as their website builder, photographer and publicist. And support comes from Uttam’s wife, and mother. 
+ 	
+ 	  	It’s also a story of the real ‘Make In India’. DC Enterprises rarely buys parts; most bits and pieces are made right here in the workshop, and things are customised to individual requirements. Chandrashekhar points out that the start-to-finish creation model allows them to retain control of the product and its functioning, thereby ensuring quality. It also fulfils one of his deepest desires – to “contribute, not simply buy”. To that he adds, “to learn, create and learn again. There is never a moment to get bored with science. The more you learn, the more you find things to learn”. That, the trajectory of DC Enterprises can certainly attest to.
+ 	
+ 	  	The flight began in 2001, when the company, founded by Chandrashekhar (an IIT Btech graduate with a focus on and interest in hardware), ventured into the then-unexploited international market for micro brushless motors for direct propulsion applications in miniature remotely controlled aircraft. The motors, quite aptly called Mighty Midget (“they’re very small, very light and very efficient – they pack a punch,” he says) have been recognised by the prestigious Society of Indian Aerospace and Technologists and Industries (SIATI), Bangalore. 
+ 	
+ 	  	Around the same time Uttam, a student of computer applications, rekindled his interest in aeromodelling. His first brush with it was years earlier, when his grandfather had bought him a kit. “I started making it, lost patience, broke it,” he confesses. Not this time, though. Renewed vigour coupled with the use of the motors they were selling, saw him take it more seriously. Soon, father and son were creating motors that were exported to places as far off as Germany. They were contacted by a retired lieutenant who had “one and a half lines of designation on his visiting card”, Deepa says with a chuckle, who wanted to identify skilled people and create opportunities for innovation on home ground. And he wanted DC Enterprises to become part of a five-year programme – the National Programme in Micro Air Vehicles. This was in 2007.
+ 	
+ 	
+ 	Chandrashekhar says with a hint of pride, “He had been looking for motors and propellers to fit into this programme, and learnt from someone in Germany that they were being made and marketed from here – Banashankari.” 
+ 	  	
+ 	
+ 	
+ 	
+ 	
+ 	  	Step by step
+ 	
+ 	  	What followed was seven years of immersive research for that very programme – creating vehicles, testing and fulfilling course requirements. It whet the duo’s appetite for more. That they had the capability had already been amply proven by their success in a flying competition in 2007. Having entered as wildcards, they left with victories in every category. Soon, lessons were learnt and skills were honed. Uttam and his father rattle off the basic scientific know how: “MAVs are unmanned air vehicle, loosely defined as those that fit inside a sphere of 300 mm. Anything larger is a mini air vehicle. Fixed wing MAVs fly like regular planes – they have to constantly be on the move. Which means they have a motor and a propeller. Flapping MAVS flap like real birds and have futuristic applications where you can mimic and study bird flight and see how you can optimise it. Rotator wing MAVs can hover. MAVs typically fly a distance of 1/ 1.5km and up to a height of 100mtr.” 
+ 	  	
+ 	The applications are many – smaller MAVs can be used for short distance surveillance; say across the border and over the hill. Larger ones that can travel a distance of 15-20km could have applications in disaster management. “Say inside a building with collapsed rubble,” Chandrashekhar explains. “Equipped with special sensors, they can check the thermal signature, and indicate where there might be bodies.” 
+ 	  	
+ 	  	The lessons
+ 	
+ 	  	Challenges have included creating vehicles with ‘endurance’. Simply put, that means creating a craft that stays in the air for more than the average attention span of the aeromodeller – eight minutes. “Most vehicles are designed to run for eight minutes. To increase that, you have to re-engineer the whole thing. It needs a larger battery, but the scale still remains small, while the load on the wings still has to be stable,” Chandrashekhar explains.
+ 	
+ 	  	Considerations that became part of their everyday after seeing success in the flying competition. They developed the electronics and logistics to make drones with autopilot – “which means the controller can just look at the screen and see what the drone is seeing”, Uttam explains. “Now we have drones that fly by themselves. You can just programme wave points on a tablet.”
+ 	
+ 	  	There have been other iterations. In 2007, they didn’t have cameras on their planes. Now can carry large payloads: from 300gm to a kg or more. That’s not all. Uttam shares that without a stabilised camera payload, the image recorded by the drones “which are very agile aircrafts susceptible to external weather conditions”, will be shaky. And while auto pilot corrects the shake and stabilises the craft, the image still suffers. “To correct that, we can attach a gimbal, a device that suspends the camera while correcting any shake by stabilising it on all 3 axes.” The applications of something like that are potent – in wildlife monitoring, photography, film and video. That’s exactly what DC Enterprises has been working on for two years now; an arsenal of drones for commercial applications. The fruits of their labour are the Sky Scope Mark 1 and Mark 2, which they’re now hoping to market for aerial photography, disaster management (such as riots and crowds), land surveying, wedding videography and more. Their strength, the duo believes, is in indigenisation – from the carbon fibre airframe to the communication electronics and camera payloads with gimbals. The pay-off is total control, and the ability to tackle obstructions unique to Indian conditions. What are those? “Multiple wires, trees next to the wires, clothes on a clothesline, kites….,” they rattle off. 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	  	Payoffs and pitfalls
+ 	
+ 	  	The advantages are numerous – imagine spotting and nailing a poacher in a dense forest in minutes; or taking incriminating footage of a riot – in 4K, either live-streamed or recorded. Of course, where there are advantages, there are pitfalls too. The possibility of a bomb being attached to a drone cannot be understated, for one. Aware of the possibility of misuse, Chandrashekhar says the construction and capabilities itself – payloads that are useful for up to 50 to 100 metres – restrict the capacity for abuse.
+ 	
+ 	
+ 	DC Enterprises also follows and advocates basic rules – don’t fly a drone in a heavily populated area; stay within visual sight of the drone in a city; don’t fly a drone within
+ 	15km of any airport. Then, there is the fact that drones are not regulated by firm laws in India, simply because their power and purpose is still to be adjudged. “It’s like having traffic rules for ants,” Chandrashekhar says.
+ 	
+ 	  	Until then, however, the ants are on their own march – hoping to better our lives and have some fun while at it. All at Banashankari. Where flights of fantasy are made.

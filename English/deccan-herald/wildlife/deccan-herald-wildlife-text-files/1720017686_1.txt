@@ -1,0 +1,17 @@
+ShapeShifter
+
+If you are a power user of Windows, like me, you would find Shapeshifter quite useful. Though it is still a sort of a work-in-progress, it lets you copy several times over. Here is how you use ShapeShifter:  Holding down CTRL+V brings up the Shapeshifter interface. While still holding down CTRL+V select an item of your choice to paste with the arrow keys or the mouse-wheel, and release CTRL+V. 
+
+History can be easily cleared by Shapeshifter by holding down CTRL+V, and pressing the Delete key on your keyboard, for a second or two. A single item in the history can be removed by pressing Delete once. And, if you want one of the items of the clipboard to stay on top of the list, hold down CTRL + V, and then press the Home key on your keyboard, that's all to it. ShapeShifter v4.01 for Vista or Windows 7 can be downloaded for free at http://flamefusion.net/ software/shapeshifter/download. Microsoft .NET Framework 4 (Web Installer) required.  Cons - One of the problems with ShapeShifter is that it is difficult to uninstall it even with its own uninstaller.ADVERTISEMENTHistorious
+
+Historious, akin to Delicious, Diigo and Pinboard, is a useful booklet to keep track of interesting sites we might find on the web. The Historious booklet keeps not only track of all the websites you wish to remember, but also provides a “personal search engine” to search them. 
+
+Though Historious includes a free plan it extracts its pound of flesh by accessing your data on all the visited websites and browsing history too. If these issues do not matter you could go ahead and register for a free account at www.history.us, and start using it.
+
+ Under the free plan only 300 websites can be 'archived' and you would have to bear with the affiliate links. Upgrades have special features, among others, RSS feeds of the saved sites, adding of website tags and descriptions, integration with Google Reader and import of bookmarks from other services. Pazera Free Audio Extractor
+
+If you want to extract audio out of video files Pazera Audio Extractor is a good option.  It can extract the audio from video files without loss of sound quality or convert them to MP3, AAC, AC3, WMA, FLAC,OGG or WAV format. I tested Pazera  by extracting the audio component from a video file called Wild Life (Windows 7 / Public video/ WildLife) and found the sound quality ok. The application saved the extracted audio in WMA format in the original folder itself. The application supports all major video and audio formats. 
+
+To extract audio tracks from video files, just drag and drop them into main window, select proper profile from list and click on the convert button.  If you find the audio quality poor increase the audio bitrate.  While novices are helped with a number of predefined settings (profiles) the more advanced users can customise audio encoding parameters as per their needs. The Pazera Free Audio Extractor v1.4 doesn't require any installation, hence doesn't need to use the system registry.
+
+It can be downloaded at http://tinyurl.com/3namnh4.dheutilities@gmail.com
