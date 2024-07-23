@@ -1,0 +1,57 @@
+Conservation Meets Technology
+
+            
+                
+                                        
+
+                                                First published in Sanctuary Asia,
+                        Vol. 41
+                        No. 10, 
+                        October 2021
+                                            
+                
+            
+
+                        
+By Shashank Srinivasan
+
+Sometime in August 2021, I spent a wonderful morning working with an underwater robot in an abandoned quarry. Over the Goan monsoon, water accumulates quickly, and this particular pit now hosted a still, teal pool. Over 10 m. deep in parts, and empty of other people at this time of day, it was the ideal location for our morning’s practice of running transects and conducting precision control. Once we were done, we jumped into the pool for a quick swim. At the far end of the pool, near a small waterfall, we spotted a pair of Common Kingfishers and a baby monitor lizard. Curious but not startled, they watched us approach, and let us observe them for a few minutes before they went on with their day.
+
+This wasn’t quite the typical workday for me, but neither was it completely out of the ordinary. I work at the intersection of technology and conservation, at Technology for Wildlife (TfW), an organisation that I founded in 2017. Our morning at the quarry, among other similar excursions, provides us with the information we need to develop techniques for the appropriate use of robots for conservation. Our mission at TfW is to amplify conservation impact through the appropriate use of modern technology.
+
+
+
+The author uses a submersible robot to explore the high-altitude Tso Kar lake in Ladakh. The use of such gear helps heighten our understanding of wild habitats that may be impossible to traverse on foot. Photo: Technology for Wildlife Foundation
+
+Technology, the art and craft of creating processes and tools to solve problems, has been an essential component of Homo sapiens’ ascent to global supremacy, but in recent centuries, it has come with costs that we are only just beginning to comprehend and pay. At the global scale, human-induced greenhouse gas emissions cause climate change, but the internal combustion engine has been an essential part of the human growth story. A more relatable perspective: light pollution harms insect diversity, with cascading impacts on food security, but we know that electrification and access to light, especially in India, improves health and educational outcomes, which are both essential components of poverty alleviation.
+
+Development is good, and technology amplifies development. Abandoning all technology and returning to a mythical ‘Golden Past’ is neither practicable, nor an equitable solution. It will only benefit those who are able to bear the costs of doing so, and further divides humanity along the lines of privilege. If all our tools are double-edged swords, how do we avoid harming ourselves when we use them?  I believe the solution is to sharpen the edge we wish to use, and to dull the one that can cut us. We need to use technology with the clear intention of shaping our collective future for the better. It is essential that this is accompanied by an understanding that the world will change as a result of our actions. The mindless and inappropriate use of technology, as of anything else, is unnecessarily harmful.
+
+
+
+An aerial image of mangroves in Salvador do Mundo and Chorao island in Goa, taken using a drone. The author believes that mindful and strategic use of technology will help secure the future of our wildlife. Photo: Technology for Wildlife Foundation.
+
+This is critically important in the context of our culturally and biologically diverse country. The ripples caused by our actions can have consequences beyond our comprehending ability. While this is true for all technology, it is especially important when using technology for wildlife and environmental conservation. For example, electric fencing has been a valuable tool for the mitigation of human-wildlife conflict, but they need to be deployed fairly and strategically. Unplanned placement can result in the death of wildlife and the destruction of wildlife corridors, while inequitable allocation further exacerbates existing social inequalities. Another example: camera traps have been used successfully to estimate wildlife populations in India, aiding in better conservation planning, but they simultaneously impact the ability of local communities to navigate their forests. Conservation practices that do not respect human  sentiments will not succeed; more importantly, conservation that is not inclusive and intersectional has no place in our world today.
+
+To paraphrase Kentaro Toyama, technology only amplifies human intent and capacity; it does not alter it. If the intentions for Indian conservation are exclusionary or fortress-based, our technology can make that a reality, to our eventual collective and total detriment. A relevant quote to insert here, by William Gibson: “The future is already here; it’s just not evenly distributed yet.” As humanity kicks and screams its way through the 21st century, our role as humans and conservationists should be to ensure that the future is evenly distributed, for both human and non-human life alike.
+
+(This article is part of the October 2021 cover story 'Four Decades of Conservation'. Read the other parts here.)
+
+ 
+
+
+Shashank Srinivasan, is a cartographer, drone pilot, and conservation technologist. He is the founder of Technology for Wildlife, which helps organisations and individuals working in conservation with mapping, data analysis and robot operations.  
+
+            
+            
+
+            
+                
+                    join the conversation
+                    
+                    
+                    
+                    
+                
+                
+                    subscribe

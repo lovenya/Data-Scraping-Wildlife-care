@@ -1,0 +1,154 @@
+Technology Goes Wild
+
+            
+                
+                                        
+
+                                                First published in Sanctuary Asia,
+                        Vol. 36
+                        No. 3, 
+                        March 2016
+                                            
+                
+            
+
+                        
+By Purva Variyar
+
+An M4 rifle, a more sophisticated weapon than the deadly AK-47 rifle, used by the U.S. army, was used to poach a one-horned rhino in Kaziranga, in January 2016. How do forest guards in Assam armed with outdated weapons tackle such technologically-prepared poachers? In South Africa, poachers have been known to arrive in helicopters, dart rhinos and elephants before dismembering the drugged animals to retrieve their million-dollar body parts.
+
+The sophisticated techniques are not restricted to killing wildlife, but also to avoid detection. The Internet with its infinite reach has become a convenient platform for traders of wildlife contraband to manage their criminal networks and negotiate deals. The sophisticated technology and strategies embraced by those involved in the illegal wildlife trade is worrying. Conservation strategies will have to keep up with technological advancements to cover the gap in every way. Not only to tackle poachers and the illegal wildlife trade, but also to mitigate and solve problems ranging from human-wildlife conflict to climate change. Thankfully, science is equipping us with this possibility.
+
+Brilliant minds across the world are presenting newer applications in a desperate bid to reverse at least some of the damage we have inflicted on the planet. Large tracts of Protected Areas can now be monitored using remote sensors, unmanned aerial drones can follow migrating animals, and marine animals can be tagged from space. Technology is empowering conservationists, forest officials and authorities in their conservation efforts. Money is being poured into science and research to find renewable sources to replace fossil fuel with alternatives, saving and reviving species from extinction to mass afforestation. The issues to resolve are aplenty, and we are running a technological race against time.
+
+
+
+Photo: Rainforest Connection.
+
+ 
+
+
+	
+		
+			
+			“Technology has greatly influenced wildlife research as well as conservation, as indeed it has influenced other applied domains like medicine, agriculture or communication. These technological advances range from improvements in several kinds of animal radio-telemetry, photographic or DNA sampling used in research, all the way to engineering interventions that can mitigate the impact of highways and waterways on animal movements. In addition to such ‘hardware improvements, we must also take note of the tremendous advances in the way wildlife and conservation data and the brilliant new methods of analyses are emerging. These also provide reliable knowledge upon which conservation must advance. Over all, last two to three decades havebeen exciting times for conservation scientists like me."
+
+			- Dr. Ullas Karanth, Director for Science-Asia, Wildlife Conservation Society
+			
+		
+	
+
+
+
+
+Fighting Poachers
+
+The demand for wildlife parts across the world, especially in Asia, is so enormous, that today, the illegal wildlife trade is worth a staggering U.S. $50-200 billion each year (United Nations Environment Programme, 2014). It sits up there right along with the drugs, arms and human trafficking businesses in the list of most rampant money-making crimes across the world. The illegal wildlife trade is also closely linked to funding terrorist organisations and organised crime syndicates. There is more than enough evidence of insurgent and militia groups in Africa being funded by the illegal wildlife trade. Global illegal fisheries and illegal logging rake in U.S. $ 10-23.5 billion and U.S. $30-100 billion respectively each year (UNEP, 2014).
+
+In this grim scenario, technology is aiding anti-poaching efforts. When Cecil the lion was hunted in Africa, he was discovered because he was tracked through a GPS collar by researchers at the University of Oxford. Social media was then used to publicly shame the hunter.
+
+Other strategies are also being employed to improve monitoring of wildlife. Mobile technology is making it easier and cheaper to track individual animals. GPS, GSM and satellite phones are being put to use in the most remarkable ways. New software algorithms, satellite technology for real-time imaging along with remote sensors paint a detailed picture of wild animals. Several African elephants have been collared with well-equipped cell phones and SIM cards as tracking tools. GPS data is transmitted from the collars via satellite transmissions or local cell phone networks almost instantly. The data thus received is not only helping in keeping track of the elephants, but also notifies forest authorities in the form of text alerts when an elephant is too close to human-occupied areas and farms allowing them time to spring into action to avoid needless confrontations.
+
+
+
+Photo: Kosmik & Ammonite.
+
+A trip to Borneo put engineer Topher White on a path to conserve rainforests from illegal loggers and poachers.  A brilliant idea coupled with his engineering skills led him to establish Rainforest Connection, an organisation that makes use of old, discarded cell phones and turns them into small microphones putting to use its GPS tracker and other sensors to work as real-time logging detection systems. This has been put to practice in the endangered rainforests of Sumatra and Borneo, where these rain-protected, solar-powered, automatic, transformed remains of discarded cell phones are placed high up on trees. They alert authorities almost immediately to the sounds of chainsaws, truck engines, and gunfire. Now Topher wants to expand his reach to other endangered forests of the planet. There is a smartphone app for almost everything today. Gratefully, conservation is no exception. In India, a novel app called ‘Hejje, which literally means ‘pugmark in Kannada was launched two years ago and has been aiding in the tracking and monitoring of tigers in the Bandipur Tiger Reserve, while also strengthening the coordination of the forests anti-poaching personnel. TRAFFIC, a prominent wildlife trade monitoring network, along with the Taronga Conservation Society Australia has launched a smartphone app called ‘Wildlife Witness that has reached the masses so they too can get involved in the fight against wildlife crimes by reporting any illegal wildlife activity via the app.
+
+Imaging has been used to identify and track animals in the form of camera traps for quite some time now. Now taking things a step further, thermal imaging cameras are being put to the test to identify poachers illegally entering Protected Areas. A thermal camera is able to capture heat signatures, which are essentially infrared radiation emitted by any and every object. This way, by installing thermal cameras at the periphery of the park and entrances, it will capture the heat signatures of humans entering, which can be easily distinguished from the signatures of the park's flora and fauna.
+
+Software programmes are being written to quickly give meaning and direction to the endless data that pours in. Spatial Monitoring and Reporting Tool (SMART), an open-source software programme helps frontline staff in Africa to take more effective action. Cybertracker is another useful software programme that has been designed to allow rangers using the most rugged of devices to record geo-specific data and relay them to the park headquarters.
+
+In the last few years, drones or Unmanned Aerial Vehicles (UAVs) have transformed wildlife monitoring and surveillance by allowing rangers around the world to up their ante. They are being used to fly over forest canopies in Southeast Asia to monitor orangutan activity and study alligator activity in the U.S. Recently, the Pench Tiger Reserve became the first reserve in Maharashtra to obtain a drone. Plans are currently underway to train more staff in operating them and deploying more such drones for wildlife surveillance in Umred-Karhandla, Mansinghdeo, Tipeshwar and the Bor Tiger Reserve.
+
+
+
+Photo: Alexander Braczkowski.
+
+Solving and Seizing
+
+Wildlife crimes need solving. Thorough investigation with new technological intervention are revolutionising the way wildlife crimes are dealt with and helping to nab and convict offenders.
+
+Forensic science is extremely crucial in nabbing those violating wildlife laws. Apart from eyewitness testimony, physical evidence, irrefutable at that, is what can either help nail the accused or allow them to go scot-free. Proper evidence and data helps build strong cases against the offenders. In India, a notorious international tiger parts trader, Suraj Pal, better known as Chacha, was successfully convicted by the Maharashtra State Forest Department, thanks to the incriminating forensic evidence, which helped ascertain the crimes he had been committing since 1992.
+
+Deoxyribonucleic Acid or DNA can reveal the biological identity of individual animals, populations and species. Not to mention tracing the animals geographical origin. Novel molecular techniques have brought to the fore methods like identifying DNA and molecular markers, DNA profiling and DNA barcoding which are proving to be crucial tools in wildlife forensics. Using DNA fingerprinting technology, individual animal carcasses and body parts can be traced to the tissue samples of seized contraband. And for this, even very small fragments of evidence usually suffice. Unknown and ambiguous tissue samples can be analysed to know the species, its sex, age and parentage by comparing them to the standard samples. Genetic markers can tell us where the poached animal came from and lead to the source of the illicit activities. This way high-risk hotspots can be mapped.
+
+Irrespective of newer and better technology, tighter law enforcement is needed to counter illegal wildlife crimes. In Kaziranga, more than 200 rhino poachers were arrested between 2009 and 2013, while not even one was convicted. Without effective law enforcement, even high-end technology will prove futile.
+
+In Reverse Gear
+
+As much as the industrial boom and subsequent technological advancements are to blame for accelerating climate change, we are now largely dependent on technology to reverse this disaster in waiting.
+
+Scientists and engineers are developing tools to improve biodiversity monitoring, identify imminent threats and mitigation measures. Tracking and monitoring wildlife through camera-trapping goes way back to 1877. This non-intrusive and simple method to obtain images of animals in their natural habitats paved the way for more refined tracking and data collection methods, so crucial for conservation. From bulky cameras with wires and pressure pads to motion sensors and infrared technology, camera trapping technology has developed by leaps and bounds. Improved imaging technology and data analysis softwares are aiding in efficient management of camera trap data to churn out valuable information for conservation.
+
+Radio telemetry technology has been a popular choice for tracking and studying wild animals - their ecology and behaviour - since the 1960s. Then, tracking devices comprised very high frequency (VHF) transmitters, whose range was limited to a few kilometres. Eventually, satellite technology allowed individuals to be tracked across continents. Today, satellite telemetry not only allows far-ranging studies of megafauna, but also enables the study of birds, turtles and even insects owing to the remarkable decrease in the size and weight of tracking devices.
+
+Endangered fish species such as the Colorado pike minnow are being tagged using the Passive Integrated Transponder (PIT) system, which can monitor movement to obtain complex information on migration patterns. The PIT system works much like microchips operate in larger mammals.
+
+
+
+Photo: Valmi Shah.
+
+Gene Power
+
+Gathering proper genetic data on diversity and identification of distinct populations will help establish better and effective conservation management plans. The 10,000 odd cheetahs left in Africa lack genetic diversity, making them extremely susceptible to diseases. However, genetic analysis is helping in selective breeding of individual cheetahs to restore their diversity to an extent. Any isolated populations of endangered species such as Asiatic lions, which are only found in Gir and nearby areas of Gujarat or the sangai or brow-antlered deer found only in the precincts of the Loktak lake in Manipur are under constant danger of being wiped out, either due to an epidemic or natural calamity. Improving technology based on genetics has the potential to avert such possibilities of permanent extinction. Future generations may be forced to rely on trail-blazing advancements in genetics to revive extinct animals in a bid known as de-extinction. The Frozen Ark set up at the University of Nottingham, England, acts as a bank that is collecting, storing and preserving the cells and DNA of various species, especially endangered ones, in the hope that this bank and such other resource banks in various countries will act as insurance for the future. The founders of the Frozen Ark insist that it is in no way an alternative to protecting wild animals and their habitats, but preserving such samples, could some day come in handy for conservation breeding and de-extinction.
+
+Protecting Marine Life
+
+Illegal, unreported and unregulated (IUU) fishing worldwide is undoing the delicate web of our marine ecosystems and threatening the food security of millions of humans. Large industrial fishing operations are adopting increasingly unsustainable methods to target marine species. Atlantic bluefin tuna, Chilean sea bass and innumerable other fish species are under threat, and if current practices continue, experts say the world's fisheries will completely collapse by 2048.
+
+Marine biologists and conservationists are relying on real-time satellite imagery used in a marine environment monitoring software known as Virtual Watch Room developed by Pew Charitable Trusts and Satellite Applications Catapult. This software can track and identify any suspicious activity in the oceans to hamper illegal fishing. Organisations such as the Sea Shepherd Conservation Society and Greenpeace are doing a commendable job of protecting our oceans. They believe in direct-action tactics to investigate suspicious activity out in the sea by using their technologically well-equipped ships and team to confront offenders.
+
+It would be impossible to cover all the incredible technological developments in the wildlife sector in one article. But technology is truly transforming wildlife conservation. An eye for an eye makes the whole world blind is true, but in these crucial times, when polar ice caps are melting, natural calamities have become the order of the day, the sixth mass extinction is underway and governments of all the carbon-emitting nations refuse to take the onus to protect our natural resources, we need to fight the technology that is wreaking havoc with technology. Gandhi would have agreed.
+
+ 
+
+
+	
+		
+			HOW TECHNOLOGY HAS SHAPED THE ENVIRONMENTAL INVESTIGATION AGENCY'S WORK
+
+			The Environment Investigation Agency (EIA) has been investigating environmental crime and abuse of the natural world since 1984. As a campaigning organisation advocating changes in laws, policies and calling for more effective enforcement, our investigations are just one of the tools in our toolbox. Documenting and analysing our findings, and packaging up the visual evidence for different audiences - law enforcement, decision-makers, media and the public - is just as important.
+
+			A picture, still or video, can paint a thousand words, and getting that compelling visual information requires technology. For example, drones are a good way to film forests at risk from illegal logging and conversion to oil palm plantations.  Open data kits distributed among community groups can help local people securely and anonymously upload time-stamped, GPS locations of forest crimes taking place in their own areas; circumventing corrupt officials.
+
+			A lot of EIAs work on illegal wildlife trade focuses on the role of the consumer countries. In the case of tigers and other Asian big cats, we have investigated the markets for skins and bones that have been trafficked from India and Nepal to China, documented the licensed domestic trade in farmed tigers in China and the open trade in tiger parts and products in Lao PDR.
+
+			Recording parts and products on offer, and the wildlife criminals account of how the contraband is sourced and smuggled, what the end market is, prices, processing of products and scale of the trade is essential to inform law enforcement and convince governments to invest resources in a targeted way.
+
+			Thirty years ago, EIA pioneered the use of hidden cameras to document wildlife crime, and in those days we might have used a regular handicam cleverly concealed. Todays technology means there are many accessible and discrete products on the market that investigators can use.
+
+			Tracking devices have become more affordable and compact too, and EIA has inserted trackers into broken computer monitors and followed them online as they left the United Kingdom, to expose the illegal disposal of e-waste in west Africa.
+
+			After so long in this field of work we have masses of information on environmental criminals and crime incidents. We use a specialised software, i2, for managing this data and for mapping out criminal networks operating across continents. This helps us plan our investigations, and in the publication phase, helps us illustrate complex organised crime networks. Many of these have evaded criminal justice for decades because incidents - seizures or arrests - were treated in isolation as opposed to being examined as pieces of a bigger puzzle.
+
+			
+
+			Photo: EIA 2009.
+
+			Even submitting this piece to Sanctuary was dependent on technology - I'm tapping this out on my phone to SMS it through because I'm tucked away in a location without Internet!
+
+			- Debbie Banks, EIA Campaign Leader (Tigers & Wildlife Crime)
+			
+		
+	
+
+
+ 
+
+
+Purva Variyar is a conservationist, writer, and editor. Her true passion lies in science communication. She currently works with the Wildlife Conservation Trust. Purva has previously worked as a Senior Editor and Science Communicator with Sanctuary Asia magazine. She has also worked on human-snake conflict mitigation and radio-telemetry of Russell’s vipers under The Gerry Martin Project.
+
+            
+            
+
+            
+                
+                    join the conversation
+                    
+                    
+                    
+                    
+                
+                
+                    subscribe

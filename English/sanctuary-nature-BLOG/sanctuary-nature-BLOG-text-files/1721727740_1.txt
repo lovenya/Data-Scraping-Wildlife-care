@@ -1,0 +1,88 @@
+Negotiating The Gaze
+
+            
+                
+                                        
+
+                                                First published in Sanctuary Asia,
+                        Vol. 39
+                        No. 12, 
+                        December 2019
+                                            
+                
+            
+
+                        
+By Trishant Simlai
+
+“Raat ko toh unhone haath uthaa diya” (He hit me last night), says Laxmidevi (name changed). “Shuu! Yahan pass mein camera laga hua hai” (Quiet! There is a camera attached here), retorts Mayadevi (name changed). This exchange of words between two women in the forest legally collecting firewood left me questioning the impacts that camera traps could have on the daily lives of many marginalised communities living in and around India’s wildlife reserves.  
+
+The last two decades have seen a conservation science revolution in terms of the technologies that have been deployed to generate ecological data, from Global Positioning Systems (GPS) to new age drones. Automated wildlife cameras that are known as ‘camera traps’ too have been part of this, and have been invaluable in conservation management especially when it comes to generating data on population estimates of big cats like tigers and leopards. Camera traps are inconspicuous, have sensitive motion detectors and are available in a range of prices. This has enabled scientific surveys on a large scale, even of rare and shy animals in all kinds of habitats. 
+
+Camera traps are a major technological revolution in conservation science, enabling large-scale scientific surveys of animals, such as this male gaur captured in Kotagiri’s tea plantations. Photo by: Yashpal Rathore.
+
+However, camera traps frequently take pictures of people as well. As the scope of wildlife research steadily expands from being limited to inviolate areas inside reserves to shared spaces between humans and wildlife, interactions between people and camera trap devices become more commonplace. Furthermore, there has been an increased interest in the use of camera traps to monitor anthropogenic activities inside reserves, detect wildlife crime and aid in law enforcement. These shifting objectives, from ecological research to traditional surveillance, have had implications on how the people that use spaces where camera traps are deployed respond to them. For example, I have had colleagues complain about how their camera traps are vandalised, stolen and sometimes subjected to socially unacceptable behaviour. Wildlife researchers often dismiss such events as an act to wipe evidence of an illegal activity that may have been captured by the device. However, the causes driving such acts are rooted in socio-political and socio-historical contexts of the area.
+
+
+
+Camera traps take images of people; this may be useful in helping detect wildlife crimes such as poaching (above) or could be invasive for local communities who may have legal access to the forests for their needs, such as wood extraction (top). Photo courtesy: Wildlife Conservation Trust.
+
+Over the past 10 months, I have been conducting ethnographic fieldwork in villages around the Corbett Tiger Reserve as part of my Ph.D. research to understand the social and political implications of conservation surveillance technologies. My main research objectives are to understand the role that surveillance technologies such as camera traps and drones play (if at all) in influencing people’s behaviour, how these technologies contribute to contestations of space amongst local communities and conservation actors, and to understand if an opportunity exists to use participatory mechanisms with the involvement of local communities while deploying these technologies. Although it is too early to give an analytical perspective of my findings, I will attempt to elucidate issues that are particularly evident at this stage and have larger conservation consequences.
+
+
+
+Implications in daily life
+
+
+
+The forests of Kumaon, like other regions of India, have been harvested for produce like firewood and ‘fodder’ grass for generations. They have also seen a history of conflict-related to the use of forests since colonial times. It is mainly the women in a community that go to the forest to collect firewood and cut grass for their cattle. Women in Kumaon use forests not only for their daily material needs, but also as a space to converse with each other, discuss family issues or engage in small time village gossip. In a deeply patriarchal society, the forest acts as a space where there is a certain sense of liberation and freedom for them. During my observations, I have noticed that women change their behaviour considerably when they have knowledge of camera traps being placed in the forest. Many raise concerns over their voices being recorded, their photographs being taken (many women tie their kurtis above their knees when working in the forest) in a way that is culturally unacceptable. There have been multiple incidents when the arrival of a drone being piloted remotely from a few hundred metres away created panic amongst women who had not seen something like that before. During one such event, a woman in her attempt to hide from the drone was injured as she tripped over and fell on the forest floor. Camera traps and drones, in this case, have infringed on one of the only available spaces for women where they would feel liberated and free.
+
+
+The forests of Kumaon, like other regions of India, have been harvested for produce like firewood and ‘fodder’ grass for generations. They have also seen a history of conflict-related to the use of forests since colonial times.
+
+
+There have also been cases where photos of people from camera traps have been used as a tool for harassment, bribery and exploitation. For example, local residents from a fringe village of the Corbett Tiger Reserve mention how forest watchers (temporary staff of the Forest Department) along with forest guards often assert their authority by stating ‘hum cameron se dekh rahein hai’ (we are watching you through the cameras). Sometimes the poor and the not so well informed are targeted to extract menial bribes, and when money is not available, they settle for a portion of what is being brought from the forest, says another resident. An uproar was created in a village when camera traps were deployed in an area that was used by village residents for their daily sanitary needs, without taking the consent of, or informing, the residents. Angered by this humiliation and lack of respect, villagers vandalised cameras whenever they came across one. Such acts of resistance are not uncommon and disprove the popular notion amongst researchers that cameras get stolen only because people want to cover up some illegal activity. 
+
+Camera trapping, though a boon to the world of conservation, can be invasive for villagers living on the fringes of monitored forests if not employed ethically. Many wildlife institutes and nonprofits work in parallel with the village Panchayats to ensure that those moving in and out of forests are aware, and footage is blurred to protect their identities. Photo courtesy: Wildlife Conservation Trust.
+
+
+
+It stands to reason that when pictures of people are clicked and stored, be it by the State or conservation NGOs, the people being photographed should have the right to know what is done with their images. If the images are going to affect policy, they need to be informed about how the resultant policy would affect them so that trust can be maintained by taking them into confidence. After months of observation, I can state that people living around the Corbett Tiger Reserve overwhelmingly view camera traps as a device primarily deployed to ‘keep an eye’ on them, while in reality, this may only be a secondary objective. 
+
+
+
+Ethical Use
+
+
+
+With a proliferation of these technologies that are now readily available in the market, it is imperative that conservation researchers work to a set of guidelines and protocols for the ethical use and deployment of such technologies. Camera traps must not infringe reasonable rights to privacy. Such steps could include blurring of human images captured by camera traps, the use of machine learning algorithms can be used to blur pictures of people even before any human sets eyes on them. If a picture needs to be used as evidence against an illegal activity, the image should not be shared to any unauthorised source and certainly not on social media platforms. Researchers should also proactively involve local communities in the camera trapping exercise. This could start by demonstrating at village meetings just what the device does and share images of wildlife with them to build trust and goodwill. 
+
+
+An uproar was created in a village when camera traps were deployed in an area that was used by village residents for their daily sanitary needs, without taking the consent of, or informing, the residents.
+
+
+
+
+This should not be seen as some kind of stumbling block. On the contrary, conservation projects will greatly benefit from the participation of the community, and will lose fewer cameras and data. Going beyond ‘not antagonising’ locals, the project benefits when communities voluntarily contribute their intimate knowledge of the forests and wildlife to the data gathered. 
+
+
+
+Essentially, the implications of camera traps and other surveillance technologies on people’s well-being and privacy must be much more widely and openly discussed in professional conservation circles. A good set of protocols that minimise social impacts will result in both short and long term conservation successes.
+
+ 
+
+Post Script: “Mein camera ke saamne khub gaati hoon aur naachti hoon” (I sing and dance in front of the camera), “koi na koi toh dekhe mujhe Dehradun mein” (somebody will watch me in Dehradun), says a young woman from a village ‘van panchayat’ forest along the northern boundary of the Corbett Tiger Reserve. I was further informed that the camera trapping was done with full consent and knowledge of the residents of the village. 
+
+            
+            
+
+            
+                
+                    join the conversation
+                    
+                    
+                    
+                    
+                
+                
+                    subscribe

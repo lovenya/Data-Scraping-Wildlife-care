@@ -1,0 +1,119 @@
+Technology-Driven Conservation: Scientific Monitoring & Research in the Gir Landscape
+
+            
+                
+                                        
+
+                                                First published on
+                        June 15, 2022
+                                            
+                
+            
+
+                        
+By Mohan Ram, D. T. Vasavada, Lahar S. Jhala
+
+
+
+
+
+Haidu, the head pugee, who would be my guide for the day, was a tracker with an almost psychic understanding of lions. We left at dawn to escape the noisy crowds at Gir's famous `lion shows'*. With our water canteens filled and a small sling bag with dry chapattis and vegetables around Haidu's neck, we set off into the scrub jungle. I had my binoculars and camera equipment with me. I have always been a keen photographer, even in the old days when jungle outings, more often than not, meant shikar.  The sun was up before we had covered two miles and all around us I could see the rugged, picturesque terrain that was home to the last remaining representatives of Panthera leo persica. – Sanctuary Vol. No. 1982
+
+
+
+Four decades since the late Dharmakumarsinhji’s poignant piece about the Asiatic lion and the legendary capabilities of Gir’s trackers was published in Sanctuary, technology is rapidly changing the conservation and management of this vibrant landscape. The Gujarat Forest Department’s multi-pronged strategy, which includes habitat management, prey-base augmentation, technology-driven scientific research and monitoring, human-wildlife conflict mitigation, awareness and sensitisation programmes, people’s participation, and advanced wildlife veterinary care, is transforming how Protected Areas can be managed. 
+
+ 
+
+Home of the Asiatic Lion
+
+
+
+Gir, home of the Asiatic lion, is a unique and vibrant ecosystem in India’s western coast. The current Asiatic lion population size is 674 (June 2020), an increase of 28.87 per cent since 2015. Distributed over an expanse of ~30,000 sq. km. in nine Saurashtra districts (Junagadh, Gir-Somnath, Amreli, Bhavnagar, Rajkot, Surendranagar, Botad, Porbandar, Jamnagar), the Asiatic lion’s thriving pop is a conservation success story.
+
+ 
+
+The need for monitoring
+
+Scientific monitoring allows for better understanding of the ecology, habitat and aids conservation and management of Protected Areas. With ever-evolving on-ground situations – urbanisation, runaway eco-tourism, human-wildlife conflict – regular science-based monitoring enables informed decision making that safeguards large predators such as lions and leopards from the vagaries of living in close proximity to human habitations. 
+
+The Wildlife Division, Sasan-Gir’s effort to increase its capacity to continuously monitor and scientifically gather data now includes state-of-the-art Gir Hi-Tech Monitoring Units at the Sinh Sadan Campus. The two units (see box) monitor and analyse advanced radio-telemetry studies on carnivores and avifauna, wireless communication and different surveillance systems, e-GujForest data, unique microchip data sets, surveillance on entry/exit points, and safari and forest vehicles movements. 
+
+ 
+
+The Wildlife Division, Sasan-Gir’s effort to increase its capacity to continuously monitor and scientifically gather data now includes state-of-the-art Gir Hi-Tech Monitoring Units at the Sinh Sadan Campus.
+
+ 
+
+Bird Studies
+
+The avian telemetry system monitors 15 species of birds fitted with solar-powered satellite transmitters. This monitoring and research initiative has been implemented on vultures (11 individuals of six species -- Indian, White-rumped, King, Himalayan Griffon, Eurasian Griffon, and Egyptian), eagles (three individuals of three species -- Greater Spotted, Indian Spotted, and Tawny), harriers (three individual of two species Pallid and Marsh), Lesser Floricans (six individuals; five male and one female), cranes (Four individuals: two Common and two Demoiselles), and Indian Grey Hornbill (five individuals). The data provides insight into the migration pattern, dispersal and foraging ecology, wintering and breeding grounds, habitat preferences, and more. This will play a significant role in planning future conservation and management strategies for these species.
+
+
+
+Additionally, the development of a state-of-the-art Forest Management Information System (FMIS) called e-GujForest, an android-based application, developed in two languages, Gujarati and English, allows recording of data on forest offences, rescue, release, administrative notes, management interventions, kills, injuries to humans and animals, beneficiary-oriented schemes, wildlife, and other observations. Two thousand mobile tablets with the e-GujForest application installed have been distributed among field staff. The application’s easy Graphical User Interface includes provisions for capturing and storing images and offline data storage, which is synced and relayed through a GSM network when available. This data can then be viewed on the Gir Hi-Tech Monitoring Unit dashboard. The system also has a link to the Geographical Information System interface, which helps in mapping observations, allowing for easier data processing and design of better protection and management strategies.
+
+
+
+Rescued lions and leopards are microchipped. The non-pathogenic unique chip is inserted subcutaneously and lasts life-long. The case histories of such microchip-implanted animals are maintained in the database system, which helps in monitoring and tracking and provides valuable insights about their movement and behaviour and also has relevance in human-wildlife conflict mitigation. 
+
+The avian telemetry system monitors 15 species of birds fitted with solar-powered satellite transmitters.
+
+
+
+Equipping Frontline Forest Staff
+
+A dedicated and exclusive Gir wireless communication and surveillance system established in the landscape has reinforced communication and monitoring and strengthened the activities and presence of the department in the landscape. Frontline forest staff have been provided new digital hand-held radio sets and vehicle sets. Repeater stations established to receive signals and retransmit over long distances allow for smooth and uninterrupted communication, even in remote and rugged terrain. This also enables remote monitoring of each wireless set, including hand-held radios, tracks field staff activity through its GPS functionality, improves surveillance cover and alerts the team about any unforeseen emergencies. The system also aids in developing closed groups and designating colour codes to different wireless sets. 
+
+
+
+Identifying Lions
+
+New technological interventions are also augmenting individual identification of the Asiatic lion. Since lions lack distinctive patterns in colouration or other readily visible permanent individual identification marks, we have relied on occasion on the identification of whisker spot patterns (vibrissae pattern) and other markings to identify them. Asiatic lions have conspicuous, parallel rows of whisker spots on either side of their muzzle. Each whisker spot is a small furless area surrounding a single ‘whisker’. Scientific studies have revealed that precise patterns of these whisker spots are highly variable, and they do not change over time. The identification is based on the relationship between the whisker spots in the first and second rows. 
+
+Computer-assisted photo-identification is a helpful tool for understanding population demographics, dispersal, social system of the lions and expanding conservation and management efforts. An Artificial Intelligence (AI) based photo-identification software SIMBA (Software with Intelligent Marking Based identification of Asiatic lions), with an user-friendly graphical interface, specifically designed to distinguish patterns and marks, has been developed to easily identify Asiatic lions. 
+
+Frontline forest staff in Gir have been provided new digital hand-held radio sets and vehicle sets.
+
+
+
+SIMBA works with a deep machine learning technique that matches a point-pattern for pairwise comparisons that automates the individual identification, based on the variability in the individual’s whisker spot pattern, the presence of facial scars, ear notches and other metadata. The software is capable of identifying and clustering similar patterns/marks within the embedded space of machine learning and creating a database with a unique identification number/name. It allows the user to identify and search intuitively and includes filters such as gender (male/female), name, microchip number, life-status (dead/alive), lactating (in case of female). The wildlife veterinary record of individuals may also be added to the database. SIMBA provides an efficient non-invasive identification mechanism for Asiatic lions.
+
+The Gir Hi-Tech Monitoring Unit, which was established with the vision of monitoring the landscape from a managerial, protection and scientific perspective, has thus proven to be highly effective and sets an example for the use of modern tools and technologies in the conservation and management of forests and wildlife in the country.
+
+ 
+
+The Surveillance Systems of Gir National Park and Wildlife Sanctuary
+
+
+
+Unit one houses vehicle and CCTV surveillance systems. Gir, attracts around 5.5 lakh tourists who are provided safari vehicles operated by locals. The vehicle surveillance system monitors safari gypsy movement along fixed routes on an almost real-time basis, which helps in emergencies and to ensure that rules and regulations are being followed. It also records forest staff visits to conflict or management intervention areas. The CCTV surveillance system also continuously monitors sensitive places (entry and exit points) and select check posts where vehicles traverse. 
+
+
+
+Unit Two houses carnivore telemetry, avian telemetry, e-GujForest data monitoring, the microchip database, and Gir’s wireless surveillance systems. 75 satellite radio-collars procured from Germany have been attached to selected individuals to monitor and gather ecological data. Five Indian leopards (two males and three females) have also been fitted with radio-collars. The carnivore telemetry system monitors the movements of the radio-collared lions and leopards and the data recorded, retrieved and analysed is used for management interventions if required and for scientific research. This system allows for better understanding of the lion’s and leopard’s ecology, with facts about the spatial distribution, corridor mapping and uses, movement and distribution of satellite population, seasonal movement patterns, land use patterns, habitat preferences, activity patterns being consistently recorded. Based on the sensitivity of the data received, alerts are relayed to concerned authorities. The advanced tool of virtual geofencing has also been established in potential conflict areas to monitor the radio-collared individual’s movement. 
+
+ 
+
+ 
+
+Photos are from the archive of Wildlife Division, Sasan-Gir.
+
+
+
+
+Dr. Mohan Ram, IFS, and alumnus of the Indian Agricultural Research Institute, New Delhi, has a keen passion for forest and wildlife conservation. He is currently the DFO, Wildlife Division, Sasan-Gir, Gir National Park & Wildlife Sanctuary. D. T. Vasavada, IFS Officer, and Chief Conservator of Forests, Wildlife Circle, Junagadh, working in the Gujarat Forest Department for the last 38 years, has vast experience in administration, forest protection, conservation, management, research, training, and community participation. Lahar S. Jhala holds a Master’s Degree in Forensic Science and has been working in wildlife crime scene investigation and wildlife forensics for five years in the landscape. He is a Scientific Assistant, Wildlife Division, Sasan-Gir.
+
+            
+            
+
+            
+                
+                    join the conversation
+                    
+                    
+                    
+                    
+                
+                
+                    subscribe

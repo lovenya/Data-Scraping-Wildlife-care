@@ -1,0 +1,97 @@
+Speaking The Language Of Economics In Modern Conservation
+
+            
+                
+                                        
+
+                                                First published in Sanctuary Asia,
+                        Vol. 42
+                        No. 8, 
+                        August 2022
+                                            
+                
+            
+
+                        
+By Purva Variyar
+
+What is the value of a 100-year-old banyan tree sustaining countless animals and providing oxygen, shade as well as an aesthetic reprieve to people? What price would you assign an entire mangrove forest that buffers a city from bearing the full impact of sea storms, preventing loss of life and property, personal grief and tragedy? Or that of the oceanic blue-green algae that sequesters gigatonnes of carbon from the atmosphere each year? Or even to a river, that literally sustains civilisations?
+
+You may be right in thinking that assigning monetary value to nature’s creations and its services is demeaning to nature’s true worth, which is essentially unquantifiable and is beyond what we can fully comprehend. But, in today’s market-based economy that focuses on profit and short-term gains, our society’s view of progress and development is synonymous with the mindless use of scarce natural resources. So, understanding the costs and benefits of preserving (or demolishing) ecosystems for human purposes is crucial. Here is where economics comes in.
+
+Economists are helping to translate the environmental values of complex ecological systems into the language that policymakers, industrialists, and development project proponents will best understand. They are working with social scientists and ecologists to understand and analyse human behaviour surrounding the use of natural resources. Economists are grappling with the daunting task of understanding how much of nature can be feasibly exploited for economic and societal gains and how much needs to be protected so that ecosystems can function and offer their life-giving services such as clean air, water, climate control, food security, pollination, and so on and helping to inform economic and development policies.
+
+I spoke to economists Aniket Bhathkhande, who heads the Conservation Behaviour Division of the Wildlife Conservation Trust (WCT) and Pooja Dewoolkar who is part of his team. Together with the team’s social scientists, development researchers and ecologists, they are combining the frameworks of economics with that of psychology, sociology and anthropology. The team has pioneered impactful projects over the past five years, to address a range of complex conservation issues.
+
+
+
+Economics is largely a study of human behaviour surrounding the use of resources and scarcity of these resources. Photo: Wildlife Conservation Trust.
+
+What is economics, in simple words?
+
+Pooja: Economics has expanded from what it once meant – the ‘science pertaining to the management of a household’. Historically, the subject has been influenced by different philosophies, interacting constantly with social contexts across different time periods. This has had a tremendous effect on its scope and application and as a result, what is studied within it. It is thus ever-evolving. Today, it is a focus on the scarcity of resources, their optimal usage and the implications of that for future generations. An applied component we are exploring is Ecological Economics, which sees human systems as a subset of ecological systems and thus forces us to recalibrate the connection between us humans, the institutions that govern us, and the resources available to us.
+
+Aniket: Economics is the science of the allocation of resources to optimise their utility. It tries to figure out the best way to use resources so that everyone benefits. The dominant approach of economics in our times, i.e.  neoliberalism, believes that services provided by nature can be created through human input and technology. Ecological economics on the other hand believes that the economy is a subset of ecology and thus bound by its limits. We at WCT are guided by the latter perspective in our approach to economics.
+
+How does an economist calculate the value of an ecosystem such as a river, which provides a multitude of services and whose ecological impact ties into the health of other ecosystems?
+
+Aniket: To calculate its value, an economist has to quantify the various benefits that accrue from the ecosystem. The tangible benefits (e.g. firewood from a forest; or a fishery contained within wetlands) can be accounted for through empirical data, existing records, satellite imagery, and so on. The intangible benefits (air purification, water security, spiritual upliftment) are trickier to quantify and economists use a variety of methods.
+
+For example: a sea view from a flat has an intangible value for the owner but in comparison, a similar flat (perhaps in the same building) with no sea view will allow us to assign a price on that view. For something like irrigation, the crop yields without irrigation can give us a comparative amount for valuing the irrigation service offered by the ecosystem. Economists use valuation studies as a tool for analysis where money is the language of conveying the results. Money allows us to compare assets that will otherwise be difficult to compare.
+
+What role did you as economists play in addressing the issue of forest degradation on account of firewood extraction in WCT’s pioneering ‘Heater of Hope’ project in Maharashtra?
+
+Pooja: It would be difficult to isolate the role of economics in this process as we really intended for it to be a collaborative effort among the social sciences and at times, beyond those as well. If one must look at the process solely from an economics perspective, the intention was to understand the demographic details such as incomes, level of education, livelihood opportunities, livestock holdings and land asset of the communities. This helped in providing a quantitative snapshot of the background of the people that we intended to work with. Additionally, the design of the baseline study also focused on understanding the energy usage profiles of the communities, including their dependencies on forest resources such as firewood. Overall, this helped to quantitatively gauge and understand the interactions between these parameters.
+
+Aniket: We conducted large quantitative surveys through which we built a household-level understanding of LPG (Liquefied Petroleum Gas) usage by the households, reasons for the continued use of firewood, the role of income in firewood usage, and so on. The results of these studies give us insight into the decision-making and preferences of a representative household in the landscape. This allowed us to identify water heating as a policy gap. While in subsidised LPG, there was a relatively cheaper alternative to firewood for cooking, the households had no affordable alternative to using firewood for heating water. This is how the environmentally sustainable, energy-efficient and affordable water heating intervention was conceptualised. This is not a one-time process and we continue to engage with communities.
+
+Pooja: We wished to isolate how our intervention affected firewood consumption on the ground, notwithstanding the effect of other socio-economic variables. We used the difference-in-differences (DID) method – we conducted surveys in villages that had been introduced to the intervention, i.e., ‘treatment’ villages as well as a ‘control’ village to understand differences across villages. Additionally, we surveyed all the households to account for differences within villages between treatment and control households. Differences from the baseline figures across parameters were compared to identify the on-ground changes, which could be attributed to the intervention.
+
+
+
+Blackbuck in the Velvadar National Park, which is among the few protected grasslands in India. Forceful ‘greening’ of ecosystems makes them susceptible to ecological damage since they were never forests. Photo: Dr. Anish Andheria.
+
+Is environmental protection part of India’s plans for future economic growth? Why is it important that it be so?
+
+Pooja: Globally, the issue of devising a sustainable development plan (i.e. a plan that considers the developmental costs on its natural resources) without impinging on citizens’ rights is difficult to achieve. To add to it, countries with a colonial history have been influenced heavily by their settler’s perspective with respect to natural resource management – a classic example of this is the precedence that forests get priority over other ecosystems when it comes to budgets being allotted towards their protection. With a significant population battling the poverty trap, India must strive for a fine balance between investment in human capital without burdening its resources. The negative consequences of economic policies cannot be dealt with in isolation and these costs must be included in the policy design itself. ‘Pollute first, clean up later’ cannot work.
+
+On a national front, we have agreed to adhere to incorporating the Sustainable Development Goals (SDGs) and aim to improve the indicators defined for achieving these goals. However, the grassroots conditions present a distorted picture. While our environment policy focuses on penalising negative consequences, it fails to incentivise people to opt for positive ones. Our institutions create sub-optimal outcomes for both the people as well as the environment – a prime example of this is channelling of state funds in plantation drives without understanding the ecosystems that these drives are being conducted in. Given that achieving sustainable growth is a long-term goal, the outcomes of our actions need to be gauged within that time frame.
+
+What is wrong with India’s present environmental protection model?
+
+Pooja: India’s environmental protection model focuses on improving its forest cover. This is troublesome as it ignores all the other ecosystems that add to our rich biodiversity and work in tandem with forest ecosystems for providing necessary ecosystem services. At best (of the worst options), it results in forceful ‘greening’ of ecosystems susceptible to ecological damage from indiscriminate greening since they never were forests. This includes deserts and grasslands. An ill-informed execution of such plans results in introduction of plant species, which are alien to that habitat and therefore have a negative effect on the ecosystem. At worst, the regions are left accumulating pollutants and residual wastes and eventually turn to wastelands. Thus, the services provided by these ecosystems go unaccounted for.
+
+How is WCT’s ‘Fiscal Principles’ project working to address the ecological and economic inequities across India on account of such a forest-focused model?
+
+Aniket: To ensure that India’s economic growth is sustained, it is crucial to safeguard its environment. This will demand reforms in its current policies by incentivising environmental protection and promoting it as an allied objective. The importance of maintaining ecosystems to ensure its benefits is increasingly seen as vital in both poor and rich countries. India recognised this importance almost 50 years ago and instituted laws protecting our forests. However, for sustained conservation of resources, we need to look beyond the existing mandate of forest protection to address inequity concerns.
+
+There is no incentive for any state governments, local bodies, communities, or individuals to conserve non-forested yet equally critical ecosystems. The near extinction of the Great Indian Bustard and decline of grasslands, which are more reliable carbon sinks than forests (because they store sequestered carbon underground) is indicative of this neglect. Unless the government addresses these misplaced incentives through equitable distribution of funds incentivising protection of all types of ecosystems, critical natural habitats and their dependent species will be pushed to the brink.
+
+WCT’s project, undertaken in partnership with the HT Parekh Foundation, aims to drive policies that create incentives for governing bodies (from centre to the third tier) to achieve developmental goals without compromising on ecosystem services. Providing evidence-based and scientifically robust policy recommendations to the Finance Commission on fund devolution is a good way to do this.
+
+
+
+Economist Pooja Dewoolkar (standing) addresses a team of surveyors during a training session held at the Sahyadri Tiger Reserve, Maharashtra. Photo Courtesy: WCT.
+
+How do you see economics furthering conservation?
+
+Pooja: Economics brings forth an important perspective to understanding human interaction and decision making. Alongside other disciplines, it can help understand the status quo and aid in transforming human behaviour to best achieve optimal conservation outcomes. If used well, the governing principles can help our species to make better decisions that can correct our current course.
+
+Aniket: As mentioned earlier, economics is the science of optimising resources. The need for conservation arose because we are in trouble and are worried about the availability of adequate natural resources in the future. We need experts from across disciplines for what lies ahead, and economists will have to work in tandem with them to achieve an understanding of the complex and unique system that is Earth.
+
+
+Purva Variyar is a Conservation and Science Writer with the Wildlife Conservation Trust. She has previously worked with Sanctuary Asia magazine and with The Gerry Martin Project (now The Liana Trust).
+
+            
+            
+
+            
+                
+                    join the conversation
+                    
+                    
+                    
+                    
+                
+                
+                    subscribe

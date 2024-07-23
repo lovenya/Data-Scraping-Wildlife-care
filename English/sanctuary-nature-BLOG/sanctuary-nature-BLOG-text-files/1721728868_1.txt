@@ -1,0 +1,95 @@
+Hiding in Plain Sight
+
+            
+                
+                                        
+
+                                                First published in Sanctuary Asia,
+                        Vol. 41
+                        No. 8, 
+                        August 2021
+                                            
+                
+            
+
+                        
+Discovering a new frog in the Western Ghats
+
+Text and photographs by Dr. Seshadri K.S.
+
+It was a late June evening in 2015 and the monsoon was in full strength. With just thin rain wear as protection, we drove a scooter towards the laterite rock plateau on Manipal’s outskirts, near Udupi. Ramit Singal and I sheltered under a tree and soon began to hear our quarry – frogs – calling. Suddenly, Ramit went silent and signalled for me to follow. Pointing to the ground he whispered: “This is the call!” But the weird sound I heard was nothing like a frog! Kneeling beside Ramit, very gently, we began lifting one fallen leaf after another and suddenly… there it was! A tiny frog, half the size of my thumb. It was indeed the frog calling, but it sounded like nothing I had ever heard before.
+
+Earlier that month I had arrived in India for fieldwork on Western Ghats’ frogs. My collaborator, Dr. Gururaja K.V. had received two sound recordings from Ramit seeking identification help. After listening, I concluded it was most probably an insect. Ramit, however, was insistent that it was a frog and we were there to verify which creature was sending out those calls.
+
+That night, we continued our search and recorded several frog calls. By now, based on its size and narrow mouth, we had already concluded that the frog making the insect-like sound belonged to the genus Microhyla. This group of frogs remains highly understudied in South and Southeast Asia. We suspected that the “Zeeeeee, Zeeeeee…” calls could well belong to an undescribed species so we took detailed photographs, collected a few individuals as voucher specimens (see box below). We also took a small piece of thigh muscle tissue and stored it in vials of absolute ethanol for DNA analysis. Specimen collection is strictly regulated with permissions required from the Forest Department as well as the animal ethics committee where one is based.
+
+
+
+Audio and photo: K.S. Seshadri
+
+The Plot Thickens  
+
+Back in our Bengaluru laboratory, Gururaja and I measured the specimens and analysed the calls as our colleague, Dr. Priti Hebbar, began comparing two gene fragments, 12S and 16S rRNA, with other frogs of genus Microhyla in India. The new Microhylid matched no known species from India, but was closely related to another species Microhyla sholigari, described in 2000 and named after the Sholiga tribe in the Biligiri Rangaswamy Hill Temple (BRT) Tiger Reserve, Karnataka. Priti had obtained that species’ genetic data on another expedition.
+
+We were delighted to have stumbled upon an undescribed species and could assign a name to it, as determined by the rules outlined in the International Code on Zoological Nomenclature (ICZN) (see box below). We finally homed in on Microhyla laterite, after the laterite rock formations predominant in the area. We wanted to draw attention to this habitat which, regrettably, is listed as a wasteland in the (outdated) Wasteland Atlas of India, prepared by the Government of India. We registered the species on ZooBank, the official registry of zoological names by ICZN. Subsequently, the specimens were deposited at the museum of the Bombay Natural History Society (BNHS), an institution that has contributed immensely to our understanding of the natural world by housing the type specimens of several thousand large and small species.
+
+What’s in a Name?     
+
+The ICZN code controls how a species is named and published. For example, a species cannot be named after oneself but can be named after others. There must be a physical specimen of the species in a museum accessible to the public and the species description must be published in a journal having either ISSNs or ISBNs, which are accessible either in print or online. The specimen used to describe a species is called the ‘Holotype’ and a few other alternate specimens are designated ‘Paratypes’. The collection of animals for specimens is a contentious issue and is under the oversight of both the legislations of the land and animal ethics committee of the authors’ institute of affiliation. Authors describing a new species, have the freedom to name the species. Initially, the ICZN code mandated Latinised species names but in recent years, this mandatory provision has been changed. Consequently, in recent years, authors have chosen Indian vernacular names such as Nyctibatrachus kumbara – derived from the Kannada word for ‘potter’, because male frogs cover eggs with mud; or named a species after a person such as Beddomixalus bijui, derived from the two eminent taxonomists, Col. Richard Henry Beddome and Dr. S.D. Biju.  
+
+
+
+Nyctibatrachus kumbara. Photo: K.S. Seshadri
+
+
+
+Later, when Dr. Gururaja and I were in the field in Bisle, Karnataka, to our immense surprise we heard a call similar to the one we had heard in Manipal. It was yet another microhylid frog! Comparing the genetic data, it turned out we had discovered a new population of Microhyla sholigari, which was thought to be restricted to the BRT Tiger Reserve. Now that we knew its call, we realised that the frog has a much wider distribution across Karnataka, including Bengaluru. Over the next few months, we wrote two papers, one describing M. laterite and the other, redescribing M. sholigari because the original description from 2000 lacked details of the adult frogs, and included neither colour photographs nor genetic data.
+
+
+
+Geographic distributions of Microhyla laterite (left) and, Microhyla sholigari (right). Green areas outlined by black are Protected Areas. The two species are similar in size but have several morphological, acoustic and genetic differences.
+
+The Nameless Extinction
+
+Amphibians have lived on earth for over 350 million years, yet they are now the most threatened of all vertebrates. Varied threats ranging from habitat loss to climate change is impacting them… magnifying their trials of life. Several species have already succumbed to the deadly Chytrid fungus Batrachochytrium dendrobatidis infection. In India however, new species are being discovered nearly every month. More than 50 per cent of the ~ 472 species of amphibians found in India are endemic. This biological heritage is in peril. We are probably losing species even without knowing they exist. That’s like burning a library without even cataloguing the books! 
+
+Our amphibian knowledge has grown and important disciplines such as biogeography, ecology, culture, and even medicine are now better known. The habitat where M. laterite is found is dominated by laterite rocks, an ancient geological rock formation. These habitats are fast disappearing, mined for bricks, converted to dumping grounds, or succumbing to rapid urbanisation. We expect this species to be listed as Endangered in the assessments made by the IUCN Red List. We also expect that M. sholigari, currently listed as Endangered, will be downgraded to Least Concern because it is now more widespread than thought. To frame effective conservation strategies, we must understand species distribution. Accidental discoveries like that of M. laterite highlight the importance of attention to detail. One does not have to mount expeditions to remote jungles to find new species, some thrive right behind our houses. If Ramit had not paid attention to that call and insisted that it was a frog, would M. laterite have been lost to science despite living so close to human habitation?
+
+Identifying a New Species!
+
+
+
+In the past, taxonomic descriptions were short and lacked detailed information but most included detailed lithographs. Taxonomy being a comparative science, access to specimens or even descriptions would have been difficult, and the same species would have been described several times by several authors under different names. Today, the process is much more streamlined. Museums, voucher specimens, and genetic data are integral to this process. When we encounter a frog species that looks distinct, we use at least three independent lines of evidence:
+
+
+
+1. Morphology – the most obvious visible aspect of a species. Detailed measurements of specific body parts such as the femur length or the snout-to-vent length allow us to statistically compare groups of species that look different. Colour, unfortunately, is not a good characteristic as it tends to fade in alcohol preserved specimens and amphibians can have variable colour. So instead, we look for a pattern e.g., does a frog have an X mark on its back as opposed to a Y mark, and so on. A detailed description allows you to compare the new specimen. The taxonomist must also visit museums to access old specimens or rely on detailed descriptions from journal publications. It is now increasingly common to use computer tomography (CT) scans to identify distinct bone or tissue characteristics.
+
+
+
+2. Acoustics – most frogs and toads communicate using acoustic signals. The male typically calls to signal to a female. The female assesses the vocalising male and decides to mate with it. Although how these assessments are made is not yet known, we know that each species has a unique call. With quality call recordings, one can determine the number of notes, call duration, peak frequency of the call and other characteristics to compare with other frogs’ calls.
+
+
+
+3. Genetic data – this insightful tool has helped identify species, especially cryptic ones. We typically use a fragment of the ribosomal RNA, a common gene product found in all cells. All species have it but over time, small changes may get accumulated at different rates between species and therefore, it becomes easy to compare them. The gene sequences are available on repositories such as Genbank® and can be downloaded and analysed.
+
+ 
+
+
+
+
+An avid birdwatcher, Dr. Seshadri K.S. studies the evolutionary ecology of amphibians at the Centre for Ecological Sciences, Indian Institute of Science. He has discovered new amphibian behaviour as well as species. 
+
+            
+            
+
+            
+                
+                    join the conversation
+                    
+                    
+                    
+                    
+                
+                
+                    subscribe

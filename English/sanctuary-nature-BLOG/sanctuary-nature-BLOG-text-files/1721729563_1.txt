@@ -1,0 +1,255 @@
+The PARIVESH Portal: Pros, Cons And How To Use
+
+            
+                
+                                        
+
+                                                First published on
+                        August 03, 2022
+                                            
+                
+            
+
+                        
+By Pakhi Das, Shashank Srinivasan, Nancy Alice, Ashwathy Satheesan, Nandini Mehrotra and Anand Srinivasan (Technology for Wildlife Foundation)
+
+Until July 15, 2014, the process for any development project to obtain a green clearance in India involved several stages -- the circulation of physical project files between different officials at multiple stages of approval. File access was limited to the government, the applicants seeking green clearances, and the authorities granting approvals. Moreover, the complex nature of clearance processes and the lack of accountability created a lack of trust in the process.
+
+ 
+
+To remedy this and to ensure better transparency and efficiency in the clearance process, the Ministry of Environment, Forest and Climate Change (MoEFCC) has established the PARIVESH website. 
+
+PARIVESH stands for Pro-Active Responsive facilitation by Interactive and Virtuous Environmental Single-window Hub. It is a web-based, workflow application that has digitised the entire process of submission and monitoring of Environment, Forest, Wildlife, and Coastal Regulation Zone (CRZ) Clearance proposals submitted by proponents to the Central, State, and District Level authorities. The portal allows project proponents to register themselves and submit applications for various green clearances in digital formats. Although seemingly designed for project proponents, PARIVESH has become a valuable resource of collated information that is open for viewing by the general public. 
+
+There are currently more than 10,000 land-use proposals submitted for clearance at the MoEFCC in India, ranging from the construction of multi-state national highways to the establishment of small-scale cottage industries. Various government officers and committees are assessing the potential impact of these proposed projects before granting approval. 
+
+The Benefits
+
+The PARIVESH website hosts an enormous amount of information about all old and new projects seeking green clearances, organised by state, year, category and stage of approval. The information comprises spatial data regarding the outlines of the project site location and alignment, the area of forest land being diverted, site inspection, and biodiversity assessment reports. Such information is of immense value for conservation and is freely available on the portal. 
+
+Using the appropriate search functions, project information concerning any given project is available for viewing or, in some cases, even downloading. The portal also hosts details of discussions of various expert committees through the agenda and meeting minutes, allowing people from outside the system to view and analyse the processes that ultimately affect India’s wildlife and environment. All the relevant information is presented as an application package with downloadable file attachments, which could prove beneficial for conservation research and advocacy. The quantity and variety of information on the portal make it a treasure trove for anyone and everyone interested in the green clearance space of India. 
+
+Information that can be found on the PARIVESH website about any development project in India:
+
+
+
+1. Area sought for clearance 
+
+2. Project cost
+
+3. Spatial information about project location in KML (Keyhole Markup Language)  format, details of the land required for clearance such as forest division names, area of forest and non-forest land, village and district wise breakup of the total proposed land, etc.
+
+4. Details of Project Proponent/User Agency
+
+5. Cost Benefit Analysis undertaken
+
+6. Status/links to associated environmental or wildlife clearance (if any)
+
+7. Project plan/ feasibility reports/ site inspection reports
+
+
+
+Non-user Friendly Interface
+
+While introducing PARIVESH for digitising the green clearance process in India helps to bring about transparency and accountability in the system, the portal is not user-friendly and is cumbersome to navigate. 
+
+The system should be able to streamline important projects and allow easy access to relevant information however, most of the files are not appropriately tagged, making the search options unreliable. To be able to ‘find’ specific projects within a timeframe, the user must know specific project details such as the exact name of the project, project file number, and the clearance level. 
+
+Additionally, green clearances are complex processes and involve multiple levels of reviews and recommendations from various  government departments. These processes are broadly divided into three clearance verticals, namely Environmental Clearance, Forests Clearance, and Wildlife Clearance. Each of these verticals has its own set of processes and organisation hierarchies that the project file must circulate through at the level of first the state and then the centre. In the instance that a user is able to trace the details of a particular project on the platform, comprehending what stage of approval that project could be at and what that stage of approval entails is a task in itself. 
+
+Problems with the PARIVESH website
+
+
+
+1. Low Discoverability: Navigating through the PARIVESH portal is complicated as information is not organised uniformly across types/categories and sometimes even regarding regions. 
+
+2. Decision Fatigue: Because of the structure of the portal, too many steps are  involved in obtaining a particular project’s information
+
+3. Inappropriate Project Tagging: Proposals, projects or additional attached documents are not appropriately tagged, which makes finding them using the search function cumbersome. 
+
+4. Complexities of the Clearance Processes: The complexities of the clearance processes and organisational hierarchies make access to information additionally difficult. The portal does not  describe the various stages of approval under different clearances. 
+
+
+
+How Can This Be Improved?
+
+For effective conservation advocacy, knowledge of potential areas of intervention is crucial, which makes a clear understanding of what happens at each level of approval imperative. 
+
+Simple features, such as an option to view projects cumulatively across the clearance types, or to view projects on a spatial platform, would increase the efficiency of the portal manifold. The dashboards for different types/verticals of clearances use abbreviations for the stages of approval with no description of what those abbreviations stand for nor what each of those stages entails, thus creating a limitation in the understanding of the clearance procedures altogether. Furthermore, there is a lack of features that would allow users interested in specific projects to subscribe or receive notifications for any updates on the approvals. 
+
+PARIVESH, although perhaps designed for project proponents seeking clearances, has been a useful portal for other stakeholders. The inclusion of features such as these would revolutionise accessing vast amounts of publicly available data for all stakeholders and will allow them to be more involved.  
+
+To truly achieve the goal of increased transparency and efficiency in the green clearance process in India, providing better access to information is key. India has a growing population of aware citizens from an array of backgrounds and a better system would greatly empower them to play an active role in determining the future of the environment, forests, and wildlife of the country. 
+
+
+
+
+
+Illustration: Technology for Wildlife
+
+ 
+
+
+
+How to Use PARIVESH: A step-by-step guide with tips
+
+
+
+PARIVESH hosts a large volume of project information, which is of immense use for awareness, campaigning or advocacy. However, navigating the portal to get to relevant information often involves many steps. It is important to narrow down search to the farthest extent possible by applying relevant filters. One might also have to scan through multiple project forms and verify information from other media articles and web reports. However, if a project is cleared, it is mandatory for it to have gone through PARIVESH, and information about it must be available on the portal. Here's how to access this information.
+
+
+
+Step 1: Make a list of all the known information about the project one is seeking information on
+
+
+
+For example, let us do so for the Etalin Hydropower Project. 
+
+
+
+Critical known information about Etalin hydropower project 
+
+    - State name: Arunachal Pradesh
+
+    - Area: Dibang Valley
+
+    - Project Proponent: Jindal Power Ltd.
+
+    - Category of Project: Hydroelectric/hydel
+
+    - Date proposed: Before 2016  (although not crucial, it is often helpful to review other existing information/media reports about the project of interest. Information such as the timeline of the project helps in narrowing down search)
+
+ 
+
+Step 2: Explore PARIVESH Portal
+
+
+
+Note: All projects proposed on PARIVESH are organised according to the type of clearance sought into three categories -- environment, forest and wildlife clearance. 
+
+
+
+To find information, each of these types can be explored independently. The following sections provide a step by step guide to navigating the portal.  
+
+
+
+For Forest Clearance
+
+1.    Open https://parivesh.nic.in/ homepage, scroll down and select ‘Forest Clearance’. 
+
+
+
+
+
+
+
+2.    To view all forest clearance projects, select ‘Dashboard’ option on the header. 
+
+
+
+
+
+
+
+3.    Once clicked dashboard, apply filters to narrow down search filters such as state, category and hit search.
+
+Note: Projects under forest clearance on PARIVESH are organised in two categories - Stage I and Stage II. If the status of clearance of the project is known, lead search by that status. However, if this information is not known, explore both stages.  
+
+
+
+
+
+
+
+4.    To view all Stage 1 projects, click on the ‘Form A part II, Under Stage I’ button on the dashboard. As seen below, there are a total of 12 hydel projects proposed in Arunachal Pradesh, which are currently under stage 1. 
+
+
+
+
+
+
+
+5.    Click on ‘ACCEPTED’ (these are all the relevant projects according to the applied filters).
+
+
+
+
+
+
+
+6.    A dataset of all projects as per the chosen category will be displayed with unique project IDs, and other relevant information, which should allow one to review and identify the project of interest.
+
+
+
+Things to note while trying to identify project of interest:
+
+(i)  Is the project proponent the same as known information? Eg. Jindal Power Ltd.
+
+(ii)  Is the forest division/area the same as known information? Eg. Dibang Valley.
+
+(iii)  Is the project proposed in the known timeline? Eg. 2015.
+
+
+
+
+
+
+
+
+
+(Screen grab of all hydel projects in Arunachal as on May 5, 2022)
+
+
+
+7.    Each project has a corresponding form, which hosts information about the project. 
+
+To view this information and to recognise project of interest, click on magnifying glass icon under column titled ‘View Report on Allocation of Fresh Forest Land (Form-A) Part-I’
+
+
+
+
+
+
+
+8. The Form A part I includes information such as the forest division details, area for clearance, spatial data, additional documents, etc. all in downloadable formats.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. All the documents and the form itself can be downloaded as PDFs. It is important to note that until the project is granted final clearance, the proponents can make edits, add or delete files on the portal. 
+
+ 
+
+
+
+ 
+
+
+Technology for Wildlife Foundation's mission is to amplify conservation impact through the use of appropriate technology. They are a not-for-profit organisation based out of Goa, India.
+
+ 
+
+            
+            
+
+            
+                
+                    join the conversation
+                    
+                    
+                    
+                    
+                
+                
+                    subscribe

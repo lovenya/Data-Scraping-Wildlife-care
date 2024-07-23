@@ -1,0 +1,131 @@
+How Technology has improved Anti-poaching Efforts
+
+            
+                
+                                        
+
+                                                First published on
+                        October 28, 2021
+                                            
+                
+            
+
+                        
+Back in 2018, while volunteering for WWF, Dr. Parvish Pandya (then a Zoology Professor at Bhavan's College) told us, "Poaching is one of the greatest threats to wildlife today.The pangolin is the most trafficked animal for traditional Chinese medicines and for what? Keratin, the same substance our hair and nails are made up of!"
+
+Poaching, the illegal hunting of wild animals to trade their meat or body parts for various purposes,  is threatening to become a cause for extinction in some animals. For instance, the African Wildlife Foundation, estimates that about 35,000 elephants are killed each year in Africa for their ivory tusks.
+
+
+
+With the advent of technology, however, there have been substantial improvements in anti-poaching efforts across the globe. Our  study started with a literature survey on how technology has helped reduce poaching attempts. We aimed to explore all the possible links between the growing illegal market and  expanding technological advancements.
+
+
+
+According to the Centre for Biological Diversity, around 30,000 species are driven to extinction every year. Photo: Public Domain/ Kamweti Mutu.
+
+ 
+
+
+
+A Brief History on Anti-poaching Technology
+
+
+
+George Shiras III, a U.S. Representative from the state of Pennsylvania, is believed to be the first to use camera traps in the 1890s. He captured pictures of wildlife that no one had ever seen before! Later, people used camera traps to mark the movements of animals and poachers.
+
+
+
+Wildlife photography became a great hobby in the mid-20th century. While a researcher used a treadle and a switch to trigger the shot in 1959; others used cinematic cameras to make them more portable. The movie cameras could be used to shoot movies, time-lapses and set timers. Other inventions like the light-sensitive solenoid, microwave motion and infrared heat sensors enabled better, lighter and durable camera traps over time.
+
+
+
+“The odd thing is that conservationists were slow to take up technology,” says Eric Dinerstein, Director at Resolve, an NGO that works on sustainable solutions to critical social, health, and environmental challenges. “We jumped in around six years ago because we saw an opportunity to make a difference with a camera trap, with intelligence and connectivity."
+
+
+
+Camera traps also helped reveal wildlife hotspots for poachers, though communicating was restricted. Just before World War II, Motorola's Donald Hing invented the handheld two-way transceivers, commonly called "walkie-talkies", later used by rangers to send or receive signals. In the late 20th century, several NGOs stepped in to enforce stricter laws against poaching and gained public support. Since the past decade, protected parks in many parts of the world use more effective anti-poaching equipment.
+
+
+
+Instant Detect, a thermal imaging camera (by Google and WWF), detects whether the heat signatures are coming from an animal or a human and alarms the rangers for poachers. “This system will peel back the layer of the night to assist the brave rangers to protect wildlife and help keep them safe,” says Colby Loucks, WWF’s director of the Wildlife Crime Technology Project.
+
+
+
+The Rise of Technology
+
+While conducting a pilot study in Sawantwadi, our team used camera traps to gather information on the movement of animals. After two days, we eagerly fetched the SD cards from the cameras and saw there were over 2,000 pictures. But there was not a single useful one to be found. Disappointed, we wondered how many pictures researchers go through daily just to obtain a few important ones. 
+
+
+
+Then, we heard about Wildlife Insights, a project, developed in collaboration between Google and WWF, that combines machine learning and artificial intelligence to distinguish between 614 different species. Scientists and researchers working towards devising anti-poaching methods save a great amount of time and effort, while providing them with robust decision making capabilities.
+
+Another artificial intelligence technology now being used is PAWS (Protection Assistant for Wildlife Security) designed by Professor Milind Tambe, Co-director, Center for Artificial Intelligence in Society, Harvard University. Initially, their study focused on field tests conducted in the Srepok Wildlife Sanctuary (SWS) in Cambodia. PAWS predicts the hotspots for poaching by locating the animals and illegal activities, thus enabling effective monitoring of the areas. Professor Tambe is now aiding SMART (Spatial Monitoring and Reporting Tool), developed in collaboration with nine conservation agencies, to integrate the AI technology resulting into more efficient and robust plans for better strategies against poachers which is being used in over 800 protected areas worldwide.
+
+
+
+Cutting the Demand
+
+While tech has improved monitoring and strategy efforts, poaching will remain a problem as long as there is demand for wildlife products.
+
+
+
+Over the years, there have been instances where people tried to innovate to either prevent the underlying reasons for poaching or offer sustainable alternatives to the wildlife products in demand. For example, the attempts to make synthetic substitutes for ivory began in the 1800s, with the first synthetic billiard ball manufactured in 1865. 
+
+Another key initiative to replace wild products with synthesised ones was brought up by Markus and Bonaci. In 2015, they established a company called Pembient, to create bioengineered, 3D-printed wildlife products to prevent poaching. They claim that synthetics can be made at one-eighth of the black market rate and can thus adequately meet the demands of the market.
+
+
+
+Later in 2018, Fritz Vollrath, a biologist at the University of Oxford, engineered a method to fabricate a faux rhino horn made of horsehair, which is similar in its chemical composition, thermomechanical properties, look and texture to the natural rhino horn.
+
+Another widely exploited substance is ivory. Ivory is the tusk of an elephant, mammoth, walrus, narwhal, or warthog and is used to make piano keys, billiard balls, Japanese musical instruments, in hip-replacement surgeries, among other things. “Ivory is a nice material that people like to handle – but does it have to come from a dead elephant? What if we can create a mixture of collagen and minerals that has the same qualities?” he says. Vollrath dreamed of manufacturing man-made ivory and in 2018 published a paper on the components of ivory. 
+
+Another rising organisation is Wild Aids, which focuses on completely stopping the use of these products through campaigns, social media, TV advertisements and spreading awareness. Even with all these considerable innovations, in cases where illegal animal parts were found, wildlife crime patrols find it extremely difficult to pinpoint the origins of the poached product.
+
+
+
+Illegal wildlife trafficking is the second most lucrative crime globally, with $73–$216 estimated yearly value. Photo: Public Domain/Gavin Shire.
+
+Tracing the Origins of Poached Parts
+
+A huge project in the early 2000s was the digital collection of genetic information of all protected animals. Through DNA analysis, it became very easy to trace the origins of a poached animal part. However, in the case of the widely distributed African elephant, it was difficult to pinpoint the region in Africa through nuclear DNA. To solve this issue, a team of researchers have developed a software called Loxodonta Localizer, using the mitochondrial DNA from more than 1,900 African elephants to compare samples. The mitochondrial DNA is highly variable, which provides accurate geographical origins of poached ivory.
+
+Most of the animals with fur have unique patterns, based on which endangered animals have been identified and named with the help of camera traps. This database has been collected for many years and is used to identify poached tiger or leopard skins. For instance, in 2015, Thailand police found tiger skin and other parts in a car. The tiger was identified with its unique stripe pattern by comparing it to the pictures of camera traps, thereby revealing that the tiger belonged to Thailand’s Huai Kha Khaeng Wildlife Sanctuary. The poacher was soon caught and taken into custody.
+
+
+
+Future Concerns
+
+Our study reveals that the rate of improvisations in technology against poaching has increased exponentially over the years. While it took several decades for the development of effective equipment in the early 1900s, digitalisation has enabled a plethora of ideas and inventions to flourish in just one decade. And yet, a serious problem that remains inadequately addressed is the hundreds of park rangers who are killed by poachers while protecting wild animals. Given the many remarkable advances in technology, it is only fair that park rangers should themselves expect to receive more protection on the job.
+
+
+
+When we talk about synthetic substitutes, there has been an ongoing debate for years between industrialists and conservationists. While Pembient claims to flood the markets with synthetics, conservation firms argue that making illegal products legal may increase the demand for the original animal parts. It is difficult to predict how people will react to cheap animal mimics. Also, it might become easier for poachers to carry original animal parts under the name of synthetics. The dilemma prevails: is it wise to introduce affordable synthetics to the market? Or should efforts be directed towards shutting down the black market instead?
+
+Finally, the misuse of technology is a looming concern. As the rangers advance in tech tools, so do the poachers. In this Internet age, poachers find ways to intercept the signals from conservation tags attached to protected animals to track and hunt them. Conservationists’ data is very susceptible to being hacked. In this arms race, we need to explore more ways to secure our servers and expensive tags.
+
+
+
+Even though we have observed several attempts to prevent poaching, especially in the past decade, more focus on tracing the routes of poachers and hotspots of black markets in the future can help in controlling the roots of this destructive industry. Political interventions along with the support of society are crucially needed to help tackle poaching activity effectively. And how can we do our part? We can begin by supporting organisations who are already fighting the battle against poaching.
+
+ 
+
+
+
+
+Shivani Thevar is currently a MSc student in the University of Chester, Chester, UK, and a wildlife enthusiast with a passion and vision for conservation. She interned at SynaptoCrats for this article and her main research interests are bird ecology and animal behaviour. Dr. Neeraj Bhanot has a PhD in Industrial Engineering from IIT Delhi and is currently associated as Scientist with CSIR - National Physical Laboratory, New Delhi, India. He has also worked as Assistant Professor in IIM Amritsar, NIT Jalandhar and GNDEC Ludhiana and his main research interests are sustainability and digital technologies.
+
+ 
+
+            
+            
+
+            
+                
+                    join the conversation
+                    
+                    
+                    
+                    
+                
+                
+                    subscribe
