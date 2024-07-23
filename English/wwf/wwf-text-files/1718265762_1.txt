@@ -1,0 +1,10 @@
+Illegal, unreported, and unregulated fishing (IUU) costs the global economy up to $36.4 billion a year. While authorities work to keep illicit activity down, criminal networks look to maximize the amount of money they make. Now, technology is helping government agencies tackle this problem, thanks to Detect IT: Fish—a data-driven tool developed by WWF and TRAFFIC and powered by HPE Vertica. Not too long ago, an investigator would have had to thumb through reams of paper files; today, millions of data sets can be searched in a flash. And that data doesn’t just zero in on IUU fish; it can help identify likely trade routes to market. One Detect IT: Fish search, for example, identified a massive gap between China’s reported lobster exports to the US and what the US reportedly received. That information is not enough to bring charges, but it does help authorities more efficiently deploy their limited resources to investigate. At $390/lb, rock lobster averages the highest price per pound of all seafood recorded in the UN import/export trade database. Reported rock lobster export
+from China to US in 2012 Reported rock lobster import
+to US from China in 2012 Detect IT helps law enforcement identify gaps between reported export and import numbers. Detect IT helps law enforcement identify gaps between reported export and import numbers. ILLEGALLY CAUGHT
+Illegally caught seafood ends up on our dinner plates and causes global financial losses valued at up to $36.4 billion per year. ILLEGALLY CAUGHT TOP 3 IMPORTERS OF SEAFOOD
+USA: $20.3 billion
+Japan: $14.8 billion
+China: $8.5 billion TOP 3 IMPORTERS OF SEAFOOD TOP 3 EXPORTERS OF SEAFOOD 
+China: $20.9 billion
+Norway: $10.8 billion
+Vietnam: $8 billion TOP 3 EXPORTERS OF SEAFOOD Source: Food & Agriculture Organization of the United Nations SOFIA, 2016 View all issues h

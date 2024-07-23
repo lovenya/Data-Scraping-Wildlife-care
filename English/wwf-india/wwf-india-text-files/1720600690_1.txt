@@ -1,0 +1,237 @@
+Understanding the role of data in conservation
+
+Posted on 12 August 2018
+
+
+
+
+
+
+
+Workshop
+
+
+
+© WWF-India
+
+
+
+A workshop on quantitative methods for conservationists
+
+
+
+
+A six-day workshop on statistics for wildlife conservation and decision making concluded earlier this week. The workshop was attended by 30 WWF biologists from 10 conservation landscapes in India, with the goal of building organizational capacity for rigorous data analysis. The emphasis was on the analysis of data on species distribution from occupancy surveys of species presence/ absence, and abundance from line transect and camera trap data. 
+
+
+
+Six trainers contributed to the workshop, five of whom were from WWF-India’s species and landscapes program. The workshop’s lead trainer, Dr Brian Gerber, is an assistant professor of quantitative ecology at the University of Rhode Island, USA, and an expert in data analysis and adaptive management for endangered mammals.
+
+
+
+The workshop was structured to cover six themes:
+
+(i) introduction to statistical programming in R,
+
+(ii) modelling species distribution data and animal habitat relationships,
+
+(iii) estimating demographic parameters,
+
+(iv) survey design and data management,
+
+(v) designing collaborative conservation research projects; and
+
+(vi) communicating science and conservation stories.
+
+ 
+
+The format included interactive classroom lectures, hand-on labs for data analysis, guided writing and consultations for ongoing analyses. While a trainer took a lead for delivering lectures and leading labs, others worked individually with participants to help them overcome learning difficulties and gain confidence with contemporary statistical tools and methods.
+
+
+
+
+
+
+
+We believe that this workshop has equipped our field teams with core skills to design better surveys, analyse annual monitoring data more rigorously towards delivering timely reports. We also hope that it will stimulate our field teams to start analyzing data address pressing questions to address key knowledge gaps in the landscape, and to measure the impacts of conservation interventions. This is workshop is a step towards a more sustained effort to build technical capacity within the landscapes, and deepen collaboration between field teams, secretariat-level leads and external (academic) partners.
+
+
+
+The workshop culminated with a day-long field trip to the verdant Bhagwan Mahveer Wildlife Sanctuary in North Goa where the group explored the amazing biodiversity of the Western Ghats. The species checklist included 2 species of scorpions, various centipedes, millipedes dragonflies and butterflies, three species of frogs, ground orchids, insectivorous plans and a blue cheeked kingfisher. Understanding the role of data in conservation
+
+Posted on 12 August 2018
+
+
+
+
+
+
+
+Workshop
+
+
+
+© WWF-India
+
+
+
+A workshop on quantitative methods for conservationists
+
+
+
+
+A six-day workshop on statistics for wildlife conservation and decision making concluded earlier this week. The workshop was attended by 30 WWF biologists from 10 conservation landscapes in India, with the goal of building organizational capacity for rigorous data analysis. The emphasis was on the analysis of data on species distribution from occupancy surveys of species presence/ absence, and abundance from line transect and camera trap data. 
+
+
+
+Six trainers contributed to the workshop, five of whom were from WWF-India’s species and landscapes program. The workshop’s lead trainer, Dr Brian Gerber, is an assistant professor of quantitative ecology at the University of Rhode Island, USA, and an expert in data analysis and adaptive management for endangered mammals.
+
+
+
+The workshop was structured to cover six themes:
+
+(i) introduction to statistical programming in R,
+
+(ii) modelling species distribution data and animal habitat relationships,
+
+(iii) estimating demographic parameters,
+
+(iv) survey design and data management,
+
+(v) designing collaborative conservation research projects; and
+
+(vi) communicating science and conservation stories.
+
+ 
+
+The format included interactive classroom lectures, hand-on labs for data analysis, guided writing and consultations for ongoing analyses. While a trainer took a lead for delivering lectures and leading labs, others worked individually with participants to help them overcome learning difficulties and gain confidence with contemporary statistical tools and methods.
+
+
+
+
+
+
+
+We believe that this workshop has equipped our field teams with core skills to design better surveys, analyse annual monitoring data more rigorously towards delivering timely reports. We also hope that it will stimulate our field teams to start analyzing data address pressing questions to address key knowledge gaps in the landscape, and to measure the impacts of conservation interventions. This is workshop is a step towards a more sustained effort to build technical capacity within the landscapes, and deepen collaboration between field teams, secretariat-level leads and external (academic) partners.
+
+
+
+The workshop culminated with a day-long field trip to the verdant Bhagwan Mahveer Wildlife Sanctuary in North Goa where the group explored the amazing biodiversity of the Western Ghats. The species checklist included 2 species of scorpions, various centipedes, millipedes dragonflies and butterflies, three species of frogs, ground orchids, insectivorous plans and a blue cheeked kingfisher. Understanding the role of data in conservation
+
+Posted on 12 August 2018
+
+
+
+
+
+
+
+Workshop
+
+
+
+© WWF-India
+
+
+
+A workshop on quantitative methods for conservationists
+
+
+
+
+A six-day workshop on statistics for wildlife conservation and decision making concluded earlier this week. The workshop was attended by 30 WWF biologists from 10 conservation landscapes in India, with the goal of building organizational capacity for rigorous data analysis. The emphasis was on the analysis of data on species distribution from occupancy surveys of species presence/ absence, and abundance from line transect and camera trap data. 
+
+
+
+Six trainers contributed to the workshop, five of whom were from WWF-India’s species and landscapes program. The workshop’s lead trainer, Dr Brian Gerber, is an assistant professor of quantitative ecology at the University of Rhode Island, USA, and an expert in data analysis and adaptive management for endangered mammals.
+
+
+
+The workshop was structured to cover six themes:
+
+(i) introduction to statistical programming in R,
+
+(ii) modelling species distribution data and animal habitat relationships,
+
+(iii) estimating demographic parameters,
+
+(iv) survey design and data management,
+
+(v) designing collaborative conservation research projects; and
+
+(vi) communicating science and conservation stories.
+
+ 
+
+The format included interactive classroom lectures, hand-on labs for data analysis, guided writing and consultations for ongoing analyses. While a trainer took a lead for delivering lectures and leading labs, others worked individually with participants to help them overcome learning difficulties and gain confidence with contemporary statistical tools and methods.
+
+
+
+
+
+
+
+We believe that this workshop has equipped our field teams with core skills to design better surveys, analyse annual monitoring data more rigorously towards delivering timely reports. We also hope that it will stimulate our field teams to start analyzing data address pressing questions to address key knowledge gaps in the landscape, and to measure the impacts of conservation interventions. This is workshop is a step towards a more sustained effort to build technical capacity within the landscapes, and deepen collaboration between field teams, secretariat-level leads and external (academic) partners.
+
+
+
+The workshop culminated with a day-long field trip to the verdant Bhagwan Mahveer Wildlife Sanctuary in North Goa where the group explored the amazing biodiversity of the Western Ghats. The species checklist included 2 species of scorpions, various centipedes, millipedes dragonflies and butterflies, three species of frogs, ground orchids, insectivorous plans and a blue cheeked kingfisher. Understanding the role of data in conservation
+
+Posted on 12 August 2018
+
+
+
+
+
+
+
+Workshop
+
+
+
+© WWF-India
+
+
+
+A workshop on quantitative methods for conservationists
+
+
+
+
+A six-day workshop on statistics for wildlife conservation and decision making concluded earlier this week. The workshop was attended by 30 WWF biologists from 10 conservation landscapes in India, with the goal of building organizational capacity for rigorous data analysis. The emphasis was on the analysis of data on species distribution from occupancy surveys of species presence/ absence, and abundance from line transect and camera trap data. 
+
+
+
+Six trainers contributed to the workshop, five of whom were from WWF-India’s species and landscapes program. The workshop’s lead trainer, Dr Brian Gerber, is an assistant professor of quantitative ecology at the University of Rhode Island, USA, and an expert in data analysis and adaptive management for endangered mammals.
+
+
+
+The workshop was structured to cover six themes:
+
+(i) introduction to statistical programming in R,
+
+(ii) modelling species distribution data and animal habitat relationships,
+
+(iii) estimating demographic parameters,
+
+(iv) survey design and data management,
+
+(v) designing collaborative conservation research projects; and
+
+(vi) communicating science and conservation stories.
+
+ 
+
+The format included interactive classroom lectures, hand-on labs for data analysis, guided writing and consultations for ongoing analyses. While a trainer took a lead for delivering lectures and leading labs, others worked individually with participants to help them overcome learning difficulties and gain confidence with contemporary statistical tools and methods.
+
+
+
+
+
+
+
+We believe that this workshop has equipped our field teams with core skills to design better surveys, analyse annual monitoring data more rigorously towards delivering timely reports. We also hope that it will stimulate our field teams to start analyzing data address pressing questions to address key knowledge gaps in the landscape, and to measure the impacts of conservation interventions. This is workshop is a step towards a more sustained effort to build technical capacity within the landscapes, and deepen collaboration between field teams, secretariat-level leads and external (academic) partners.
+
+
+
+The workshop culminated with a day-long field trip to the verdant Bhagwan Mahveer Wildlife Sanctuary in North Goa where the group explored the amazing biodiversity of the Western Ghats. The species checklist included 2 species of scorpions, various centipedes, millipedes dragonflies and butterflies, three species of frogs, ground orchids, insectivorous plans and a blue cheeked kingfisher.

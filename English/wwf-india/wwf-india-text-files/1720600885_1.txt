@@ -1,0 +1,333 @@
+Zoohackathon 3.0 Generates Winning Ideas to End Wildlife Trafficking
+
+Posted on 18 November 2019
+ 
+|
+ 
+
+0 Comments
+
+
+
+
+
+
+
+
+
+
+
+© TRAFFIC India
+
+
+
+New Delhi: Zoohackathon, a two-day technology-driven challenge to help find solutions to curb wildlife trafficking, ended yesterday in New Delhi.  Coders, wildlife enthusiasts, and designers participated in Zoohackathon 3.0, held on 16-17 November 2019 at the WWF-India Secretariat jointly organized by the U.S. Embassy, New Delhi, TRAFFIC, and WWF-India at the WWF-India Secretariat.
+
+ 
+
+Team ‘Error: Error not Found” from University of Delhi were the winners while the Team ‘Kyros’ from Indraprastha University came at the runners up position at the Zoohackathon in New Delhi.
+
+ 
+
+Team ‘Error: Error not Found” developed a simple cost-free text-based application to alert any untoward activities related to wildlife trade taking place on the virtual space. The tools also provide an opportunity to bring together various agencies and share sensitive information related to poaching and wildlife criminals.
+
+ 
+
+Team ‘Kyros’ developed an application that allows comparisons of available medicinal plant products for sale on e-commerce platforms with CITES-listed medicinal plant species to assess their legal status and send out email alerts of defaulters to enforcement agencies.
+
+ 
+
+Overall, 16 teams comprising of 75 participants from various fields including students, IT professionals, educationist and others, spent their weekend to innovating, developing and presenting solutions to help end poaching and wildlife trafficking, as well as increasing awareness among consumers. The participants were also introduced to illegal wildlife trade issues in India and were simultaneously mentored on wildlife conservation, coding skills and communications techniques.
+
+ 
+
+The ideas were based on five problem statements i.e. establishing a path for local communities to report illegal wildlife activities to appropriate authorities; using  block chain technology for tracking supply of forest based products; tracking CITES-listed e-commerce in plants; avoiding compromise in counter- Wildlife Trafficking (CWT) Investigations; and tracking captive elephants of India.
+
+ 
+
+At the end of two days, the teams presented their ideas/solutions before a panel of judges that included: Ms. Isabella Detwiler, Deputy Minister Counselor, Economic Environment, Science and Technology Affairs, U.S. Embassy; Mr Jeffrey Watts, Energy Officer, US. Embassy, New; Mr. Vinayak Godse Vice President Data Security Council of India (DSCI); Mr Anup Kumar Nayak, Member Secretary, National Tiger Conservation Authority; Mr Yogendra K Srivastava, Blockchain Solution Architect, India Software Lab, IBM India Pvt Ltd and Dr Dipankar Ghose, Director, Species and Landscape Program, WWF – India.
+
+ 
+
+Ms. Tilotma Varma, Additional Director, Wildlife Crime Control Bureau (WCCB) attended the opening session of Zoohackathon 3.0 and spoke on the illegal wildlife trade in India, the challenges faced in combating trafficking,  and the role the general public, especially youth, can play in helping to combat this threat. She encouraged the participants to go beyond Zoohackathon and continue to support causes that help conserve and protect India’s wildlife.
+
+ 
+
+U.S. Embassy Minister Counselor J. Robert Garverick said the Zoohackathon is helping connect young people around the world to wildlife conservation issues, and is a vital tool to create awareness about the scale of illegal trade in wildlife and the ways technology can help in wildlife conservation. 
+
+ 
+
+Dr Saket Badola, IFS, Head, TRAFFIC India, added, “India's internet usage has registered an exponential growth in recent times, and with that illegal wildlife trade over virtual space has also expanded. It is hence important to innovate and develop new strategies that will help to end wildlife trafficking over internet. We congratulate the winners of Zoohackathon 3.0 and also all the participants who came forward to join us in this fight against wildlife crime”.
+
+ 
+
+“We are hopeful that some of the solutions from the Zoohackathon can be adapted to real time strategies for fighting wildlife crime in india”, Dr Badola added.
+
+ 
+
+Mr Ravi Singh, Secretary General and CEO, WWF-India said, “Zoohackathon is a unique challenge that helps find technology-based solutions to the growing threat from illegal wildlife trade. The programme encourages young citizens to understand broader issues of the subject and be a part of the solution. Zoohackathon is also an opportunity to reach out and raise awareness about the need to counter wildlife crime”.
+
+ 
+
+Zoohackathon was also held for the first time in Kolkata this year on 9-10 November 2019 and was organised by U.S. Consulate General in Kolkata, WWF-India, TRAFFIC India, and the Bengal Chamber of Commerce and Industry (BCC&I).
+
+ 
+
+The winners of Kolkata and Delhi will compete for the global prize along with the winning teams from all host countries. A panel of judges at the global level will decide the international winner based on the presentation and codes that the teams will upload for the global competition. Last year’s New Delhi winners won second place in the global competition.
+
+ 
+
+For further information about Zoohackathon, please visit www.trafficindia.org;  www.zoohackathon.com/. Follow Zoohackathon on social media at @StateDeptOES, @USAndIndia,  #Zoohackathon, and #EndWildlifeTrafficking @TRAFFIC, India Office.
+
+ 
+
+Any additional queries on Zoohackathon 3.0 can be directed to Ms Priya Ghose (U.S. Embassy, New Delhi) at 9910890082 or email her at GhoseP@state.gov; Ms Dilpreet B. Chhabra (TRAFFIC India) at 9899000472 or email her at dilpreet.chhabra@traffic.org. Zoohackathon 3.0 Generates Winning Ideas to End Wildlife Trafficking
+
+Posted on 18 November 2019
+ 
+|
+ 
+
+0 Comments
+
+
+
+
+
+
+
+
+
+
+
+© TRAFFIC India
+
+
+
+New Delhi: Zoohackathon, a two-day technology-driven challenge to help find solutions to curb wildlife trafficking, ended yesterday in New Delhi.  Coders, wildlife enthusiasts, and designers participated in Zoohackathon 3.0, held on 16-17 November 2019 at the WWF-India Secretariat jointly organized by the U.S. Embassy, New Delhi, TRAFFIC, and WWF-India at the WWF-India Secretariat.
+
+ 
+
+Team ‘Error: Error not Found” from University of Delhi were the winners while the Team ‘Kyros’ from Indraprastha University came at the runners up position at the Zoohackathon in New Delhi.
+
+ 
+
+Team ‘Error: Error not Found” developed a simple cost-free text-based application to alert any untoward activities related to wildlife trade taking place on the virtual space. The tools also provide an opportunity to bring together various agencies and share sensitive information related to poaching and wildlife criminals.
+
+ 
+
+Team ‘Kyros’ developed an application that allows comparisons of available medicinal plant products for sale on e-commerce platforms with CITES-listed medicinal plant species to assess their legal status and send out email alerts of defaulters to enforcement agencies.
+
+ 
+
+Overall, 16 teams comprising of 75 participants from various fields including students, IT professionals, educationist and others, spent their weekend to innovating, developing and presenting solutions to help end poaching and wildlife trafficking, as well as increasing awareness among consumers. The participants were also introduced to illegal wildlife trade issues in India and were simultaneously mentored on wildlife conservation, coding skills and communications techniques.
+
+ 
+
+The ideas were based on five problem statements i.e. establishing a path for local communities to report illegal wildlife activities to appropriate authorities; using  block chain technology for tracking supply of forest based products; tracking CITES-listed e-commerce in plants; avoiding compromise in counter- Wildlife Trafficking (CWT) Investigations; and tracking captive elephants of India.
+
+ 
+
+At the end of two days, the teams presented their ideas/solutions before a panel of judges that included: Ms. Isabella Detwiler, Deputy Minister Counselor, Economic Environment, Science and Technology Affairs, U.S. Embassy; Mr Jeffrey Watts, Energy Officer, US. Embassy, New; Mr. Vinayak Godse Vice President Data Security Council of India (DSCI); Mr Anup Kumar Nayak, Member Secretary, National Tiger Conservation Authority; Mr Yogendra K Srivastava, Blockchain Solution Architect, India Software Lab, IBM India Pvt Ltd and Dr Dipankar Ghose, Director, Species and Landscape Program, WWF – India.
+
+ 
+
+Ms. Tilotma Varma, Additional Director, Wildlife Crime Control Bureau (WCCB) attended the opening session of Zoohackathon 3.0 and spoke on the illegal wildlife trade in India, the challenges faced in combating trafficking,  and the role the general public, especially youth, can play in helping to combat this threat. She encouraged the participants to go beyond Zoohackathon and continue to support causes that help conserve and protect India’s wildlife.
+
+ 
+
+U.S. Embassy Minister Counselor J. Robert Garverick said the Zoohackathon is helping connect young people around the world to wildlife conservation issues, and is a vital tool to create awareness about the scale of illegal trade in wildlife and the ways technology can help in wildlife conservation. 
+
+ 
+
+Dr Saket Badola, IFS, Head, TRAFFIC India, added, “India's internet usage has registered an exponential growth in recent times, and with that illegal wildlife trade over virtual space has also expanded. It is hence important to innovate and develop new strategies that will help to end wildlife trafficking over internet. We congratulate the winners of Zoohackathon 3.0 and also all the participants who came forward to join us in this fight against wildlife crime”.
+
+ 
+
+“We are hopeful that some of the solutions from the Zoohackathon can be adapted to real time strategies for fighting wildlife crime in india”, Dr Badola added.
+
+ 
+
+Mr Ravi Singh, Secretary General and CEO, WWF-India said, “Zoohackathon is a unique challenge that helps find technology-based solutions to the growing threat from illegal wildlife trade. The programme encourages young citizens to understand broader issues of the subject and be a part of the solution. Zoohackathon is also an opportunity to reach out and raise awareness about the need to counter wildlife crime”.
+
+ 
+
+Zoohackathon was also held for the first time in Kolkata this year on 9-10 November 2019 and was organised by U.S. Consulate General in Kolkata, WWF-India, TRAFFIC India, and the Bengal Chamber of Commerce and Industry (BCC&I).
+
+ 
+
+The winners of Kolkata and Delhi will compete for the global prize along with the winning teams from all host countries. A panel of judges at the global level will decide the international winner based on the presentation and codes that the teams will upload for the global competition. Last year’s New Delhi winners won second place in the global competition.
+
+ 
+
+For further information about Zoohackathon, please visit www.trafficindia.org;  www.zoohackathon.com/. Follow Zoohackathon on social media at @StateDeptOES, @USAndIndia,  #Zoohackathon, and #EndWildlifeTrafficking @TRAFFIC, India Office.
+
+ 
+
+Any additional queries on Zoohackathon 3.0 can be directed to Ms Priya Ghose (U.S. Embassy, New Delhi) at 9910890082 or email her at GhoseP@state.gov; Ms Dilpreet B. Chhabra (TRAFFIC India) at 9899000472 or email her at dilpreet.chhabra@traffic.org. Zoohackathon 3.0 Generates Winning Ideas to End Wildlife Trafficking
+
+Posted on 18 November 2019
+ 
+|
+ 
+
+0 Comments
+
+
+
+
+
+
+
+
+
+
+
+© TRAFFIC India
+
+
+
+New Delhi: Zoohackathon, a two-day technology-driven challenge to help find solutions to curb wildlife trafficking, ended yesterday in New Delhi.  Coders, wildlife enthusiasts, and designers participated in Zoohackathon 3.0, held on 16-17 November 2019 at the WWF-India Secretariat jointly organized by the U.S. Embassy, New Delhi, TRAFFIC, and WWF-India at the WWF-India Secretariat.
+
+ 
+
+Team ‘Error: Error not Found” from University of Delhi were the winners while the Team ‘Kyros’ from Indraprastha University came at the runners up position at the Zoohackathon in New Delhi.
+
+ 
+
+Team ‘Error: Error not Found” developed a simple cost-free text-based application to alert any untoward activities related to wildlife trade taking place on the virtual space. The tools also provide an opportunity to bring together various agencies and share sensitive information related to poaching and wildlife criminals.
+
+ 
+
+Team ‘Kyros’ developed an application that allows comparisons of available medicinal plant products for sale on e-commerce platforms with CITES-listed medicinal plant species to assess their legal status and send out email alerts of defaulters to enforcement agencies.
+
+ 
+
+Overall, 16 teams comprising of 75 participants from various fields including students, IT professionals, educationist and others, spent their weekend to innovating, developing and presenting solutions to help end poaching and wildlife trafficking, as well as increasing awareness among consumers. The participants were also introduced to illegal wildlife trade issues in India and were simultaneously mentored on wildlife conservation, coding skills and communications techniques.
+
+ 
+
+The ideas were based on five problem statements i.e. establishing a path for local communities to report illegal wildlife activities to appropriate authorities; using  block chain technology for tracking supply of forest based products; tracking CITES-listed e-commerce in plants; avoiding compromise in counter- Wildlife Trafficking (CWT) Investigations; and tracking captive elephants of India.
+
+ 
+
+At the end of two days, the teams presented their ideas/solutions before a panel of judges that included: Ms. Isabella Detwiler, Deputy Minister Counselor, Economic Environment, Science and Technology Affairs, U.S. Embassy; Mr Jeffrey Watts, Energy Officer, US. Embassy, New; Mr. Vinayak Godse Vice President Data Security Council of India (DSCI); Mr Anup Kumar Nayak, Member Secretary, National Tiger Conservation Authority; Mr Yogendra K Srivastava, Blockchain Solution Architect, India Software Lab, IBM India Pvt Ltd and Dr Dipankar Ghose, Director, Species and Landscape Program, WWF – India.
+
+ 
+
+Ms. Tilotma Varma, Additional Director, Wildlife Crime Control Bureau (WCCB) attended the opening session of Zoohackathon 3.0 and spoke on the illegal wildlife trade in India, the challenges faced in combating trafficking,  and the role the general public, especially youth, can play in helping to combat this threat. She encouraged the participants to go beyond Zoohackathon and continue to support causes that help conserve and protect India’s wildlife.
+
+ 
+
+U.S. Embassy Minister Counselor J. Robert Garverick said the Zoohackathon is helping connect young people around the world to wildlife conservation issues, and is a vital tool to create awareness about the scale of illegal trade in wildlife and the ways technology can help in wildlife conservation. 
+
+ 
+
+Dr Saket Badola, IFS, Head, TRAFFIC India, added, “India's internet usage has registered an exponential growth in recent times, and with that illegal wildlife trade over virtual space has also expanded. It is hence important to innovate and develop new strategies that will help to end wildlife trafficking over internet. We congratulate the winners of Zoohackathon 3.0 and also all the participants who came forward to join us in this fight against wildlife crime”.
+
+ 
+
+“We are hopeful that some of the solutions from the Zoohackathon can be adapted to real time strategies for fighting wildlife crime in india”, Dr Badola added.
+
+ 
+
+Mr Ravi Singh, Secretary General and CEO, WWF-India said, “Zoohackathon is a unique challenge that helps find technology-based solutions to the growing threat from illegal wildlife trade. The programme encourages young citizens to understand broader issues of the subject and be a part of the solution. Zoohackathon is also an opportunity to reach out and raise awareness about the need to counter wildlife crime”.
+
+ 
+
+Zoohackathon was also held for the first time in Kolkata this year on 9-10 November 2019 and was organised by U.S. Consulate General in Kolkata, WWF-India, TRAFFIC India, and the Bengal Chamber of Commerce and Industry (BCC&I).
+
+ 
+
+The winners of Kolkata and Delhi will compete for the global prize along with the winning teams from all host countries. A panel of judges at the global level will decide the international winner based on the presentation and codes that the teams will upload for the global competition. Last year’s New Delhi winners won second place in the global competition.
+
+ 
+
+For further information about Zoohackathon, please visit www.trafficindia.org;  www.zoohackathon.com/. Follow Zoohackathon on social media at @StateDeptOES, @USAndIndia,  #Zoohackathon, and #EndWildlifeTrafficking @TRAFFIC, India Office.
+
+ 
+
+Any additional queries on Zoohackathon 3.0 can be directed to Ms Priya Ghose (U.S. Embassy, New Delhi) at 9910890082 or email her at GhoseP@state.gov; Ms Dilpreet B. Chhabra (TRAFFIC India) at 9899000472 or email her at dilpreet.chhabra@traffic.org. Zoohackathon 3.0 Generates Winning Ideas to End Wildlife Trafficking
+
+Posted on 18 November 2019
+ 
+|
+ 
+
+0 Comments
+
+
+
+
+
+
+
+
+
+
+
+© TRAFFIC India
+
+
+
+New Delhi: Zoohackathon, a two-day technology-driven challenge to help find solutions to curb wildlife trafficking, ended yesterday in New Delhi.  Coders, wildlife enthusiasts, and designers participated in Zoohackathon 3.0, held on 16-17 November 2019 at the WWF-India Secretariat jointly organized by the U.S. Embassy, New Delhi, TRAFFIC, and WWF-India at the WWF-India Secretariat.
+
+ 
+
+Team ‘Error: Error not Found” from University of Delhi were the winners while the Team ‘Kyros’ from Indraprastha University came at the runners up position at the Zoohackathon in New Delhi.
+
+ 
+
+Team ‘Error: Error not Found” developed a simple cost-free text-based application to alert any untoward activities related to wildlife trade taking place on the virtual space. The tools also provide an opportunity to bring together various agencies and share sensitive information related to poaching and wildlife criminals.
+
+ 
+
+Team ‘Kyros’ developed an application that allows comparisons of available medicinal plant products for sale on e-commerce platforms with CITES-listed medicinal plant species to assess their legal status and send out email alerts of defaulters to enforcement agencies.
+
+ 
+
+Overall, 16 teams comprising of 75 participants from various fields including students, IT professionals, educationist and others, spent their weekend to innovating, developing and presenting solutions to help end poaching and wildlife trafficking, as well as increasing awareness among consumers. The participants were also introduced to illegal wildlife trade issues in India and were simultaneously mentored on wildlife conservation, coding skills and communications techniques.
+
+ 
+
+The ideas were based on five problem statements i.e. establishing a path for local communities to report illegal wildlife activities to appropriate authorities; using  block chain technology for tracking supply of forest based products; tracking CITES-listed e-commerce in plants; avoiding compromise in counter- Wildlife Trafficking (CWT) Investigations; and tracking captive elephants of India.
+
+ 
+
+At the end of two days, the teams presented their ideas/solutions before a panel of judges that included: Ms. Isabella Detwiler, Deputy Minister Counselor, Economic Environment, Science and Technology Affairs, U.S. Embassy; Mr Jeffrey Watts, Energy Officer, US. Embassy, New; Mr. Vinayak Godse Vice President Data Security Council of India (DSCI); Mr Anup Kumar Nayak, Member Secretary, National Tiger Conservation Authority; Mr Yogendra K Srivastava, Blockchain Solution Architect, India Software Lab, IBM India Pvt Ltd and Dr Dipankar Ghose, Director, Species and Landscape Program, WWF – India.
+
+ 
+
+Ms. Tilotma Varma, Additional Director, Wildlife Crime Control Bureau (WCCB) attended the opening session of Zoohackathon 3.0 and spoke on the illegal wildlife trade in India, the challenges faced in combating trafficking,  and the role the general public, especially youth, can play in helping to combat this threat. She encouraged the participants to go beyond Zoohackathon and continue to support causes that help conserve and protect India’s wildlife.
+
+ 
+
+U.S. Embassy Minister Counselor J. Robert Garverick said the Zoohackathon is helping connect young people around the world to wildlife conservation issues, and is a vital tool to create awareness about the scale of illegal trade in wildlife and the ways technology can help in wildlife conservation. 
+
+ 
+
+Dr Saket Badola, IFS, Head, TRAFFIC India, added, “India's internet usage has registered an exponential growth in recent times, and with that illegal wildlife trade over virtual space has also expanded. It is hence important to innovate and develop new strategies that will help to end wildlife trafficking over internet. We congratulate the winners of Zoohackathon 3.0 and also all the participants who came forward to join us in this fight against wildlife crime”.
+
+ 
+
+“We are hopeful that some of the solutions from the Zoohackathon can be adapted to real time strategies for fighting wildlife crime in india”, Dr Badola added.
+
+ 
+
+Mr Ravi Singh, Secretary General and CEO, WWF-India said, “Zoohackathon is a unique challenge that helps find technology-based solutions to the growing threat from illegal wildlife trade. The programme encourages young citizens to understand broader issues of the subject and be a part of the solution. Zoohackathon is also an opportunity to reach out and raise awareness about the need to counter wildlife crime”.
+
+ 
+
+Zoohackathon was also held for the first time in Kolkata this year on 9-10 November 2019 and was organised by U.S. Consulate General in Kolkata, WWF-India, TRAFFIC India, and the Bengal Chamber of Commerce and Industry (BCC&I).
+
+ 
+
+The winners of Kolkata and Delhi will compete for the global prize along with the winning teams from all host countries. A panel of judges at the global level will decide the international winner based on the presentation and codes that the teams will upload for the global competition. Last year’s New Delhi winners won second place in the global competition.
+
+ 
+
+For further information about Zoohackathon, please visit www.trafficindia.org;  www.zoohackathon.com/. Follow Zoohackathon on social media at @StateDeptOES, @USAndIndia,  #Zoohackathon, and #EndWildlifeTrafficking @TRAFFIC, India Office.
+
+ 
+
+Any additional queries on Zoohackathon 3.0 can be directed to Ms Priya Ghose (U.S. Embassy, New Delhi) at 9910890082 or email her at GhoseP@state.gov; Ms Dilpreet B. Chhabra (TRAFFIC India) at 9899000472 or email her at dilpreet.chhabra@traffic.org.
