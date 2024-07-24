@@ -4,12 +4,12 @@ import pandas as pd
 from urllib.parse import urlparse, parse_qs
 
 # Load the data from the Excel file
-file_path = r"path-to-shortened-excel"
+file_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\English\deshdoot-wildlife\Data Excels (Main Data, Shortened Excel)\deshdoot-wildlife-shortened.xlsx"
 data = pd.read_excel(file_path)
 
 # Create directories if they don't exist
-text_folder = "website-text-files"
-image_folder = "website-images"
+text_folder = "deshdoot-wildlife-text-files"
+image_folder = "deshdoot-wildlife-images"
 os.makedirs(text_folder, exist_ok=True)
 os.makedirs(image_folder, exist_ok=True)
 

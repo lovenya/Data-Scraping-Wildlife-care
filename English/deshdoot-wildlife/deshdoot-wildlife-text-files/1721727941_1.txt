@@ -1,0 +1,14 @@
+Prashant Nikale NASHIK : The state of Maharashtra, the third-largest state in the country is ranked second among the states in terms of the recorded forest area. The Western Ghats of the state have a very rich biodiversity. The state has saw a slight decrease in forest cover. The Indian State Forest Report (ISFR) 2019 has recorded a decrease in forest area by 0.02 percent in just two years. The Maharashtra state has lost 0.02 percent of its total forest cover in just two years, which takes centuries too regenerate the forest wealth. In the recent report of ISFR 2017, the state had forest area of 16.93 percent of kin its total area. In the report 2019, the ISFR has reported that the percentage has came down by 0.2 percent from 2017 to 2019 and the state has forest cover in its 16.91 percent of the total geographical area. On the other hand, Nashik district has saw an increase in its forest cover. In earlier report, the district had 6.88 percent forest area out of the 15,530 sq km total geographical area. In the report of ISFR, the district has 6.93 percent out of its total land covered with forest an increase of 0.05 percent. In the Recorded Forest Area (RFA), the state has 61,579 sq km of which 49,546 sq km is Reserved Forests, 6,733 sq km is Protected Forest and 5,300 sq km is Unclassed Forests. In Maharashtra, during the period between January 1st, 2015 to February 5th, 2019, a total of 3797.16 hectares of forest land was diverted for non-forestry purposes under the Forest Conservation Act, 1980 (MoEF and CC, 2019). As per the information received from the SFD, a total area of 1,47,814 ha has been notified as reserved forests during 2014 to 2019.In the state, the six National Parks, 48 Wildlife Sanctuaries and 6 Conservation Reserves constitute the Protected Area network covering 3.03% of its geographical area. In terms of forest canopy density classes, the state has 8,720.53 sq km under Very Dense Forest (VDF), 20,572.35 sq km under Moderately Dense Forest (MDF) and 21,484.68 sq km under Open Forest (OF). The ideal geographical area for wildlife and biodiversity balance should have 33 percent of the land under forest cover. The state, as well as the district, is way behind from the ideal forest percentage. The human should understand that nature will have no effect without human but without nature the human is nothing. Forest Cover of state
+Class     Area        % of GA
+VDF     8,720.53      2.83
+MDF    20,572.35    6.69
+OF       21,484.68    6.98
+Total    50,777.56    16.50
+Scrub  4,256.4        1.38
+                             (in sq km) Forest Cover In Nashik
+Class      Area
+VDF        0.00
+MDF       346.34
+OF          730.21
+Total        1,076.55
+Scubs      337.66
