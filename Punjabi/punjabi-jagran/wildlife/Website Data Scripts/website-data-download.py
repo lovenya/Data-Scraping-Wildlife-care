@@ -1,14 +1,15 @@
 import os
 import requests
 import pandas as pd
+from urllib.parse import urlparse, parse_qs
 
 # Load the data from the Excel file
-file_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\wildlabs\Data Excels (Main Data, Shortened Excel)\wildlabs-data-cleaned-shortened.xlsx"
+file_path = r"path-to-shortened-excel"
 data = pd.read_excel(file_path)
 
 # Create directories if they don't exist
-text_folder = "wildlabs-text-files"
-image_folder = "wildlabs-images"
+text_folder = "website-text-files"
+image_folder = "website-images"
 os.makedirs(text_folder, exist_ok=True)
 os.makedirs(image_folder, exist_ok=True)
 
@@ -49,6 +50,13 @@ def complete_url(url):
     return url
 
 
+# Function to extract file extension from URL
+def get_file_extension(url):
+    parsed_url = urlparse(url)
+    path = parsed_url.path
+    return os.path.splitext(path)[1]
+
+
 # Iterate through the data
 for index, row in data.iterrows():
     unique_id = sanitize_unique_id(str(row["unique_id"]))
@@ -79,7 +87,15 @@ for index, row in data.iterrows():
         if image_url.lower().endswith(".gif"):
             print(f"Skipping GIF image: {image_url}")
             continue
-        image_extension = os.path.splitext(image_url)[1].split("?")[0]
+
+        # Get the correct file extension
+        image_extension = get_file_extension(image_url)
+
+        # Check for unsupported formats again after parsing
+        if image_extension.lower() == ".gif":
+            print(f"Skipping GIF image: {image_url}")
+            continue
+
         image_file_path = os.path.join(image_folder, f"{unique_id}{image_extension}")
         print(f"Downloading image from: {image_url} to {image_file_path}")
         download_image(image_url, image_file_path)

@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Correct the file path by using double backslashes or raw string
-file_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\wildlabs\Data Excels (Main Data, Shortened Excel)\wildlabs-data.xlsx"
+file_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\Punjabi\punjabi-jagran\wildlife\Data Excels (Main Data, Shortened Excel)\punjabi-jagran-wildlife-hindi-scraper.xlsx"
 
 # Load the data from the provided Excel file
 df = pd.read_excel(file_path)
@@ -13,10 +13,10 @@ df["unique_id"] = df["web-scraper-order"].apply(lambda x: x.split("-")[0])
 df_text_concat = df.groupby("unique_id", as_index=False).agg(
     {
         "web-scraper-start-url": "first",
-        "pagination": "first",
         "article-link": "first",
         "article-link-href": "first",
         "article-heading": "first",
+        "article-date": "first",
         "article-post-text": lambda x: " ".join(x.dropna()),  # Concatenate text
         "article-post-image-src": lambda x: list(
             x.dropna()
@@ -35,10 +35,10 @@ for _, row in df_text_concat.iterrows():
             new_row["article-post-image-src"] = image
             if i > 0:
                 new_row["web-scraper-start-url"] = None
-                new_row["pagination"] = None
                 new_row["article-link"] = None
                 new_row["article-link-href"] = None
                 new_row["article-heading"] = None
+                new_row["article-date"] = None
                 new_row["article-post-text"] = None
             rows.append(new_row)
     else:
@@ -50,7 +50,7 @@ for _, row in df_text_concat.iterrows():
 df_cleaned = pd.DataFrame(rows)
 
 # Save the cleaned DataFrame to a new Excel file
-output_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\wildlabs\Data Excels (Main Data, Shortened Excel)\wildlabs-data-cleaned.xlsx"
+output_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\Punjabi\punjabi-jagran\wildlife\Data Excels (Main Data, Shortened Excel)\punjabi-jagran-wildlife-cleaned.xlsx"
 df_cleaned.to_excel(output_path, index=False)
 
 print(f"Cleaned data saved to: {output_path}")
