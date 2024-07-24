@@ -1,17 +1,17 @@
 import pandas as pd
 
 # Specify the input file path
-input_file_path = r"path-to-cleaned-excel"
+input_file_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\English\wcs\Data Excels (Main Data, Shortened Excel)\wcs-cleaned.xlsx"
 
 # Specify the output file path
-output_file_path = r"path-to-cleaned-sanitized-excel"
+output_file_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\English\wcs\Data Excels (Main Data, Shortened Excel)\wcs-cleaned-sanitized.xlsx"
 
 # Load the Excel file
 df = pd.read_excel(input_file_path)
 
 # Update the 'article-post-image-src' column
 df["article-post-image-src"] = df["article-post-image-src"].apply(
-    lambda x: "https:" + x if pd.notna(x) else x
+    lambda x: "https://newsroom.wcs.org" + x if pd.notna(x) else x
 )
 
 # Save the updated DataFrame to a new Excel file
