@@ -1,0 +1,39 @@
+Map #1 shows all places included in the study, with a number showing how many ocean biodiversity hotspots each place was found to have.
+Map #2 shows the 4 countries with the biodiversity hotspots that scored the highest. 
+
+
+
+
+Map #1 shows all places included in the study, with a number showing how many ocean biodiversity hotspots each place was found to have.
+Map #2 shows the 4 countries with the biodiversity hotspots that scored the highest. 
+
+
+
+Map #1 shows all places included in the study, with a number showing how many ocean biodiversity hotspots each place was found to have.
+Map #2 shows the 4 countries with the biodiversity hotspots that scored the highest. 
+
+
+
+					
+					
+						NEW YORK, NY (April 25, 2024) – A new artificial intelligence (AI) model has helped researchers find previously un-mapped ocean biodiversity hotspots across 11 countries in the Western Indian Ocean.
+
+The new maps pinpoint 119 sites with especially high concentrations of species of fish and corals. The AI model, which researchers say could also be adapted for use in terrestrial ecosystems, is the latest in a string of advancements in conservation modeling that have followed from recent growth in computing power.
+
+“Various predictive models have been created for the past 10 or 15 years, but they were not very accurate at making empirical predictions,” said Dr. Tim McClanahan, Director of Marine Science at WCS. “Now, thanks to increasing computing speeds and more and better availability of open-source data, models have become cheaper, faster, and more accurate than ever before.”
+
+Researchers paired high-resolution oceanographic data with detailed in-water surveys by field scientists, creating an AI model to identify underwater biodiversity hotspots across 11 countries in the Western Indian Ocean. The model broke the region down into 6.25 kilometer reef cells and identified which cells had the highest numbers of fish and coral species.
+
+“We had real data from underwater surveys gathered at many of these sites - enabling us to use data to train and test models for their accuracy,” said Dr. McClanahan. “Now that the testing process has exposed the high strength of the models, we can use the models to predict the expected number of species even in areas where we don’t yet have data - hopefully making it easier for communities and countries to find and prioritize new protected areas.”
+
+Not every marine protected area (MPA) is about protecting areas of high biodiversity – some are created to help manage areas that are important to small-scale fishers, others are created to help protect dwindling populations of iconic species like dugongs. However, understanding where a country’s biodiversity hotspots are must be an important factor in implementing global targets, such as the “30x30” target of the Global Biodiversity Framework (in which governments committed to the protection and conservation of at least 30% of lands and waters globally by 2030). 
+
+“We found that among the highest biodiversity locations in these 11 countries, many were not protected at all. Most MPAs don’t have sufficient data to back up their designation,” said Dr. McClanahan. “Many MPAs were designated based on ‘expert opinion’ and observational anecdotes rather than data and models. What’s often lacking is real data telling us: Where are the highest-biodiversity areas in each country? Which places will be the most climate-resilient? Which areas do people like fishers rely on the most for food and income? Those are the types of data that we need in order to make the best decisions. This new model advances the ability to make the right decisions.”
+
+Based on the model, new priorities for conservation include a diversity of sites – view the maps here.
+
+In addition to data, researchers agree that availability of funding to declare MPAs, and then to manage them in the long term, is one of the most critical gaps to be filled on the road to 2030. 
+
+This work was completed with the support of a grant from the United States Department of Interior and Agency for International Development. The findings do not necessarily reflect the views of the USAID or the U.S. Government.
+
+###

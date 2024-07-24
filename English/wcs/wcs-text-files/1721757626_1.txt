@@ -1,0 +1,18 @@
+When explorer Henry Hudson arrived on the shores of Manhattan four centuries ago, he took in an island as rich in natural wonders as Yellowstone National Park. But what would he think of today’s cityscape? 
+
+The Wildlife Conservation Society (WCS) explores this question with the Mannahatta Project. The project takes its title from the name given to the island by the Leni Lenape people, Manhattan’s original settlers. It translates to “the land of many hills.” WCS ecologist Dr. Eric W. Sanderson commemorates the 400th anniversary of Hudson’s arrival in New York through a new book, an interactive website, and an exhibition at the Museum of the City of New York, on view through October 13.
+
+
+Using historical research and modern digital mapping techniques, Sanderson has re-created the city as it looked in September 1609—from the forests of Times Square to the meadows of Harlem to the wetlands downtown. To achieve a very fine level of detail, he geographically matched 18th-century maps of Manhattan’s landscape to the modern cityscape, combed through historical and archaeological records, and applied modern principles of ecology and computer modeling. The project is the most detailed scientific reconstruction of an ecological landscape ever attempted.
+
+“Imagine a virtual time machine that would allow you to see and hear the island’s wild nature, from chestnut forests to sandy beaches, before it was transformed by man’s increasing footprint,” said Sanderson. “The purpose of the Mannahatta Project is to foster an appreciation for the remnants of the natural world—even in this most urban of jungles—and inspire us to work harder to preserve wild places, here and across the globe.”
+
+“Mannahatta is a microcosm for wild places around the world and compels us to think long and hard about the role of cities, and by extension our suburbs, towns, and rural communities, in the brave new world of 21st century nature,” said WCS President and CEO Steven E. Sanderson.
+
+Our Partners
+
+This project was prepared for the New York State Department of State Office of Coastal, Local Government & Community Sustainability with funds provided under Title II of the Environmental Protection Fund. The New York City Department of Parks and Recreation was a municipal sponsor for funding under the state program. The Hudson River Estuary Program of the New York State Department of Environmental Conservation and the New England Interstate Water Pollution Control Commission also provided support.
+
+Generous funding has also been received from the Prospect Hill Foundation, Inc.; Hudson River Foundation for Science and Environmental Research, Inc.; Furthermore: a program of the J.M. Kaplan Fund; Nurture New York’s Nature; the Center for Environmental Research and Conservation at Columbia University; and individual donors. Scientists and scholars from a variety of institutions in New York and elsewhere have contributed time and expertise.
+
+The ESRI Conservation Program provided in-kind donations of geographic information system software. The website mapping interface is based on the Google Maps API from Google.

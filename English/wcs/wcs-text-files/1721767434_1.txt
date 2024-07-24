@@ -1,0 +1,42 @@
+Technology plays a crucial role in protecting areas such as Nouabalé-Ndoki National Park, Congo © Scott Ramsay
+
+
+
+
+  Technology plays a crucial role in protecting areas such as Nouabalé-Ndoki National Park, Congo © Scott Ramsay
+
+
+
+  Technology plays a crucial role in protecting areas such as Nouabalé-Ndoki National Park, Congo © Scott Ramsay
+
+
+
+					
+					
+						NEW YORK, N.Y. (Oct. 31, 2023) -- In a joint endeavor to amplify efforts to monitor and protect critical ecosystems across the globe, EarthRanger, Wildlife Protection Solutions (WPS), and the Wildlife Conservation Society (WCS) have launched a first-of-its-kind universal adaptor for conservation technologies called Gundi. The free and open-source platform aims to ensure frontline conservationists have the tools they need to rapidly scale their efforts to address growing threats to nature. 
+
+Conservationists increasingly rely on data from a vast array of sensors to manage conservation areas that are critical to people and nature and help us defend against the climate crisis. Telemetry devices and transport trackers allow wildlife and vehicle monitoring in real-time. Camera traps and acoustic arrays follow wildlife and identify the presence of poachers. Radios, phones, and other devices ensure the safety of field staff. One of the challenges is that most of these devices are designed and produced independently, and historically, it has been nearly impossible and incredibly time consuming to unify these siloed systems into a 360-degree-view of what is happening on the ground. 
+
+Gundi, meaning “glue” in Swahili and developed by EarthRanger, WPS, and WCS, acts as a universal adaptor between any hardware and any conservation software such as EarthRanger and SMART Connect. It frees conservationists to focus on protecting critical ecosystems that wildlife and surrounding communities depend on and allows manufacturers and developers to focus on developing better conservation hardware and applications.  
+
+“Gundi opens up a world of plug-and-play access to field hardware,” said Jonathan Palmer, Executive Director of Conservation Technology for WCS. “It enables protected area managers to effortlessly deploy tools without having to worry about compatibility or the cost of maintaining an expensive integration, while also allowing technology providers to innovate and get their products deployed rapidly.”
+
+WWF-Brazil’s Felipe Spina uses Gundi in his work with the State Secretary of the Environment of Amazonas State (SEMA-AM), which is responsible for 37 state protected areas spread over nearly 190,000 square kilometers—an area greater than the country of Uruguay.  
+
+Covered by rainforest and sparsely populated, Amazonas is an extremely difficult area to monitor and safeguard. Spina utilizes the latest satellite imagery from high above this landscape to help local communities and protected area staff keep a close eye on the forest. What they are looking for are any signs of illegal deforestation or fires that are damaging a significant portion of the state’s rainforest every year.  
+
+The Global Forest Watch system helps Spina and SEMA-AM monitor and manage forests via online notifications. Once alerted, they can warn community fire brigades or identify other threats in the areas. Gundi is the “glue” that connects these efforts by allowing Spina to pull in cloud and sensor data easily into one platform without worrying about the technical side of integration.  
+
+Having an integrated system is critical at a time when deforestation and fires are pushing one of the planet’s most important jungles toward a tipping point, and the less time Spina and other conservationists spend on figuring out how to get tech to work, the more time they have to do conservation. 
+
+“Now more than ever, conservationists need to leverage technology to truly amplify their efforts in monitoring and protecting critical ecosystems,” said Chris Doehring, EarthRanger Lead Software Engineer. “This platform puts data in the hands of people on the ground, helping them make timely, well-informed decisions”.
+
+One semi-arid area in Kenya offers another example. Ol Pejeta Conservancy is the largest black rhino sanctuary in East Africa and provides a home for the last two northern white rhinos in the world. Conservationists there are working to manage their water, a scarce resource due to the ever-growing impacts of climate change.  
+
+With solar-powered pumping systems, the conservancy leverages the internet and EarthRanger to monitor and control water levels in the reserve. Behind the scenes, Gundi decodes raw data and converts it into meaningful information to alert Ol Pejeta’s staff if there is a water outage. By operating in real-time, the conservancy can save money, reduce its carbon footprint, and prepare for varying water demands depending on the weather forecast.   
+
+“Through our partnership with EarthRanger and WCS, Gundi has created a shared commitment to collaborate and innovate together to support the rapidly growing needs of conservationists,” said Eric Schmidt, Executive Director of WPS. “This underscores our dedication to ensuring those on the front lines can focus on conservation and translating innovation into tangible, meaningful conservation outcomes.” 
+
+By uniting the conservation and technology communities and aligning software development, outreach, and training efforts, Gundi expands the impact of conservationists across the globe at a time when our collective well-being is facing unprecedented challenges from the climate and biodiversity crises. Today, about 450 sites around the world in 62 countries are receiving data through Gundi. The platform is processing more than 1.1 million data points per day, providing invaluable support to conservationists in their efforts to protect the environment.
+
+To learn more about the Gundi platform and to sign up for early access, please visit the Gundi website.

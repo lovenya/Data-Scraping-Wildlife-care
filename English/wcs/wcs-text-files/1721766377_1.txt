@@ -1,0 +1,50 @@
+Black-browed albatross in Steeple Jason Island/isla Salvaje del Oeste.  CREDIT: WCS
+
+
+
+
+ Black-browed albatross in Steeple Jason Island/isla Salvaje del Oeste.  CREDIT: WCS
+
+
+
+ Black-browed albatross in Steeple Jason Island/isla Salvaje del Oeste.  CREDIT: WCS
+
+
+
+					
+					
+						Using drones and artificial intelligence to monitor large colonies of seabirds can be as effective as traditional on-the-ground methods, while reducing costs, labor and the risk of human error, a new study finds.
+
+Scientists at Duke University and the Wildlife Conservation Society (WCS) used a deep-learning algorithm—a form of artificial intelligence—to analyze more than 10,000 drone images of mixed colonies of seabirds in the Falkland Islands/Islas Malvinas.
+
+The Malvinas/Falklands are home to the world’s largest colonies of black-browed albatrosses (Thalassarche melanophris) and second-largest colonies of southern rockhopper penguins (Eudyptes c. chrysocome). Hundreds of thousands of birds breed on the islands in densely interspersed groups. 
+
+The deep-learning algorithm correctly identified and counted the albatrosses with 97% accuracy and the penguins with 87%. All told, the automated counts were within 5% of human counts about 90% of the time.  
+
+“Using drone surveys and deep learning gives us an alternative that is remarkably accurate, less disruptive and significantly easier. One person, or a small team, can do it, and the equipment you need to do it isn’t all that costly or complicated,” said Madeline C. Hayes, a remote sensing analyst at the Duke University Marine Lab, who led the study.
+
+Monitoring the colonies, which are located on two rocky, uninhabited outer islands, has until now been done by teams of scientists who count the number of each species they observe on a portion of the islands and extrapolate those numbers to get population estimates for the full colonies. Because the colonies are large and densely interspersed and the penguins are much smaller than the albatrosses (and, thus, easy to miss), counts often need to be repeated. It’s a laborious process, and the presence of the scientists can disrupt the birds’ breeding and nursing behaviors. 
+
+To conduct the new surveys, WCS scientists used an off-the-shelf consumer drone to collect more than 10,000 individual photos, which Hayes converted into a large-scale composite visual using image-processing software. 
+
+She then analyzed the image using a convolutional neural network (CNN), a type of AI that employs a deep-learning algorithm to analyze an image and differentiate and count the objects it “sees” in it – in this case, two different species of sea birds. These counts were added together to create comprehensive estimates of the total number of birds found in the colonies.
+
+“A CNN is loosely modeled on the human neural network, in that it learns from experience,” said David W. Johnston, director of the Duke Marine Robotics and Remote Sensing Lab. “Essentially, the computer identifies different visual patterns, like those made by black-browed albatrosses or southern rockhopper penguins in sample images, and over time it learns how to identify the objects forming those patterns in other images such as our composite photo.”
+
+Johnston, who is also associate professor of the practice of marine conservation ecology at Duke’s Nicholas School of the Environment, said the emerging drone- and CNN-enabled approach is widely applicable “and greatly increases our ability to monitor the size and health of seabird colonies worldwide, and the health of the marine ecosystems they inhabit.” 
+
+Guillermo Harris, senior conservationist at WCS, co-authored the study. He said, “Counting large seabird colonies of mixed species at remote locations has been an ongoing challenge for conservationists. This technology will contribute to regular population assessments of some species, helping us better understand whether conservation efforts are working.”
+
+Crafting and training the CNN can seem intimidating, Hayes noted, but “there are tons of online resources to help you, or, if you don’t want to deal with that, you can use a free, pre-built CNN and customize it to do what you need. With a little patience and guidance, anyone could do it. In fact, the code to recreate our models is available online to help other researchers kickstart their work.” 
+
+The scientists published their peer-reviewed findings May 22 in Ornithological Applications and have created a video that recaps their findings and offers a bird’s-eye view of the study site. 
+
+The two islands used for the pilot study, Grand Jason Island and Steeple Jason Island, are important for conservation and a focal area of work by WCS. 
+
+Additional coauthors of the paper were Patrick Gray of Duke, Wade Sedgwick and Vivon Crawford of WCS, Natalie Chazal of North Carolina State University and Sarah Crofts of Falklands Conservation. 
+
+Funding came from WCS, the Island Foundation, the Francis Goelet Charitable Trust and Robert G. Goelet.
+
+CITATION: “Drones and Deep Learning Produce Accurate and Efficient Monitoring of Large-Scale Seabird Colonies,” Madeline C. Hayes, Patrick C. Gray, Guillermo Harris, Wade C. Sedgwick, Vivon D. Crawford, Natalie Chazal, Sarah Crofts and David W. Johnston;
+
+May 22, 2021, Ornithological Applications. DOI: https://doi.org/10.1093/ornithapp/duab022

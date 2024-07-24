@@ -1,0 +1,20 @@
+Wildlife Conservation Society scientists help track tigers with new three-dimensional software
+Software also has potential to locate origins of confiscated tiger skins
+NEW YORK (March 12, 2009) – New software developed with help from the Wildlife Conservation Society will allow tiger researchers to rapidly identify individual animals by creating a three-dimensional model using photos taken by remote cameras. The software, described in an issue of the journal Biology Letters, may also help identify the origin of tigers from confiscated skins.
+The new software, developed by Conservation Research Ltd., creates a 3D model from scanned photos using algorithms similar to fingerprint-matching software used by criminologists.
+The study’s authors include Lex Hiby of Conservation Research Ltd., Phil Lovell of the Gatty Marine Laboratory’s Sea Mammal Research Unit, and Narendra Patil, N. Samba Kumar, Arjun N. Gopalaswamy and K. Ullas Karanth all of the Wildlife Conservation Society’s India Program.
+Researchers currently calculate tiger populations by painstakingly reviewing hundreds of photos of animals caught by camera “traps” and then matching their individual stripe patterns, which are unique to each animal. Using a formula developed by renowned tiger expert Ullas Karanth of WCS, researchers accurately estimate local populations by how many times individual tigers are “recaptured” by the camera trap technique.
+It is expected that the new software will allow researchers to rapidly identify animals, which in turn could speed up tiger conservation efforts.
+“This new software will make it much easier for conservationists to identify individual tigers and estimate populations,” said Ullas Karanth, Senior Conservation Scientist at the Wildlife Conservation Society and one of the study’s co-authors. “The fundamentals of tiger conservation are knowing how many tigers live in a study area before you can start to measure success.”
+The study’s authors found that the software, which can be downloaded for free at: www.conservationresearch.co.uk, was up to 95 percent accurate in matching tigers from scanned photos. Researches were also able to use the software to identify the origin of confiscated tiger skins based on solely on photos. Development of the software was funded through a Panthera project in collaboration with WCS.
+
+Facilities for obtaining the images used for the construction of the three-dimensional surface model were provided by the Thrigby Hall Zoo, Norfolk, England. Centre for Wildlife Studies, Bangalore and the Wildlife Conservation Society, India Program provided images, local resources and staff time for this study, which was supported in part by a grant from the Liz Claiborne / Art Ortenberg Foundation.
+For nearly two decades, tiger conservation and scientific surveying efforts by the Wildlife Conservation Society have received the support of the U.S. Geological Survey. In addition, the U.S. Government through the U.S Fish and Wildlife Service's Rhino-Tiger Conservation Fund has made strategic investments in tiger conservation in India and beyond. Since 2004, this fund has invested more than $ 7 million and leveraged nearly $14.5 million through private contributions and partner support. 
+
+The Wildlife Conservation Society saves wildlife and wild places worldwide. We do so through science, global conservation, education and the management of the world's largest system of urban wildlife parks, led by the flagship Bronx Zoo. Together these activities change attitudes towards nature and help people imagine wildlife and humans living in harmony. WCS is committed to this mission because it is essential to the integrity of life on Earth. Visit: www.wcs.org
+
+Special Note to the Media: If you would like to guide your readers or viewers to a web link where they can make donations in support of helping save wildlife and wild places, please direct them to: www.wcs.org/donation 
+
+Contact
+Stephen Sautner: (1-718-220-3682; ssautner@wcs.org)
+John Delaney: (1-718-220-3275; jdelaney@wcs.org)

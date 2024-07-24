@@ -1,0 +1,30 @@
+Renata Romeo -- Ocean Image Bank
+
+
+
+
+ Renata Romeo -- Ocean Image Bank
+
+
+
+ Renata Romeo -- Ocean Image Bank
+
+
+
+					
+					
+						For the first time, a newly published artificial intelligence (AI) algorithm is allowing researchers to quickly and accurately estimate coastal fish stocks without ever entering the water. This breakthrough could save millions of dollars in annual research and monitoring costs while bringing data access to least-developed countries about the sustainability of their fish stocks.
+
+Understanding “fish stocks” – the amount of living fish found in an area’s waters – is critical to understanding the health of our oceans. This is especially true in coastal areas where 90 percent of people working in the fisheries industry live and work. In the wealthiest countries, millions of dollars are spent each year on “stock assessments” – expensive and labor-intensive efforts to get people and boats out into the water to count fish and calculate stocks. That extremely high cost has long been a barrier for tropical countries in Africa and Asia, home to the highest percentage of people who depend on fishing for food and income. Small-scale fishers working coastal waters in many countries are essentially operating blindly, with no real data about how many fish are available in their fisheries. Without data, coastal communities and their governments cannot create management plans to help keep their oceans healthy and productive for the long-term.
+
+Now, thanks to advances in satellite data and machine learning algorithms, researchers have created a model that has successfully estimated fish stocks with 85 percent accuracy in the Western Indian Ocean pilot region. This tool has the potential to get data quickly and cheaply into the hands of local and national governments, so they can make informed decisions about their natural resources and keep “blue foods” on the table.
+
+“Our goal is to give people the information required to know the status of their fish resources and whether their fisheries need time to recover or not. The long term goal is that they, their children, and their neighbors can find a balance between peoples’ needs and ocean health,” said Tim McClanahan, Director of Marine Science at WCS. “This tool can tell us how fish stocks are doing, and how long it will take for them to recover to healthy levels using various management options. It can also tell you how much money you’re losing or can recoup every year by managing your fishery – and in the Western Indian Ocean region where we piloted this tool, it’s no less than $50 to $150 million each year.”
+
+WCS’ McClanahan and fellow co-authors used years of fish abundance data combined with satellite measurements and an AI tool to produce this model. The result? A simple, easy to use pilot tool to better understand and manage our oceans. With further development, anyone from anywhere in the world would be able to input seven easily accessible data points - things like distance from shore, water temperature, ocean productivity, existing fisheries management, and water depth - and receive back an accurate fish stock estimate for their nearshore ecosystems. 
+
+“We know that during times of crisis and hardship, from climate change-induced weather events to the COVID-19 pandemic, people living on the coast increasingly rely on fishing to feed themselves and their families,” said Simon Cripps, Executive Director of Marine Conservation at WCS. “The value of this model is that it tells managers, scientists, and importantly, local communities how healthy a fishery is and how well it can support the communities that depend on it, especially during times of crisis. Once a fishery’s status is known, it gives communities and managers the information to move forward to design solutions to improve fish stocks and improve the resilience of local communities, the fishing industry, and local and national economies.” 
+
+The algorithm has been shown to work with high accuracy for coral reef fisheries in the Western Indian Ocean pilot region. WCS is currently seeking new partnerships and funding to scale the tool so it can be deployed and fill critical data gaps  around the world. 
+
+This work was completed over a number of years and with the support of grants from The Tiffany and Co. Foundation, the John D. and Catherine T. MacArthur Foundation, the Bloomberg Ocean Initiative, the UK Darwin Initiative, and the Western Indian Ocean Marine Science Association’s Marine Science for Management Program (WIOMSA-MASMA).

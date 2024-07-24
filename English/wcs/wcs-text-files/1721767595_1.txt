@@ -1,0 +1,58 @@
+A female tiger in the Sikhote-Alin Biosphere Reserve, a UNESCO site, in Russia
+Other pic in dropbox: A tiger in the Land of the Leopard National Park, a national park in the Russian Far East.
+Credit: Land of the Leopard National Park and ANO WCS. Credit: ANO WCS and Sikhote-Alin Biosphere Reserve
+
+
+
+
+A female tiger in the Sikhote-Alin Biosphere Reserve, a UNESCO site, in Russia
+Other pic in dropbox: A tiger in the Land of the Leopard National Park, a national park in the Russian Far East.
+Credit: Land of the Leopard National Park and ANO WCS. Credit: ANO WCS and Sikhote-Alin Biosphere Reserve
+
+
+
+A female tiger in the Sikhote-Alin Biosphere Reserve, a UNESCO site, in Russia
+Other pic in dropbox: A tiger in the Land of the Leopard National Park, a national park in the Russian Far East.
+Credit: Land of the Leopard National Park and ANO WCS. Credit: ANO WCS and Sikhote-Alin Biosphere Reserve
+
+
+
+					
+					
+						New York, Feb. 27, 2024, 10AM ET -- In an unusual blend of space technology, and on-the-ground data gathering, NASA satellite imagery and Google Earth Engine computing power are helping scientists develop a real-time monitoring system for tiger habitat globally. The program, referred to as “TCL 3.0” focuses on the remaining distinct continuous tracts of habitat where tigers still occur (referred to as Tiger Conservation Landscapes, or TCLs), and represents the third iteration of assessing tiger habitat across Asia. The approach represents a breakthrough in how scientists measure and monitor changes in habitat and provides a framework for monitoring other wildlife species across the globe.
+
+“This is a way to look at both the big picture and see changes on the ground as they’re happening,” said Eric W. Sanderson, first author of the study, and former Wildlife Conservation Society staff member, one of 31 coauthors of a new paper, “Range-wide Trends in Tiger Conservation Landscapes, 2001 - 2020,” which describes an innovative, near real-time approach to monitoring tiger habitat. “The ultimate goal is to monitor changes in real time to help stabilize tiger populations across the range.” Sanderson is now the Vice President for Urban Conservation at the New York Botanical Garden.
+
+Said NASA Laura Rogers, Associate Program Manager, NASA Ecological Conservation Program: “The system wide view provided by TCL 3.0 is a game-changing innovation which will enable tigers as a species to thrive.  Using Earth observations such as VIIRS, MODIS and Landsat products, land managers and decision makers can now holistically see the impact of human activity on these critical habitats and can opt to alter their management approaches.”
+
+Said Tanya Birch, Senior Program Manager, Google: “Everybody should read, if nothing else, the conclusion of this paper. As the paper authors write, “Monitoring progress at a pace relevant to decision-making is key.” In technology, there’s a well-worn cliche around tech being a catalyst to “make the world a better place.” Google Earth Engine powering TCL3.0 is a superb example of the good that a “little technological magic” can bring.
+
+“The TCL 3.0 program represents a breakthrough in how we monitor the status of a species, a system that can be applied not only to tigers, but to any species of concern,” said Dale Miquelle, a co-author of study and WCS Tiger Program Associate Director. “But for this system to reach its full potential, it will require collaboration from all vested parties, from NGOs to scientific institutes to governments. The next step to make TCL 3.0 fully functional is to secure full buy-in from all partners interested in the conservation of tigers.”
+
+The report, with lead authors Sanderson, Miquelle, and Kim Fisher, all from the Wildlife Conservation Society, was published on December 8 2023 in Frontiers in Conservation Science. The product is the result of a collaborative effort of leading tiger scientists across Asia, some of the leading remote sensing experts, landscape ecologists, and biological statisticians in the world, and was supported by multiple NGOs of the Tiger Conservation Coalition as well as government agencies in countries where tigers are found.
+
+Habitat loss is a primary cause of the endangerment of Panthera tigris, the planet’s largest cat and cultural icon in Asia. Because tigers depend upon large expanses of intact forest ecosystems to survive, their status is a good proxy for the integrity of many terrestrial ecosystems in Asia: forests with stable populations of tigers are more likely to retain higher levels of biodiversity, sequester more carbon, and mitigate the impacts of climate change, at the same time providing ecosystem services to millions of humans in surrounding areas. Yet, despite reams of studies over many centuries, until now there has been no system in place to look at integrated habitat modeling across the tiger’s range to measure and monitor changes in the status of tigers and their habitat on national, biome, and landscape scales, and to continually update the data as circumstances change. 
+
+To address this most critical threat to biodiversity, it is crucial for governments and non-governmental actors to know, in near real-time, where and when habitat loss is occurring, the report’s authors note. Countries can download nationally specific summaries via https://act-green.org. 
+
+This new system looks specifically at tigers, highly evolved, obligate carnivores whose ancestors first appeared in Eurasia some 62 million years ago.  In historical times tigers ranged from the Caspian Sea to the Russian Far East, and south to the Indonesian islands of Sumatra, Java, and Bali. Between 2001 and 2020, the total area of Tiger Conservation Landscapes (TCLs) declined from 1.025 million to about 912,000 square kilometers – a range-wide loss of 11 percent, with the greatest losses in Southeast Asia and southern China. Globally, there are 63 TCLs spread across 10 of the 30 modern countries in areas where tigers originally occurred, with India retaining approximately 3000 of the world's remaining 4500 tigers in 35 Tiger Conservation Landscapes .
+
+Effective potential tiger habitat appears to have plateaued at around 16 percent of its original extent (1.817 million square kilometers), based on 2020 data. Researchers have noted expansions of tiger habit in India, Nepal, Bhutan, northern China, and southeastern Russia, illustrating significant potential for expanding tiger range into what are referred to as Restoration Landscapes (RLs). If these habitats had sufficient prey and tigers were sustainably introduced, the area occupied by tigers could increase by 50 percent, the researchers found. 
+
+The scientists’ analytical system, incorporating NASA Earth observations, in situ biological data, and a conservation-oriented modeling framework, provides the information needed by countries that maintain tiger populations to identify priority landscapes that need protection, and to monitor changes in the extent and quality of habitat, thus providing an “early warning system” when encroachments or habitat degradation occurs. In addition to monitoring changes in occupation by tigers, the system also develops yearly estimates of the human “footprint,” an index of human impact on a landscape, providing yet another indicator of changes to the landscape. The system includes dynamic, spatially explicit maps and results, updated as often as the underlying data change, providing a near-real time assessment of what is happening to the forested ecosystems of Asia, enabling country governments an opportunity to react in a timely manner. TCL 3.0 will help overcome delays in data sharing that are inherent in the conventional process of acquiring, processing, and publishing spatial data, and could be extended readily to other species.
+
+In recent decades, government agencies including the U.S. National Aeronautics and Space Administration (NASA) and the European Space Agency (ESA) have made timely, high-resolution, landscape-level information from satellite sensors more accessible and affordable than ever before, fulfilling a desire for information about environmental issues and stimulating significant technological advancements in satellite engineering. Combining access to these space images with the computing power of Google Earth Engine provided the scientists an opportunity to build a platform that provides something close to “real-time” assessments of the situation on the ground – with re-mapping occurring as often as the underlying data change.
+
+Additional Comments from Co-Authors and Others
+
+Said Dr. Abishek Harihar, Panthera Tiger Program Director: “Pushed out of 92% of its distributional range, the tiger is now found in some of the most threatened and fast-changing landscapes on our planet. Leveraging a rich legacy of tiger conservation and incorporating cutting-edge geospatial data and analysis, TCL 3.0 marks a pivotal advancement for conservation technologies that will help bolster proactive and reactive conservation efforts and strengthen our toolkit to safeguard a species still endangered by extinction. Further, by using tigers as indicators for biodiversity health, TCL 3.0 provides a platform for governments and conservationists to align with global initiatives, such as the Global Biodiversity Framework and Sustainable Development Goals, to address the urgent challenges facing our ecosystems.”
+
+Said Urs and Christine Breitenmoser, co-chairs, IUCN SSC Cat Specialist Group: “Sensible planning in conservation depends on reliable and up-to-date assessments such as the IUCN Red List and Green Status assessments. As anthropogenic impact increases and landscapes changes accelerate, we always limp behind with detecting and mitigating emerging threats. We have high expectations that near real-time monitoring systems as now developed for the tiger will help us improve the quality of our assessments and to do re-assessments at a much faster rate.”
+
+Said Stuart Chapman, WWF’s Tigers Alive Initiative Lead: “Although global tiger numbers have increased in the last few years, the area occupied by tigers continues to shrink. Working collaboratively to bring back tigers to where they once roamed is the best way to ensure a long-term and sustainable future for Asia’s most iconic big cat tiger and TCL 3.0 presents an exciting opportunity to guide objective and strategic decision making towards this ambitious conservation vision.”
+
+Said Charles Yackulic, USGS: “Analysis of ecological data often relies on models that can be difficult and slow to implement, leading to gaps in time between data collection and actionable science. The beauty of this project is that we were able to minimize the time required for analysis while also creating a reproducible and transferable approach.“
+
+Said Jamie Sanderlin, USFS: “Our team created new statistical methods to incorporate data from multiple sources like camera traps, sign surveys, and ad-hoc observations of tigers. The innovative analysis generated a more robust picture of where tigers live. New methods like these can help scientists take advantage of hard-earned data, some of which is extremely difficult to collect due to rugged remote field conditions and the often elusive nature of species of concern, like tigers.”
+
+###

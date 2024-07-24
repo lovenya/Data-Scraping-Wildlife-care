@@ -1,0 +1,34 @@
+Data-driven analysis will maximize return-on-investment in protecting wildlife and wild lands
+
+ New York (March 26, 2014)—Scientists seeking a more efficient way of protecting the heart of Africa’s wildlife—the Greater Virunga Landscape—have developed a method to make the most of limited enforcement resources, according to a new study by the Wildlife Conservation Society, the University of Queensland, Imperial College London, and the Uganda Wildlife Authority. 
+
+ By channeling data on wildlife sightings and park guard patrolling routes into spatial planning software, conservationists have devised a cost-effective method for maximizing the deterrence effect of patrolling to protect Africa’s threatened wildlife from poaching and other illegal activities. 
+
+ The enforcement-targeting method is described in a study appearing in the current edition of the Journal of Applied Ecology and is freely available online.
+
+Study available here >>
+
+ “The Greater Virunga Landscape contains many natural wonders, but resources for enforcement across this huge area are limited,” said Dr. Andrew Plumptre, lead author of the study and Director of the Wildlife Conservation Society’s Albertine Rift Program. “Our spatial analysis allows us to identify weaknesses in current efforts, which we can use to redirect enforcement and increase efficiency and conservation impact.”
+
+ Stretching through Uganda, Rwanda, and the Democratic Republic of Congo, the Greater Virunga Landscape is one of the most biodiverse places on Earth and is home to all of the world’s mountain gorilla populations. Much of the region’s mountains, forests, lakes, and savannas are contained in a total of 13 protected areas covering 13,800 square kilometers. The region also contains populations of chimpanzees, elephants, hippopotamus, lions, and many other species. 
+
+ The authors of the study conducted their analysis by first determining the distribution of key species and habitats. Data on the distribution of threats was then added, followed by estimates of current patrol effort and the cost of patrolling parks, protected areas, and other wildlife-rich regions effectively. All data layers were then used to conduct a spatial prioritization to minimize the cost of patrols and maximize the protection of wildlife species. 
+
+ What the authors found was that only 22 percent of the Greater Virunga Landscape is being effectively patrolled at present. “The key problem is trying to ascertain where to send patrols to make them effective,”  said Dr. James Watson, who holds a joint WCS-University of Queensland position. “Our research has shown that existing patrols are not frequent enough to be effective at deterring poaching and other illegal activities beyond 3 kilometers from a patrol post.” 
+
+ “We discovered that careful planning of patrol activity can increase its effectiveness while reducing costs by up to 63 percent,” added Prof. Hugh Possingham, director of the ARC Centre of Excellence for Environmental Decisions.
+
+ In addition to helping wildlife managers and park authorities to redirect enforcement efforts into areas requiring protection, the method—the authors say—will also help reduce the cost of achieving conservation goals. 
+
+ “Knowing where to put your enforcement efforts to make the most difference in protecting wildlife and natural resources is a huge advantage for conservationists,” said Mr. Aggrey Rwetsiba, Senior Coordinator Ecological Monitoring and Research at the Uganda Wildlife Authority. “The method offered here can improve patrol coverage and increase deterrence in this vital region of Africa.” 
+
+ The authors are: Andrew Plumptre of the Wildlife Conservation Society; Richard Fuller of the University of Queensland; Aggrey Rwetsiba of the Uganda Wildlife Authority; Fredrick Wanyama of the Uganda Wildlife Authority; Deo Kujirakwinja of the Wildlife Conservation Society; Margaret Driciru of the Wildlife Conservation Society; Grace Nangendo of the Wildlife Conservation Society; James Watson of the Wildlife Conservation Society; and Hugh Possingham of the University of Queensland and Imperial College. 
+
+This analysis was funded by the Fairfield Osborn Memorial Fund, The University of Queensland and the Wildlife Conservation Society. Funding that supported data collection and analysis for this study came from the John D. and Catherine T. MacArthur Foundation, the US Fish and Wildlife Service Elephant and Great Ape Conservation Funds, US State Department,  US Agency for International Development , and Wildlife Conservation Society. 
+
+CONTACT:
+JOHN DELANEY: (1-718-220-3275;jdelaney@wcs.org )
+STEPHEN SAUTNER: (1-718-220-3682; ssautner@wcs.org ) Wildlife Conservation Society (WCS)
+MISSION: WCS saves wildlife and wild places worldwide through science, conservation action, education, and inspiring people to value nature. VISION: WCS envisions a world where wildlife thrives in healthy lands and seas, valued by societies that embrace and benefit from the diversity and integrity of life on earth. To achieve our mission, WCS, based at the Bronx Zoo, harnesses the power of its Global Conservation Program in more than 60 nations and in all the world’s oceans and its five wildlife parks in New York City, visited by 4 million people annually. WCS combines its expertise in the field, zoos, and aquarium to achieve its conservation mission. Visit: www.wcs.org; facebook.com/TheWCS; youtube.com/user/WCSMedia; follow: @theWCS.
+
+The MacArthur Foundation supports creative people and effective institutions committed to building a more just, verdant, and peaceful world. In addition to selecting the MacArthur Fellows, the Foundation works to defend human rights, advance global conservation and security, make cities better places, and understand how technology is affecting children and society. More information is at www.macfound.org

@@ -1,0 +1,98 @@
+Genetics and remote sensing data represent a rare hi-tech combo for marine animals
+						Researchers detect hidden environmental barriers along coastal habitat of the franciscana dolphin
+
+				
+		
+		
+ 
+
+
+		
+
+		
+ 
+
+
+		
+NEW YORK—Using DNA samples and images from Earth-orbiting satellites, conservationists from Columbia University, the Wildlife Conservation Society, the American Museum of Natural History, and Fundación AquaMarina, are gathering new insights about the franciscana—a poorly known coastal dolphin species of eastern South America—in an effort to understand populations and conserve them. 
+
+
+
+The study, one of the first to combine molecular data along with range-wide environmental information for a marine species, is helping researchers to understand how seemingly monotonous marine environments actually contain significant habitat differences that are shaping populations of this threatened species, which averages between 5-6 feet in length and around 80-90 pounds in weight. According to findings published in the most recent edition of Molecular Ecology, genetic differences between dolphins from different sites correlate to measurable differences in water temperature, turbidity and chlorophyll levels, a tantalizing indication of how largely hidden oceanographic variables could drive population structure of marine animals. 
+
+
+
+The authors of the study are: Martin Mendez of Columbia University, the American Museum of Natural History (AMNH), and the Wildlife Conservation Society; Howard Rosenbaum of the Wildlife Conservation Society; Ajit Subramaniam of Lamont Doherty Earth Observatory at Columbia University; Charles Yackulic of Columbia University; and Pablo Bordino of Fundación AquaMarina and the Wildlife Trust Alliance. 
+
+
+“The availability of both genetic and environmental data provided us with a rare opportunity to examine how ecological factors affect population structure in a marine species,” said Martin Mendez, the study’s lead author. “In this instance, the study subject is possibly the most endangered cetacean in South America, so delineating populations and the factors that create them certainly plays an important role in conservation measures.” 
+
+
+
+As a result of the study, the researchers recommend that the genetically distinct population of franciscanas to the north of Buenos Aires—probably created in part by oceanographic conditions—should be protected as part of a larger effort to save the species. 
+
+
+
+The research team started its investigation on the molecular level, one of the most efficient ways of determining the structure of marine animal populations. Working at the American Museum of Natural History’s Sackler Institute for Comparative Genomics, researchers compared 275 genetic samples from dolphins that had been stranded, entangled in fishing gear, or captured and released in six locations along coastal Argentina (the southern portion of the animal’s full range). Using genetic markers to statistically gauge the geneflow between dolphin groups at different sites, the scientists discovered that there are two—and possibly three—distinct populations of franciscanas in Argentina’s coastal waters. 
+
+
+
+What really sets the study apart is the use of region-wide satellite data that shows how environmental differences—temperature, turbidity, and chlorophyll levels—are probably involved in creating those genetically distinct populations. The oceanographic data was provided by NASA’s SeaWiFS and MODIS, two satellites designed to gather information on oceanic conditions. 
+
+
+
+The combination of genetic and environmental information allowed the scientists to examine the effects of detectable habitat differences on population structure in franciscanas. Specifically, researchers were able to test the role of two biological hypotheses on population formation, one based on the assumption that geneflow between two groups decreases with distance, and one based on decreased geneflow as a result of environmental barriers (the latter of which is easy to detect with terrestrial species separated by mountains, and usually undetectable in marine environments over wide areas). 
+
+
+
+In comparing both data sets, researchers were surprised to discover that dolphins in closely located sites in the northern portion of the study area were most genetically different; in particular, two closely located groups of dolphins near the mouth of the La Plata Estuary (some 35 kilometers apart) were the most genetically dissimilar in the study, a finding that coincided with detectable environmental discontinuities. By contrast, two sites separated by hundreds of kilometers to the south were found to be the most similar. 
+
+
+
+Other correlations hint at the possible role of behavioral patterns in population structure. An examination of both mitochondrial DNA (inherited through maternal lines) and nuclear DNA seems to reinforce current knowledge of cetacean behavior, with females remaining faithful to their natal location and males ranging more widely (except when oceanographic barriers impede their movement). More research on franciscana behavior could further illuminate the role of behavior in population structure. 
+
+
+
+“We’re only beginning to understand the interactions between environmental factors and population patterns in marine environments,” said Dr. Howard Rosenbaum, director of the Wildlife Conservation Society’s Ocean Giants Program. “What this study shows is that marine systems are not homogeneous environments, but full of variations that could play important roles in shaping and reinforcing how animal populations use their habitat; these types of information are essential for developing strategies on how best to protect these coastal dolphins and broader marine spatial planning.” 
+
+
+
+The franciscana, or La Plata dolphin, is found along the Atlantic coastal waters of South America, from southern Brazil to Península Valdes in Argentina. Although a member of the river dolphin family, the franciscana—one of the world’s smallest cetaceans—actually lives in coastal waters and estuaries. The species is listed as “Vulnerable” by the World Conservation Union (IUCN), and is threatened by accidental capture in gill nets and other fishing gear. 
+
+
+
+ 
+
+Full Citation: Mendez. M., Rosenbaum, H.C., Subramaniam A., Yackulic C., Bordino P., “Isolation by environmental distance in mobile marine species: molecular ecology of franciscana dolphins at their southern range.” Molecular Ecology, Wiley-Blackwell, DOI: 10.1111/j.1365-294X.2010.04647.x
+
+
+
+Contact:    
+John Delaney: (1-718-220-3275; jdelaney@wcs.org)
+
+Stephen Sautner: (1-718-220-3682; ssautner@wcs.org)
+
+Clare Oh: (1-212-854-5479, clare.oh@columbia.edu) 
+
+ 
+
+
+
+ 
+
+
+
+The Wildlife Conservation Society saves wildlife and wild places worldwide. We do so through science, global conservation, education and the management of the world's largest system of urban wildlife parks, led by the flagship Bronx Zoo.Together these activities change attitudes towards nature and help people imagine wildlife and humans living in harmony. WCS is committed to this mission because it is essential to the integrity of life on Earth. 
+
+ 
+		
+		
+
+About Columbia University
+
+A leading academic and research university, Columbia continually seeks to advance the frontiers of knowledge and to foster a campus community deeply engaged in understanding and addressing the complex global issues of our time. Columbia's extensive public service initiatives, cultural collaborations, and community partnerships help define the University’s underlying values and mission to educate students to be both leading scholars and informed, engaged citizens. Founded in 1754 as King’s College, Columbia University in the City of New York is the fifth oldest institution of higher learning in the United States. To learn more, visit www.columbia.edu.
+ 
+
+
+
+Special Note to the Media: If you would like to guide your readers or viewers to a web link where they can make donations in support of helping save wildlife and wild places, please direct them to: www.wcs.org/donation

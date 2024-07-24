@@ -1,0 +1,16 @@
+CREDIT: MELVIN GUMAL/WCS
+
+
+
+
+ CREDIT: MELVIN GUMAL/WCS
+
+
+
+ CREDIT: MELVIN GUMAL/WCS
+
+
+
+					
+					
+						A mathematical theorem formulated in the 1700s has been used by scientists for the first time to accurately count critically endangered Bornean orangutans (Pongo pygmaeus) in the Malaysian state of Sarawak. The scientific team led by WCS’s Malaysia Program and supported by Sarawak Forestry Corporation and partners used Bayesian analyses, a theorem created by Thomas Bayes in 1763, which says probability can change as new information is gathered.  Currently, the standard survey protocol to estimate orangutan density consists of counting all nests visible from a line transect or plot and generating nest density within the area surveyed. Orangutans build nests of branches and leaves at the end of each day for sleeping. Publishing their results in the journal Nature Scientific Reports, the team adapted Bayesian analysis to measure the precision of the orangutan count estimates. This is done by removing the use of nest decay rates, which can be extremely variable. In some situations, nests can disappear in less than two months, but in other instances the decayed leaves may remain as long as 18 months. Thus, the assumption is that removing decay rate gives greater precision. Using Bayesian analyses, the team estimates that there are as many as 355 orangutans in their study sites, with many living outside of protected areas. As a result of the team’s preliminary data, the government of Sarawak led by the Forest Department extended the Lanjak-Entimau Wildlife Sanctuary for orangutan conservation. The authors also thanked Sarawak Forestry Corporation and the management of Lanjak-Entimau Wildlife Sanctuary for their support and allowing the orangutan research in the protected area.  The authors say the Bayesian framework allowed stronger and more reliable estimates to be generated with a measure of precision to more accurately count – and subsequently protect – this imperiled primate.

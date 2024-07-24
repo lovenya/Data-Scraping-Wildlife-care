@@ -1,0 +1,16 @@
+ranger image ndoki
+
+
+
+
+ ranger image ndoki
+
+
+
+ ranger image ndoki
+
+
+
+					
+					
+						NEW YORK (November 22, 2016) – The Wildlife Conservation Society (WCS) and SMART Partnership announced that it will hold a hackathon challenge to improve SMART (Spatial Monitoring and Reporting Tool) – the world’s leading tool for protected area management. The challenge will be held at Amazon.com’s AWS ReInvent Conference in Las Vegas on Monday, November 28th.     Tech experts will gather to help WCS and SMART Partnership improve reaction time of frontline rangers in fighting poaching, and to improve collaboration between protected area managers, scientists and technologists by providing cutting-edge software tools to park rangers . SMART has been deployed in over 150 locations in 30 countries around the world and is used by park rangers and protected area managers to help protect wildlife and fight poaching. The tool features modules that monitor the performance of patrolling by park rangers, monitor wildlife, and help manage and analyze intel that can lead to arrests of poachers.    Currently SMART is installed as desktop software in a protected area to collate, manage and visualize data collected by park rangers. A recent addition – SMART Connect – allows this data to be sent to and stored in the Cloud, where it can benefit from many analytical and mapping tools provided through other web services. The hackathon challenge is to leverage this data from SMART Connect to develop value-added reporting and data analysis for protected area authorities. As an example, a user might want to look at the trends of weapons and gears seized over a period of time so they can find out a pattern that they can then apply in another area. Another example would be for a user to look at the same data projected on a map to determine where poachers are the most likely to be located. Said Jonathan Palmer, WCS Executive Director of Strategic Technology, “The SMART Approach leverages robust and innovative technology to enhance protected area management thorough encouraging all staff, from rangers to protected area leadership, to leverage data for adaptive management. This hackathon will bring together some of the best thinkers in technology to make the tool even more effective in saving wildlife and wild places.” The SMART Partnership is an innovative partnership includes the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), Monitoring Illegal Killing of Elephants (MIKE) programme, Frankfurt Zoological Society, Global Wildlife Conservation, North Carolina Zoo, Panthera, Peace Parks Foundation, Wildlife Conservation Society, World Wildlife Fund, and Zoological Society of London. ###

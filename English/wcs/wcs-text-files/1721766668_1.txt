@@ -1,0 +1,81 @@
+CREDIT: Clinton Mwebze
+
+
+
+
+ CREDIT: Clinton Mwebze
+
+
+
+ CREDIT: Clinton Mwebze
+
+
+
+					
+					
+						The Conservation Finance Alliance (CFA) is excited to announce the seven finalists accepted into the second cohort of the CFA Incubator. The CFA Incubator aims to identify, support, and promote innovative solutions to conservation finance challenges. After a competitive open call for proposals, 73 impactful conservation finance concepts were received.  The CFA Incubator’s Technical Review Committee reviewed all proposals and chose seven projects for the CFA Incubator Round 2 cohort.  Five of the seven proponents will also receive a grant of USD 20,000 to support their initiatives. The cohort will run over nine months during 2022 and various public presentations will be made as the projects progress. Incubated projects and companies receive mentorship from the CFA Incubator co-leads, Dr. David Meyers and Ben Guillon, as well as mentorship and targeted expertise from CFA members and partners. This round of Incubation is financially supported by the MAVA Foundation with technical support from our partners. The CFA Incubator ran its first cohort during 2020-2021.
+
+Incubation and Financial Support
+
+
+ Blue Recovery Bond - Planet Tracker – Reversing financial incentives for overfishing.
+ Microfinance for Community Conservation - WWF and Kiva – collaborating to bring microfinance to conservation enterprises in the Amazon and beyond.
+ Mwenzi Capital - Conservation Capital – Blended finance mechanism for sharing profits in nature-based enterprises in Africa. 
+ Ocean Eye – Tourism platform facilitating micro payments to coastal communities based on wildlife sightings.
+ Ng’wala Inventions – Designing and operating digital solar-powered organic pesticide and fertilizer dispensing machines for rural farmers in Africa.
+
+
+Incubation 
+
+
+ Decentralized Finance “DeFi” Registries in Water Quality Markets - Ecomarket Services, AQAIX, and i2 Capital - transforming water quality markets using blockchain technology.
+ Nature 4 Climate Fund - Natural Strategies Investments - Bridging commercial interests and long-term sustainable solutions by effectively connecting capital with conservation.
+
+
+The CFA Incubator builds its mentorship roster from the CFA’s Innovation Working Group. If you would like to join, please click here. If you are interested in being a financial or strategic partner of the CFA Incubator, please contact us at incubator@cfalliance.org.
+
+Project Descriptions
+
+Blue Recovery Bond: Reversing Financial Incentives for Overfishing
+
+Proponent: Planet TrackerIn many cases, overfishing occurs because fishing companies are financially incentivized to fish as much as they legally can. But what if fishing incentives were better aligned with sustainability? Planet Tracker’s award-winning ‘Blue Recovery Bond’ concept shows how paying fishing companies to fish less could be both financially and environmentally rewarding.  With the Blue Recovery Bond, fishing companies that agree to a temporary decrease in fish catch receive compensation from investors until fish populations have sufficiently recovered
+
+Microfinance for Community Conservation
+
+Proponents: WWF and Kiva
+
+Effectively managed microfinance lending can help small and medium enterprise (SME) owners to start, sustain, and grow their businesses. However, this model has been limited to mostly urban settings due to high transaction costs for operations in rural and indigenous communities, such as in the Amazon biome.  This project is a proposed collaboration between WWF and Kiva - a nonprofit organization that manages a crowdfunding platform that raises and disburses USD 150+ million in loans annually to support microentrepreneurs and social enterprises around the world.  The goal is to structure a collaborative arrangement that provides initial grant funding to establish community relationships, technical assistance for nature-based business development, and financial education within target communities – thus creating enabling conditions for microlending from Kiva. This approach can mainstream conservation of natural resources among local economies in the Amazon while enhancing livelihoods in rural and indigenous communities – further empowering them to steward their own lands. Ideally, after completing the initial lending cycle, these enterprises will be able to access mainstream lending.
+
+Mwenzi Capital
+
+Proponent: Conservation Capital
+
+The financial sustainability of modern African conservation landscapes is often built around portfolios of nature-based businesses – particularly in the tourism sector; and while these can comprise both successful and responsible businesses, they are all too often characterized by one major shortcoming – their ownership structure does not meaningfully engage or benefit local stakeholders.  The conservation community has historically attempted to address this ownership divide by building new community-owned enterprises that lack competitiveness, have long pathways to profitability, and high risks. Mwenzi Capital seeks to democratize existing conservation-focused enterprise ownership and value streams in critical African conservation landscapes.  This will be done through making specially structured investments in existing, and hence de-risked, revenue generating nature-based businesses that could benefit from stronger community collaboration – and directing ownership or revenue back to collaborating communities and conservation organizations so that all parties benefit from the enterprise’s enhanced success.  The approach is both scalable and flexible and, in tourism markets at least, has current relevance and applicability in the post-Covid-19 period. Initial pipeline development revealed has significant appetite.
+
+Ocean Eye
+
+Proponent: Sari Tolvanen, Ocean Eye
+
+Global studies have shown that stakeholder buy-in is the number one success factor in marine conservation, but too often coastal communities lack incentives to support conservation initiatives. Ocean Eye is a fintech solution for the tourism sector that facilitates micro payments by marine tourists towards coastal communities based on wildlife sightings. In other words, Ocean Eye is a data collection and financial transfer platform that collects wildlife sighting data and transfers ecosystem service payments. The animal sighting reports are directly linked to small payments from tourists that go to coastal communities and incentivize the protection of endangered and vulnerable species. The mechanism creates incentives for communities to reduce harm to nature and become conservation allies.
+
+Ng'wala Inventions
+
+Proponent: Edmond Ng’walago, Ng'wala Inventions
+
+Ng’wala Inventions has developed automated solar powered bio-pesticide/bio-fertilizer dispensing machines for rural organic farmers.  The digital machines allow the use of mobile money and electronic cards to deliver organic pesticides and fertilizers to smallholder famers on demand, on credit, on site and at low cost while protecting human health and the environment.  Not only does the system facilitate access to locally made organic pesticides and fertilizers but it eliminates a dangerous source of chemical exposure for the farmers, their communities, and nature by eliminating the use of harmful chemicals and pesticide containers that commonly end up in waterways. The machines are installed at strategic locations for organic farming activities, thus, allowing farmers to reduce transport cost and save time.
+
+Decentralized Finance “DeFi” Registries in Water Quality Markets
+
+Proponents: Ecomarket Services, AQAIX, and i2 Capital
+
+Decentralized Finance – DeFi – could revolutionize conservation finance. It has potential to quickly, inexpensively, and securely register and track units of environmental protection, provide ongoing revenue for restoration projects, and appeal to a new generation of conservation practitioners and funders. Thus far, however, water quality markets have not benefited from DeFi. Key barriers to uptake involve highly variable approaches for registering water quality units across the agriculture, urban stormwater, and municipal wastewater sectors. This project will test the viability of a business that “tokenizes” water quality improvements and sells them through a standard architecture using a clear prototype that applies DeFi concepts to an existing U.S. program.
+
+Nature 4 Climate Fund
+
+Proponent: Natural Strategies Investments
+
+Forest ecosystems are vital stabilizers for our global climate, but they are disappearing at an alarming rate. The Nature 4 Climate Fund (N4C Fund) will address this challenge by directing capital and resources towards nature-based solutions to climate change and natural infrastructure.  The Fund aims to bridge commercial interests and long-term sustainable solutions by effectively connecting capital with conservation and restoration.  The N4C Fund is one of the recent winners of the International Climate Finance Accelerator program.  The Fund is being developed by Natural Strategies Investments – experts in financing nature-based solutions.
+
+About us: The Conservation Finance Alliance
+
+The Conservation Finance Alliance (CFA) is the leading global professional alliance of conservation finance experts and practitioners. The CFA was founded in 2002 and its mission is to promote awareness, expertise, and innovation in conservation finance globally. The CFA is managed by Executive Director Dr. David Meyers with support of an Executive Committee, four Working Groups, various task forces and includes 1900 global individual members and over 20 institutional members. The CFA has produced a range of technical papers that help define and build capacity on various financing mechanisms and provides training on conservation finance, strategic advisory services and manages the CFA Incubator.  The CFA is hosted by the Wildlife Conservation Society.

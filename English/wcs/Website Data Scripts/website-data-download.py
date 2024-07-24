@@ -1,15 +1,17 @@
 import os
 import requests
 import pandas as pd
-from urllib.parse import urlparse, parse_qs
+from urllib.parse import urlparse
+from PIL import Image
+from io import BytesIO
 
 # Load the data from the Excel file
-file_path = r"path-to-shortened-excel"
+file_path = r"D:\AI-ML\Data-Scraping-Wildlife-care\English\wcs\Data Excels (Main Data, Shortened Excel)\wcs-shortened.xlsx"
 data = pd.read_excel(file_path)
 
 # Create directories if they don't exist
-text_folder = "website-text-files"
-image_folder = "website-images"
+text_folder = "wcs-text-files"
+image_folder = "wcs-images"
 os.makedirs(text_folder, exist_ok=True)
 os.makedirs(image_folder, exist_ok=True)
 
@@ -20,16 +22,18 @@ def download_image(url, path, timeout=30):
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
     }
     try:
-        response = requests.get(url, headers=headers, stream=True, timeout=timeout)
+        response = requests.get(url, headers=headers, timeout=timeout)
         response.raise_for_status()
         if (
             "Content-Type" in response.headers
             and "image" in response.headers["Content-Type"]
         ):
-            with open(path, "wb") as f:
-                for chunk in response.iter_content(1024):
-                    f.write(chunk)
-            print(f"Downloaded {path}")
+            image = Image.open(BytesIO(response.content))
+            image_format = (
+                "JPEG" if image.mode in ("L", "RGB") else "PNG"
+            )  # Default to JPEG or PNG
+            image.save(path, image_format)
+            print(f"Downloaded and saved {path}")
         else:
             print(f"URL does not contain an image: {url}")
     except requests.exceptions.Timeout:
@@ -96,7 +100,9 @@ for index, row in data.iterrows():
             print(f"Skipping GIF image: {image_url}")
             continue
 
-        image_file_path = os.path.join(image_folder, f"{unique_id}{image_extension}")
+        image_file_path = os.path.join(
+            image_folder, f"{unique_id}.jpg"
+        )  # Saving as JPG for uniformity
         print(f"Downloading image from: {image_url} to {image_file_path}")
         download_image(image_url, image_file_path)
 

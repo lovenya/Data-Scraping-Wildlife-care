@@ -1,0 +1,13 @@
+Tiger conservation is continuing to go high-tech. A new software program allows researchers to quickly identify an individual tiger from its unique stripe pattern. The software may also help locate the origin of tigers from confiscated skins.
+
+The program was developed by Conservation Research Ltd. with assistance from WCS. WCS provided funding in collaboration with the big cat conservation organization Panthera.
+
+The new software works similarly to fingerprint-matching software used by criminologists. It creates a 3D model from tiger photos taken by remote camera traps. Scientists scan the photos into the computer program, which can be downloaded for free at http://www.conservationresearch.co.uk.
+
+Researchers from WCS-India and their partners at Conservation Research Ltd. and the Gatty Marine Laboratory’s Sea Mammal Research Unit tested the software and found it was up to 95 percent accurate in matching tigers from scanned photos. They also scanned in photos of confiscated tiger skins and were able to discover the pelts’ origins.
+
+Currently, researchers calculate tiger populations by painstakingly reviewing hundreds of photos of animals caught by camera “traps” and then matching their individual stripe patterns. Using a formula developed by renowned WCS tiger expert Dr. K. Ullas Karanth, they can accurately estimate population sizes based on the number of times individual tigers are photographed.
+
+“This new software will make it much easier for conservationists to identify individual tigers and estimate populations,” said Dr. Karanth, one of the program’s reviewers. “The fundamentals of tiger conservation are knowing how many tigers live in a study area before you can start to measure success.”
+
+Facilities for obtaining the images used to construct the three-dimensional surface model were provided by Thrigby Hall Zoo in Norfolk, England. The Centre for Wildlife Studies in Bangalore and WCS-India provided images, local resources, and staff time for this study, which was supported in part by a grant from the Liz Claiborne/Art Ortenberg Foundation.

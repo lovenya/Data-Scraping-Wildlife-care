@@ -1,0 +1,48 @@
+WCS and partners develop method to discern how landscape features affect dispersion of noise and distribution of wildlife 
+		
+				
+
+		
+		
+				BOZEMAN, MT (December 13,  2012) – A new tool developed by the Wildlife Conservation Society (WCS) and its partners is being used by scientists and land managers to model how noise travels through landscapes and affects species and ecosystems— a major factor in land and wildlife management decisions such as where to locate new roads or recreational trails.  
+		
+				
+
+		
+		The tool, SPreAD-GIS, uses spatial data layers to predict how sound spreads from a source through the surrounding landscape and how it is affected by such factors as vegetation, terrain, weather conditions, and background sound levels. By determining how sound propagates, potential impacts to wildlife can be forecasted. Such impacts can include reducing habitat quality, altering the geographic distribution of species, disrupting animal communication, and causing stress
+		
+				
+
+		
+		.In an example discussed in the paper, the sensitivities of humans and owls to motor vehicle sound levels were compared. The results of the SPreAD-GIS analysis showed that in the same location, motor vehicle noise would affect owls in an area 45 percent larger than the area affected for humans. Exposure to noise may affect an owl’s livelihood as the animal relies on its acute sense of hearing to detect even the slightest movement of its prey.
+		
+				
+
+		
+		WCS Scientist Sarah Reed said, “Exposure to human-caused noise can change the game for many species. Those species that are less tolerant of noise can be put at a disadvantage and ultimately, this may result in a loss in biodiversity. By predicting what the effects of sound will be on a bird or mammal species in advance, we can more adequately balance our land-use planning decisions with conservation considerations.”
+		
+				
+
+		
+		Reed and colleagues are currently using SPreAD-GIS and field measurements of motor vehicle noise to forecast the area affected for bird and mammal communities in the Sierra National Forest in California.  In addition, the model has been downloaded by hundreds of users in more than 25 countries and used for diverse education, research, and management applications. This includes modeling potential noise propagation from roads, recreational activity, heavy equipment, residential development, and natural resource extraction. 
+		
+				
+
+		
+		Reed added, “Most existing tools are used to understand noise in human-dominated environments and don’t incorporate factors affecting noise propagation in natural systems. This tool is free and relatively user-friendly for the average desktop GIS user, and comes at a time when ecologists are just beginning to understand the critical role that sound disturbances play in affecting wildlife.” 
+		
+				
+
+		
+		Reed started the SPreAD-GIS project as a scientist with The Wilderness Society (TWS) and completed it as a Smith Conservation Research Fellow and WCS employee. The model is available for download from TWS's Landscape Collaborative (www.landscapecollaborative.org) website. The tool is described in the November print edition of the journal Environmental Modeling & Software. 
+		
+				
+
+		
+		Authors include Sarah E. Reed of the Wildlife Conservation Society and Colorado State University, Jennifer L. Boggs, formerly of The Wilderness Society, and Jacob P. Mann.  For further information on this story, or to talk with Sarah Reed, please contact Scott Smith at 406 522 9333 x116 or email ssmith@wcs.org. 
+		
+				
+
+		
+		
+				CONTACT: SCOTT SMITH: (1-406 522 9333 x116; ssmith@wcs.org)STEPHEN SAUTNER: (1-718-220 3682; ssautner@wcs.org)
