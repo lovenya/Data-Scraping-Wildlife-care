@@ -1,0 +1,38 @@
+Right now, in the global conservation community everyone is talking about “30x30”. This refers to a new international policy and emerging movement, based on science, that calls for the conservation of at least 30% of the earth’s biodiversity by 2030. The 30% target contains an important qualifier: Conservation must be achieved through equitable or fair approaches. This means that we need to look carefully at local solutions that deliver conservation for people and nature. 
+
+The good news is that there are already effective, workable solutions on the table hiding in plain sight. The target shines a light on the incredible work already underway which may not yet be fully known or reported.
+
+All over the world, and in some places for thousands of years, Indigenous peoples and local communities have been conserving their local natural environments. They do so voluntarily and through their own systems of values, governance, knowledge, innovations and worldviews. Whether for food, medicine, spiritual or cultural reasons, livelihoods, mental health and/or recreation, conserving nature has been intertwined with human well-being. And what is remarkable is that these local stewards have been taking decisions that sustain biodiversity, often without external recognition or support. The language of the 30x30 target explicitly calls for the recognition of the critical roles and rights of Indigenous peoples and local communities in conserving biodiversity.
+
+
+The language of the 30x30 target explicitly calls for the recognition of the critical roles and rights of Indigenous peoples and local communities in conserving biodiversity.
+
+
+This is precisely why we in the Protected and Conserved Areas Team in IUCN have partnered up with Esri to launch the 2023 ArcGIS Storytelling maps competition. This year IUCN and Esri seek to elevate and celebrate the work of Indigenous peoples and local communities, through their own voices and experiences.
+
+In the competition, we focus on “protected and conserved areas". So, what’s the difference? And what is the potential role of Indigenous peoples and local communities in these areas?
+
+Protected areas[i] are formally designated areas with a primary focus on conservation. Most people think of national parks, but they may be managed in a variety of ways from strict no-use nature reserves through to protected areas with sustainable use. They may be established, governed and managed by governments, private actors or Indigenous peoples or local communities, or coalitions of these actors. The Arakwal people in Australia for example, maintain strong cultural associations with the landscape, plants, animals and waterways. They hold native title over the Arakwal national park in Australia and manage the area jointly with the state national parks and wildlife service.
+
+“Conserved areas”[ii] is a broader term referring to areas where conservation isn’t necessarily a primary objective, but where it happens anyway and is likely to continue in the long-term. These areas could include any area supporting high levels of biodiversity including village forests, commercial hunting reserves, shipwreck sites or community gardens.
+
+Whereas many protected areas are known and reported nationally and globally, keeping track of conserved areas is more difficult. As one avenue, the concept of “other effective area-based conservation measures has been adopted and defined at the global level.[iii] It is important to note that OECMs are not established or designated by governments, rather they exist in practice, choose to self-identify with the support of the IUCN technical guidance.  They may be reported to the World Database on OECMs but usually require some form of recognition or support as they are not formally recognised as their protected area counterparts.  The Tour de Valat estate in France is reported as an OECM, where the local community hosts and conserves biodiversity alongside their agricultural, hunting and artistic activities. The OECMs "label" may provide a useful avenue for many local actors to gain recognition. 
+
+
+Recognising and supporting local actors goes hand in hand with reporting towards 30x30. 
+
+
+Beyond protected areas and OECMs, the target recognises how Indigenous peoples and local communities often own, occupy and manage areas with significant biodiversity. The time honoured, diverse, dynamic, socio-cultural and ecological areas are conserved via deep cultural connections.  All activities carried out under the target must therefore recognise and respect the rights of indigenous peoples and local communities, including over their traditional territories. Considering the potential reach of such areas, and if the custodians so wish, this global movement provides a unique opportunity for such areas to be recognised, supported and celebrated. Who better to conserve nature than these local stewards? The key point is that recognising and supporting these actors goes hand in hand with reporting towards 30x30. 
+
+We invite all members of Indigenous peoples and local communities to share their stories. We will provide support through the creative process, with a series of webinars on the technical skills and necessary equipment for using ArcGIS StoryMaps.  In addition to other categories of winners, IUCN will confer a Special Recognition Award to a story that captures our shared passion for Indigenous and local community-led conservation.
+
+The competition will be launched in San Diego on July 10th during the 2023 Esri User Conference, but you can already get started at 2023 ArcGIS StoryMaps Competition (esri.com). Or please email me directly to learn more: Jennifer.kelleher@iucn.org
+
+ 
+
+
+[i] For IUCN, a protected area is a “...clearly defined geographical space, recognised, dedicated, and managed, through legal or other effective means, to achieve the long-term conservation of nature with associated ecosystem services and cultural values”. See: https://portals.iucn.org/library/node/9243
+
+[ii] For IUCN, conserved areas are “geographical spaces where ecosystem conservation is achieved in practice, and/or is in a positive conservation trend and likely to be maintained in the long term.” See: https://www.iucn.org/resources/publication/primer-governance-protected-and-conserved-areas
+
+[iii] OECMs are “...geographically defined areas, other than protected areas, which are governed and managed in ways that achieve positive and sustained long-term outcomes for the in-situ conservation of biodiversity with associated ecosystem functions and services and, where applicable, cultural, spiritual, socio–economic and other locally relevant values.” See: www.cbd.int/decisions/cop/14/8

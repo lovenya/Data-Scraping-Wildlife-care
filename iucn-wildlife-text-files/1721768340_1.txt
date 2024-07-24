@@ -1,0 +1,37 @@
+As demonstrated by the global COVID-19 pandemic and other recent epidemics, the health of animals and the environment is closely tied to the health of humans. Zoonotic diseases - such as rabies, Ebola Virus, and Nipah Virus - can spill over into human and animal populations with devastating consequences. As humans continue to encroach into nature, particularly in areas home to high biodiversity, the risk of spillover events rises.
+
+One Health is an approach that balances human, animal, and ecosystem needs, recognizing that the health and wellbeing of each are intrinsically linked with one another. The appreciation for this interdependence reinforces conservation and other biodiversity-sensitive measures as a means of both protecting animals and the environment and promoting resilience.
+
+The addition of “One Health Interventions” to the PANORAMA - Solutions for a Healthy Planet Species portal has created a space for highlighting wildlife health and broader One Health success stories and best practices. The portal promotes solutions that address the wide scope of conservation and sustainable development challenges, breaking them down into building blocks that can be adapted and replicated across topics and geographies. The interdisciplinary scope inherent to a One Health approach makes it a natural inclusion in the cross-sectoral PANORAMA platform.
+
+To support knowledge sharing and best practices, we are collecting solutions for the PANORAMA platform that address the prevention, detection, response, and/or recovery from wildlife health and zoonotic disease threats and impacts. These solutions offer insight into the ways in which diverse stakeholders are utilizing interventions to optimize outcomes. We are looking for further case studies to highlight successful interventions involving strategies such as:
+
+
+	Wildlife health and pathogen surveillance 
+
+
+
+	Risk assessment and risk reduction strategies
+
+
+
+	Monitoring and early warning systems 
+
+
+
+	Risk communication, community engagement, and behavior change
+
+
+
+	Outbreak investigation and response
+
+
+
+	Vaccination programs
+
+
+
+	One Health coordination mechanisms
+
+
+We would greatly appreciate you sharing any implementations you have worked on, or heard about, that fit under the large One Health, wildlife health, or zoonotic disease umbrella. Please reach out to Catherine Machalaba to propose your success story and we will coordinate putting it into the PANORAMA solutions format. Thank you for helping to share and advance solutions for wildlife and human health.

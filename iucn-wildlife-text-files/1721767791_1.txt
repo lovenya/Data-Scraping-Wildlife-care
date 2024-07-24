@@ -1,0 +1,41 @@
+At the heart of the TECH4NATURE partnership will be the IUCN Green List Standard, which describes the steps and processes required to achieve long-term success for people and nature in area-based conservation. In adopting the Green List Standard, committed sites and their stakeholders build up a profile of positive actions and processes that allow them to set clear conservation objectives and demonstrate progress and successful results.
+
+Participating sites are mentored through the Green List process, and their progress is reviewed, assured and verified. Sites performing to a level that meets all the criteria of the Standard are granted Green List certificates, initially valid five years, with continuous improvement expected in order to maintain and prolong this recognition.
+
+In order to make progress and maintain performance, many sites are using available guidance and resources to help make improvements. And this is where the focus on Technology is now a priority. The TECH4NATURE partnership will address three main challenges:
+
+
+	What are the technologies available that can help frame, set, implement conservation objectives, and enable good monitoring and measures of success?  What ideas for new technologies, or adaptations of existing tools, could be harnessed for protected areas?
+	Which technologies can best help engage people in participatory processes, rights-based and gender inclusive decision-making?
+	How can digital technology help connectivity between experts and practitioners alike, and support improved data management and analytics for decision-making? 
+
+
+In promoting TECH4NATURE, IUCN has secured the important partnership of Huawei’s TECH4ALL programme, and identified flagship protected areas to help pilot the use of appropriate technologies for nature conservation. These areas include:
+
+
+	Khao Yai National Park in Thailand, in partnership with the Thai Department of National Parks and Huawei Thailand office;
+	The Northeast China Tiger and Amur Leopard National Park, led by Beijing Normal University in partnership with IUCN China;
+	Cousin Island Special Reserve, in Seychelles, led by Nature Seychelles
+	Parc Naziunal Svizzer, Switzerland, in collaboration with the Porini Foundation
+	Southeast coast of Mauritius, in locally-managed coral reef restoration areas, led by EcoMode, University of Mauritius, and Huawei’s Mauritius office.
+
+
+At a virtual kick-off meeting on 1st December, these initial partners came together to discuss overall tech priorities and a work plan for 2021 to begin learning and sharing experiences. Each of these flagship sites will begin identifying tech solutions to their conservation performance.
+
+For example, in Khao Yai the team are exploring the use of remote observation technologies to support early-warning detection in local communities for elephant detection, to avoid crop damage and harmful interactions with local people and these large mammals.
+
+In Mauritius, underwater image-capture will help EcoMode and the University of Mauritius implement detailed observation and monitoring of coral reef restoration, where an ambitious target of 50,000 coral fragments will be regrown, and a whole stretch of reef rehabilitated in an area at risk from the recent oil spill disaster.
+
+In Switzerland, Porini Foundation will work with the Parc and local partners on AI for image analysis, a new kinetic (motion-powered) wildlife tracking collar, and on using Distributed Ledger Technology (similar to blockchain) to support site evaluation for climate contributions, aligned to the Green List standard and verification process.
+
+In each case the Tech for Nature activities will help partner sites to advance towards Green List certification.  For Parc Naziunal Svizzer and Cousin Island Special Reserve, it is expected that full evaluation will convey Green List certificates already in 2021.
+
+Huawei is the first major partner in TECH4NATURE, with IUCN. As a leading global provider of Information and Communications Technology (ICT) infrastructure and smart devices, Huawei is committed to bringing digital to every person, home and organization for a fully connected, intelligent world. Huawei’s philosophy for environmental protection is Technology for a better planet’. 
+
+“Technology can help better understand and conserve nature. This is the idea of ‘TECH4NATURE’ we share with IUCN. ICT could be applied to monitor and analyze habitats & biodiversity, improve operational efficiency, better connect the stakeholders of nature conservation.” Says Zhang Hongxi, Huawei’s Chief Marketing Officer of ICT Infrastructure Business. “This year we had intensive communication on this topic with IUCN. We’ll work closely with IUCN to improve effectiveness of nature conservation in more than 300 protect areas worldwide with technology”. 
+
+IUCN’s President Zhang Xinsheng is also highly supportive of the TECH4NATURE partnership: “This is the first time that IUCN engages in a major way with the ICT industry, helping them to bring their know-how and innovation into the important nature conservation sector. IUCN will ensure that our standards and safeguards help guide the appropriate use of technology and achieve outstanding nature conservation successes, together.”
+
+The TECH4NATURE partnership is open for support and collaboration.
+
+Please get in touch with the IUCN team or Huawei TECH4ALL team with ideas and interest!

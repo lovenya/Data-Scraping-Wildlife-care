@@ -1,0 +1,145 @@
+Economic development in Africa is for a large part focused on major 'development corridors' designed to boost agricultural production, natural resource exports and economic integration. Today, 33 development corridors are operational, under construction, or planned. Combined, they traverse 38 countries and total 53,000 km in length.
+
+The backbone of the corridors are highways, rail links, pipelines and deep sea ports paid for by massive foreign investment to increase access to Africa’s natural resources and goods. It’s a Mount Kilimanjaro-sized bet that opening up some of Africa’s most remote areas to agricultural expansion will pay dividends for both foreign investors and the African nations involved. 
+
+IUCN’s Sustainability and Inclusion Strategy for Growth Corridors - the SUSTAIN initiative- aims to shape the investment, planning, and design of these corridors towards the vision of a sustainable and socially inclusive green economy. This may include sustainable water resource management, restoration of critical ecosystems such as wetlands and forests, or climate-smart conservation agriculture.
+
+But on what basis should IUCN advocate where these corridors should and should not go?
+
+To explore that question, IUCN teamed up with me in my spatial geek role as Director of Conservation Geography for the African Wildlife Foundation (AWF). Building on work by William Laurance, a Research Professor at James Cook University, we performed a set of spatial analyses to assess the risks each corridor poses to important biodiversity and conservation areas across the continent as well as projected agricultural production benefits.
+
+The analysis centered on “key habitat areas” (KHA) formed by combining protected areas and key biodiversity areas­—sites considered the most important for biodiversity conservation worldwide. Many KHAs were overlapped by multiple corridors. Size and distribution matter: longer corridors overlapped more KHAs; the high concentration of corridors and KHAs in East and Southern Africa resulted in the most collisions.  
+
+Nearly 25 percent of the KHA within corridors is already under high pressure from cultivation and human influence. The degree of influence on KHAs varies significantly across ecosystems, topography, and countries with, for instance, lots of pressure on KHAs in the heavily populated and biologically rich Albertine Rift Region when compared with those in the remote and arid Sahara.
+
+A model projecting agricultural expansion based on soil, climate, and current socio-economic patterns, suggests that cropland pressure would increase by 56 percent in KHAs within the corridors. Corridors with higher levels of current cropland area tended to have high agricultural expansion potential.
+  
+  
+                  
+          
+ 
+    
+          Photo:  ©AWF/David Williams 
+      
+
+
+Armed with the cost of potential encroachment on KHAs and the benefits of corridor-driven cropland expansion, we calculated a cost-benefit score for each corridor. Corridors in East and Southern Africa had the highest scores (higher costs/lower benefits) in large part due to the high concentrations of KHAs there [see map below]. SUSTAIN corridors in Tanzania and Mozambique are exceptions, being more productive, ecologically sustainable and therefore relatively lower scoring projects with a good opportunity to realize a positive trade-off with development.
+  
+  
+                  
+          
+ 
+    
+          Photo: ©AWF/David Williams 
+      
+
+
+Recognizing that many iconic creatures like elephants find their homes far outside KHAs, we also assessed the corridors against select species ranges (bonobo, elephant, lion and lowland gorilla subspecies). Using a conservative 20 km band, the corridors overlapped 7 percent of the species ranges. As we increased the corridor band to 100 km, the percentage of species ranges likely to be affected rose to 43 percent. Therefore, assumptions about corridor dimensions are clearly pivotal to their assessed impact.
+
+Collectively, our analyses highlight that the ecological risks and likely socio-economic benefits of the corridors vary widely across the continent. This work can help make the argument to emphasize corridors or corridor segments that avoid KHAs and key species ranges in favor of already populated areas that maximize agricultural benefits.
+
+Further thought should be invested on how to weigh threats to KHAs vs. species ranges or other factors not considered here like ecosystem services, wildlife movement routes, and resilience to climate change. Careful planning at the corridor scale, based on spatial scenario modeling, could help refine corridors’ routes and morphology resulting in different types and degrees of developments within corridors that take ecological and sustainability concerns into account.
+
+ ***
+
+Blog written by David Williams, Director of Conservation Geography, African Wildlife Foundation.
+
+David has 20 years of experience as an ecologist applying GIS and remote sensing to benefit ecological research and conservation programs across two continents. He has led the AWF’s Spatial Analysis Laboratory for more than a decade to support conservation planning and monitoring under the aegis of AWF’s landscape conservation approach. A graduate of the Nicholas School of the Environment at Duke University, David is based in AWF’s Washington, D.C. office.
+
+All Photos: ©AWF/David Williams Economic development in Africa is for a large part focused on major 'development corridors' designed to boost agricultural production, natural resource exports and economic integration. Today, 33 development corridors are operational, under construction, or planned. Combined, they traverse 38 countries and total 53,000 km in length.
+
+The backbone of the corridors are highways, rail links, pipelines and deep sea ports paid for by massive foreign investment to increase access to Africa’s natural resources and goods. It’s a Mount Kilimanjaro-sized bet that opening up some of Africa’s most remote areas to agricultural expansion will pay dividends for both foreign investors and the African nations involved. 
+
+IUCN’s Sustainability and Inclusion Strategy for Growth Corridors - the SUSTAIN initiative- aims to shape the investment, planning, and design of these corridors towards the vision of a sustainable and socially inclusive green economy. This may include sustainable water resource management, restoration of critical ecosystems such as wetlands and forests, or climate-smart conservation agriculture.
+
+But on what basis should IUCN advocate where these corridors should and should not go?
+
+To explore that question, IUCN teamed up with me in my spatial geek role as Director of Conservation Geography for the African Wildlife Foundation (AWF). Building on work by William Laurance, a Research Professor at James Cook University, we performed a set of spatial analyses to assess the risks each corridor poses to important biodiversity and conservation areas across the continent as well as projected agricultural production benefits.
+
+The analysis centered on “key habitat areas” (KHA) formed by combining protected areas and key biodiversity areas­—sites considered the most important for biodiversity conservation worldwide. Many KHAs were overlapped by multiple corridors. Size and distribution matter: longer corridors overlapped more KHAs; the high concentration of corridors and KHAs in East and Southern Africa resulted in the most collisions.  
+
+Nearly 25 percent of the KHA within corridors is already under high pressure from cultivation and human influence. The degree of influence on KHAs varies significantly across ecosystems, topography, and countries with, for instance, lots of pressure on KHAs in the heavily populated and biologically rich Albertine Rift Region when compared with those in the remote and arid Sahara.
+
+A model projecting agricultural expansion based on soil, climate, and current socio-economic patterns, suggests that cropland pressure would increase by 56 percent in KHAs within the corridors. Corridors with higher levels of current cropland area tended to have high agricultural expansion potential.
+  
+  
+                  
+          
+ 
+    
+          Photo:  ©AWF/David Williams 
+      
+
+
+Armed with the cost of potential encroachment on KHAs and the benefits of corridor-driven cropland expansion, we calculated a cost-benefit score for each corridor. Corridors in East and Southern Africa had the highest scores (higher costs/lower benefits) in large part due to the high concentrations of KHAs there [see map below]. SUSTAIN corridors in Tanzania and Mozambique are exceptions, being more productive, ecologically sustainable and therefore relatively lower scoring projects with a good opportunity to realize a positive trade-off with development.
+  
+  
+                  
+          
+ 
+    
+          Photo: ©AWF/David Williams 
+      
+
+
+Recognizing that many iconic creatures like elephants find their homes far outside KHAs, we also assessed the corridors against select species ranges (bonobo, elephant, lion and lowland gorilla subspecies). Using a conservative 20 km band, the corridors overlapped 7 percent of the species ranges. As we increased the corridor band to 100 km, the percentage of species ranges likely to be affected rose to 43 percent. Therefore, assumptions about corridor dimensions are clearly pivotal to their assessed impact.
+
+Collectively, our analyses highlight that the ecological risks and likely socio-economic benefits of the corridors vary widely across the continent. This work can help make the argument to emphasize corridors or corridor segments that avoid KHAs and key species ranges in favor of already populated areas that maximize agricultural benefits.
+
+Further thought should be invested on how to weigh threats to KHAs vs. species ranges or other factors not considered here like ecosystem services, wildlife movement routes, and resilience to climate change. Careful planning at the corridor scale, based on spatial scenario modeling, could help refine corridors’ routes and morphology resulting in different types and degrees of developments within corridors that take ecological and sustainability concerns into account.
+
+ ***
+
+Blog written by David Williams, Director of Conservation Geography, African Wildlife Foundation.
+
+David has 20 years of experience as an ecologist applying GIS and remote sensing to benefit ecological research and conservation programs across two continents. He has led the AWF’s Spatial Analysis Laboratory for more than a decade to support conservation planning and monitoring under the aegis of AWF’s landscape conservation approach. A graduate of the Nicholas School of the Environment at Duke University, David is based in AWF’s Washington, D.C. office.
+
+All Photos: ©AWF/David Williams Economic development in Africa is for a large part focused on major 'development corridors' designed to boost agricultural production, natural resource exports and economic integration. Today, 33 development corridors are operational, under construction, or planned. Combined, they traverse 38 countries and total 53,000 km in length.
+
+The backbone of the corridors are highways, rail links, pipelines and deep sea ports paid for by massive foreign investment to increase access to Africa’s natural resources and goods. It’s a Mount Kilimanjaro-sized bet that opening up some of Africa’s most remote areas to agricultural expansion will pay dividends for both foreign investors and the African nations involved. 
+
+IUCN’s Sustainability and Inclusion Strategy for Growth Corridors - the SUSTAIN initiative- aims to shape the investment, planning, and design of these corridors towards the vision of a sustainable and socially inclusive green economy. This may include sustainable water resource management, restoration of critical ecosystems such as wetlands and forests, or climate-smart conservation agriculture.
+
+But on what basis should IUCN advocate where these corridors should and should not go?
+
+To explore that question, IUCN teamed up with me in my spatial geek role as Director of Conservation Geography for the African Wildlife Foundation (AWF). Building on work by William Laurance, a Research Professor at James Cook University, we performed a set of spatial analyses to assess the risks each corridor poses to important biodiversity and conservation areas across the continent as well as projected agricultural production benefits.
+
+The analysis centered on “key habitat areas” (KHA) formed by combining protected areas and key biodiversity areas­—sites considered the most important for biodiversity conservation worldwide. Many KHAs were overlapped by multiple corridors. Size and distribution matter: longer corridors overlapped more KHAs; the high concentration of corridors and KHAs in East and Southern Africa resulted in the most collisions.  
+
+Nearly 25 percent of the KHA within corridors is already under high pressure from cultivation and human influence. The degree of influence on KHAs varies significantly across ecosystems, topography, and countries with, for instance, lots of pressure on KHAs in the heavily populated and biologically rich Albertine Rift Region when compared with those in the remote and arid Sahara.
+
+A model projecting agricultural expansion based on soil, climate, and current socio-economic patterns, suggests that cropland pressure would increase by 56 percent in KHAs within the corridors. Corridors with higher levels of current cropland area tended to have high agricultural expansion potential.
+  
+  
+                  
+          
+ 
+    
+          Photo:  ©AWF/David Williams 
+      
+
+
+Armed with the cost of potential encroachment on KHAs and the benefits of corridor-driven cropland expansion, we calculated a cost-benefit score for each corridor. Corridors in East and Southern Africa had the highest scores (higher costs/lower benefits) in large part due to the high concentrations of KHAs there [see map below]. SUSTAIN corridors in Tanzania and Mozambique are exceptions, being more productive, ecologically sustainable and therefore relatively lower scoring projects with a good opportunity to realize a positive trade-off with development.
+  
+  
+                  
+          
+ 
+    
+          Photo: ©AWF/David Williams 
+      
+
+
+Recognizing that many iconic creatures like elephants find their homes far outside KHAs, we also assessed the corridors against select species ranges (bonobo, elephant, lion and lowland gorilla subspecies). Using a conservative 20 km band, the corridors overlapped 7 percent of the species ranges. As we increased the corridor band to 100 km, the percentage of species ranges likely to be affected rose to 43 percent. Therefore, assumptions about corridor dimensions are clearly pivotal to their assessed impact.
+
+Collectively, our analyses highlight that the ecological risks and likely socio-economic benefits of the corridors vary widely across the continent. This work can help make the argument to emphasize corridors or corridor segments that avoid KHAs and key species ranges in favor of already populated areas that maximize agricultural benefits.
+
+Further thought should be invested on how to weigh threats to KHAs vs. species ranges or other factors not considered here like ecosystem services, wildlife movement routes, and resilience to climate change. Careful planning at the corridor scale, based on spatial scenario modeling, could help refine corridors’ routes and morphology resulting in different types and degrees of developments within corridors that take ecological and sustainability concerns into account.
+
+ ***
+
+Blog written by David Williams, Director of Conservation Geography, African Wildlife Foundation.
+
+David has 20 years of experience as an ecologist applying GIS and remote sensing to benefit ecological research and conservation programs across two continents. He has led the AWF’s Spatial Analysis Laboratory for more than a decade to support conservation planning and monitoring under the aegis of AWF’s landscape conservation approach. A graduate of the Nicholas School of the Environment at Duke University, David is based in AWF’s Washington, D.C. office.
+
+All Photos: ©AWF/David Williams

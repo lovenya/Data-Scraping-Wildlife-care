@@ -1,0 +1,15 @@
+Last year the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) published an assessment report on the sustainable use of wild species. The report highlighted that 50,000 wild species are used globally, with one in five people relying on them for income and food.
+
+This reliance is particularly true of the world’s poorest people – 70% of whom are directly dependent on wild species. Wild species use is also an important part of global trade. However, at the same time unsustainable and/or illegal use of wild species is one of the key drivers of biodiversity loss. There is also more recent recognition that in some instances use of wild species can have negative implications for human health and raise concerns about animal welfare. A point highlighted by the potential origin story of COVID-19. The Kunming-Montreal Global Biodiversity Framework, adopted in December 2022, therefore includes targets to ensure the use of wild species is not only sustainable and legal, but also “safe”.
+
+5-Dimensional Sustainability Tool
+
+Sustainability is a complex concept and one that has always been technically challenging to assess. These new considerations of “safety” add to that complexity. As a result, IUCN SULi, IIED, TRAFFIC, Endangered Wildlife Trust, and EPIC Biodiversity – supported through the UK government’s Darwin Initiative and under the guidance of a multidisciplinary expert advisory group – have developed a five-dimensional sustainability assessment framework (5DSAF). The framework adds the dimensions of animal welfare and human health to the more conventional social, ecological, and economic dimensions of sustainability. The aim is to make sustainability assessment more accessible to policymakers and practitioners and to support continuous improvement among wild species enterprises, initiatives, and value chains.
+
+For each of our five dimensions, we articulate seven key principles as well as seven cross-cutting principles that are relevant to all dimensions. These principles are derived from a wealth of existing international standards, frameworks, and guidelines.
+
+The framework can be implemented with a simple spreadsheet-based tool allowing users to score performance against each of the 42 principles and identify areas where improvements are needed.
+
+Download and try new tool here: 5DSAF_tool_pilot_updated.xlsx (live.com)
+
+A background paper providing further context for the framework can also be downloaded here: 5DSAF_background_paper

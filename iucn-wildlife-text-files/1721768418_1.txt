@@ -1,0 +1,45 @@
+The Lau Seascape covers an area of 335,000 square kilometres (129,000 square miles) and represents over a quarter of Fiji’s ocean. Led by Conservation International Fiji, thirty-seven representatives from various organisations departed Suva Harbour on a 14-day expedition from 13th to 27th March to visit the Lau Archipelago to carry out community consultations and other associated island-scale interventions along with a Marine Rapid Biodiversity Assessment (MRAP) as part of the Lau Seascape Initiative. I was fortunate enough to have represented IUCN Oceania alongside my colleague Alisi Rabukawaqa, IUCN’s Fiji Marine Project Liaison Officer.
+
+
+
+Lau Seascape Initiative Expedition Team with the Blue Lagoon Cruise Crew. Photo: Filimoni Yaya
+
+After the initial shock of having seasickness, we made landfall in Kabara at the chiefly village of Naikeleyaga. It was the most beautiful sight I have ever seen with pristine white sandy beaches, light blue waters and breath-taking views. The head of the expedition, Mr Semisi Meo, and other senior members of the team presented our sevusevu (traditional protocol) before we were deployed to carry out different tasks and activities. The IUCN team presented to the communities the network of fifteen (15) Marine Protected Areas (MPAs) identified across Fiji’s Exclusive Economic Zone (EEZ), six (6) of which lie within the proposed Lau Seascape boundary. My colleague, Alisi, explained the finer details of how Fiji’s 30 % commitment for MPAs came to be, including the 120 datasets that went into the computation of the MPA networks and the consultation process that was currently ongoing for the Lau group. Large-sized maps were printed as visual aids to show where the blocks were, the types of biodiversity present within, underwater seafloor features and locations of the six (6) MPAs in Lau’s offshore waters. These were all part of the presentation detailing the 8.3 % contribution from the Lau waters to Fiji’s 30 % commitment for MPAs.
+
+ 
+
+Naikeleyaga beach (left) and community consultation (right). Photo: Filimoni Yaya
+
+Conducting community consultations on the ground was different to what I had in mind. Technically, as a GIS Officer for IUCN, I am more used to making maps, with scale bars and highlighting special zones for tabu areas, MPAs or ecologically significant sites without thinking about the human element or social interactions. Just static information on a map. Coming in, I knew that there would be interactions and dialogues on the proposed sites, but nothing actually prepared me to see my maps come to life, as members of the community eloquently told their stories and the journeys they regularly take to traverse these huge areas of sea. This was how they made their living. The islands are remote so there is no internet connection for the villages except for the government stations. Their life, relationships, interactions on the island revolve around the ocean space around them; from the shoreline to the reefs, to the distant uninhabited islands.
+
+  
+
+Women’s Group of Sawana Vanuabalavu Coral Planting Hall (left) & Mr Apisai Bogiva of (CI) mapping the inshore area with villagers in Oneata (right). Photo: Filimoni Yaya 
+
+Materials that were used during the mapping exercise included questionnaires accompanied by maps which IUCN developed.  One thing was certain, the members of the community were well versed and knowledgeable about the boundaries of each tabu site for each village and where the harvesting of different delicacies were located. They even demarcated where runoffs were, the turtle nesting sites, and which sites were best in gleaning the exposed tidal flats.
+
+
+
+Community members of Oneata mapping on the A1 Size Maps. Photo: Filimoni Yaya 
+
+Community members explained where the best places were on the reef to catch fish and where to find concentrations of high biodiversity including birds, turtles, whales, rays and other marine creatures that live near their fishing spots. Not only did they provide a wealth of information but they were also equipped with traditional knowledge and everyday exposure to all of the islands intricate systems. The most interesting part of the process of mapping was the way they knew exactly where to demarcate an existing MPA, a tabu area and an ecologically significant site.
+
+
+
+Coral Planting by partners USP, CI, Forestry Fiji, Fiji Sun, Biosecurity Fiji, WWF, and IUCN. Photo: Filimoni Yaya
+
+I think the hardest part of the mapping exercise is to actually demarcate these areas and interpreting what has been mapped into a GIS platform. There have been many overlaps in species concentration and different areas of restrictions with some sites having outdated information. Capturing the names of the sites is most important. Now, the technical teams in Conservation International Fiji and IUCN must update all their maps and sources of information and new scenarios with calculations (biodiversity capture) made in relation to the feedback we received for the Lau Seascape expedition.
+
+One of the challenges in the mapping exercise was the translation of scientific technical language to vernacular. In fact, scientific english words are often yet to be translated to Fijian. Moving forward, we would definitely try to have geological, geophysical processes, geomorphological features translated into the iTaukei language as this would greatly assist in conveying the message across more easily. The Lau Seascape Expedition was definitely a trip to remember and having all the work endorsed by the Vanua and the people of Lau was definitely worth it.
+
+I offer my sincere thanks to Conservation International Fiji for inviting IUCN to join the Lau Seascape Initiative as one of the partner organisations on the expedition. In addition, the country project leads that includes the Ministries of Environment and Fisheries. The IUCN Oceania Marine programme is fortunate and privileged to be providing technical assistance to Fiji and its ministry leads over the years on the momentous task of marine spatial planning. Finally, the partner organisations that joined the expedition including Biosecurity Authority of Fiji, Fiji Revenue and Customs Service (FRCS), Pacific Blue Foundation, World Wildlife Fund (WWF) Pacific, Fiji Locally Managed Marine Areas (FLMMA) Network, University of the South Pacific, and the Fiji Times who provided great help in facilitating several sessions in the community consultations. Their demonstration of collective action helped achieve the outcomes of the expedition.
+
+I would like to acknowledge the Pacific-European Union Marine Partnership (PEUMP) programme, through the By-Catch and Integrated Ecosystem Management (BIEM) Initiative at the Secretariat of the Pacific Regional Environment Programme (SPREP), for supporting IUCN’s work in assisting the Fijian government designate a network of Marine Protected Areas (MPAs).
+
+The PEUMP Programme addresses some of the most serious challenges faced by the region. Among these are the increasing depletion of fisheries resources, associated by-catch, and habitat impacts; the threats to marine biodiversity, including negative impacts of climate change and disasters; and the need to mainstream a rights-based approach and to promote greater recognition of gender issues within the sector. PEUMP is a seven-year programme funded by the European Union (EUR 35 million) and the government of Sweden (EUR 10 million). The programme provides direct assistance through regional organisations to support regional and national level activities in the Pacific.
+
+
+
+Consultation Gear per Site with Teams Luggage. Photo: Filimoni Yaya
+
+By Filimoni Yaya, GIS Officer

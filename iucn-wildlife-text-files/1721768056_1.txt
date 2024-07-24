@@ -1,0 +1,45 @@
+Under the umbrella of Huawei’s TECH4ALL initiative, IUCN and Huawei have jointly launched the global Tech4Nature partnership. Tech4Nature aims to provide knowledge, technology, and resources for protected areas worldwide, with the aim of making nature conservation globally more effective and impactful. Tech4Nature will pilot new and customised digital technologies to enhance the impact of conservation at flagship sites across five countries. As a result, it will be possible to evaluate conservation success in 300 protected areas worldwide using the IUCN Green List Standard, as well as to use the Standard for guidance on the appropriate use of technology to support nature conservation, through this growing partnership.
+
+The Swiss National Park was selected as the first Flagship Alpine Site as part of the programme. Located in the Swiss Canton of the Grisons (also known as Graubünden or Grigioni), the park is designated as a Strict Nature Reserve (IUCN Category Ia) and forms part of the UNESCO Biosphere Reserve Engiadina Val Müstair. Established in 1914, the National Park is Switzerland’s first site to achieve IUCN Green List status, in recognition of its excellence in effective management, equitable governance, and a long-standing record of successful conservation and contribution to research in the Alpine region.
+
+“The Tech4Nature partnership project demonstrates the real partnership potential of the IUCN Green List, and the Switzerland flagship project is an inspiring example of this. By being part of the IUCN Green List community and achieving IUCN Green List status for its effectiveness, the Swiss National Park is able to be part of this innovative partnership between the conservation and technology sectors for enhancing conservation impact equitably,” said Trevor Sandwith, Director of IUCN’s Global Protected and Conserved Areas Programme. 
+
+As part of the partnership in Switzerland, two technology streams will be developed and tested in the National Park:
+
+Leveraging technology to gain insights on conservation and impact
+
+The first work stream will consider how to automate analysis of the park’s 1.5 million camera trap pictures with the use of artificial intelligence – analysis that is currently conducted manually. This will enable faster, better, and deeper analysis of these pictures, to improve wildlife monitoring and transmission of scientific data for management.
+
+"With the use of modern technologies, the Swiss National Park can fulfil its tasks in nature conservation, research, and public relations more efficiently,” said Ruedi Haller, director of the SNP. “We are happy to contribute to the development of these technologies, together with our partners, and to make this know-how accessible to other protected areas later on.” 
+
+Building a digital marketplace for CO2 certificates for the park’s climate positive contribution
+
+The second work stream will explore digital tools for measuring, verifying, and valuing climate change mitigation contributions of the protected area. The aim is to provide certificates for each ton of CO2 compensated through the park’s efforts, backed by the IUCN Green List accreditation. The solution will be developed and tested firstly in the Swiss National Park, with the long-term goal of rolling it out globally. In line with IUCN’s Green List Standard, the Porini Foundation will develop a digital validation for marketplace transactions for these certificates.
+
+It is becoming increasingly clear that neither biodiversity loss nor climate change crises will be successfully resolved unless both are tackled together. By allowing investment in both biodiversity and climate positive action through these certificates, investors will be able to contribute in more impactful and comprehensive ways whilst enabling these areas to continue improving.
+
+In this project, the Swiss National Park plays an important role at both national and global levels. First, as a flagship site, the experience and knowledge gained in this project will be shared and possibly replicated in other areas engaged in Tech4Nature globally. Second, through its leading role, it will encourage more sites in Switzerland to join the IUCN Green List programme, with the support of Porini Foundation.
+
+“We are extremely proud to enable solutions in line with the IUCN Green List Standard and to have guided the Swiss National Park through the application for the IUCN Green List. This corresponds with our vision: to bring people together and foster impact for nature protection,” said Roman Eyholzer, CEO of Porini Foundation.   
+
+To celebrate and officially mark the launch of this unique partnership in Switzerland, the four partners signed a Memorandum of Understanding (MOU) in commitment to the Tech4Nature vision, in a ceremony at the Park’s administration premises, Schloss Planta-Wildenberg in Zernez.
+
+“At Huawei Switzerland, we are incredibly proud that the Swiss National Park, a site in our beautiful host country, was selected for this ground-breaking project. Switzerland and Huawei share the common value of taking responsibility for future generations and protecting our planet. With our TECH4ALL initiative, we have initiated a programme that sets a moral principle as to how we want to treat society and our environment. Our innovation power and technology leadership oblige us to ensure that technology serves everyone in the best possible way,” said Lihua Pu, Vice Director Public Affairs & Corporate Communications at Huawei Technologies Switzerland.
+
+For media relations or to set up interviews, please contact:
+
+IUCN : Media relations team
+
+press@iucn.org / +41 22 999 02 45
+
+Swiss National Park: Hans Lozza, Head of communications
+
+lozza@nationalpark.ch / +41 81 851 41 11
+
+Porini Foundation: Roman Eyholzer, CEO
+
+roman.eyholzer@porini.foundation / +41 79 284 74 02
+
+Huawei Switzerland: Manuel Küffer, Senior Manager Media & Public Affairs
+
+manuel.kuffer@huawei.com / +41 76 656 58 40

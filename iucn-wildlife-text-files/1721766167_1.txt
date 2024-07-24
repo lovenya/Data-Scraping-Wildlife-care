@@ -1,0 +1,17 @@
+IUCN participated in this meeting in its capacity as longstanding observer to the initiative, as ECOLEX partner and as project consultant. Having developed the Thesaurus on Environmental Law and Conventions (more than 500 concepts also referred to as LEO - Law and Environment Ontology) at the IUCN Environmental Law Centre, the second phase of this consultancy included
+
+
+	assisting selected MEAs in using the thesaurus
+	mapping ECOLEX keywords to the thesaurus to make ECOLEX resources retrievable in the InforMEA portal
+	testing automated tagging tools
+
+
+The results were presented during the meeting and discussed in respective working groups.
+
+The project is ongoing and aims at analysis of national reports in the context of the thesaurus as well as further mapping efforts between thesaurus and SDGs.
+
+ 
+
+New features in the InforMEA portal include a Goals section, presenting the collective contribution by MEAs towards the achievement of the Sustainable Development Goals and additional e-learning tools.
+
+The MEA-IKM initiative is supported by the European Union (EU) and co-chaired by the United Nations Environment Programme (UNEP) and the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES). The participants are 50 experts from 20 global Convention Secretariats, with support from four United Nations (UN) organizations: the Food and Agriculture Organization (FAO), the UN Educational, Scientific and Cultural Organization (UNESCO), the UN Economic Commission for Europe (UNECE) and UN Environment. Apart from IUCN this initiative further benefits from the expertise of the UN Institute for Training and Research (UNITAR), United Nations Development Programme (UNDP) the Legal Response Initiative (LRI) and UNEP-World Conservation Monitoring Center (UNEP-WCMC), the Governments of Switzerland and Belgium, as well as environmental conventions covering international trade in endangered wildlife, migratory wildlife, biodiversity, genetic resources, desertification, climate change, ozone agreements and agriculture.

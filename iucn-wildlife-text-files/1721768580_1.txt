@@ -1,0 +1,19 @@
+The cases referenced in the publication were selected from over 50 solutions that address six major conservation challenges. These challenges include the management of protected areas, monitoring species, cultivating community involvement, and financing conservation action.
+
+“There is a clear growing momentum and buy-in from the conservation community to use more technology but also to develop and create new ways it can be applied. The appropriate deployment of technology will help ensure more sustained benefits from its application to achieve fair and effective conservation action,” said James Hardcastle, Head of IUCN Protected and Conserved Areas team.
+
+Projects running in Mexico and China are two typical cases included in the publication. In Mexico’s Yucatan Peninsula, a solution has been deployed to monitor the jaguar population and its prey through a networked system of camera traps to be complemented by acoustic monitoring, with AI algorithms trained to detect and identify individual jaguars. The data provided will also deliver insights into how climate change is impacting priority ecosystems on the north coast of the Yucatan Peninsula. A key aspect of this project is community involvement in the whole project cycle to boost overall outcomes.
+
+In China, a smart fire prevention system designed to protect giant panda habitats has been deployed in various locations, including Tangjiahe national nature reserve, a site that is on the IUCN Green List. In Sichuan’s panda habitats, satellite images are analysed in real time to detect possible fires. Risks can be rapidly verified and alerts instantly sent to rangers on the ground. In 2021, the system resulted in a 71% reduction of serious fires. This solution was a Pathfinder Award winning solution under ‘Technology for Nature’ category in 2021.
+
+To support the uptake and replicability of technology-based solutions, the publication includes a detailed description of the success factors for each case study. It also provides both a framework of a technological solution architecture and a checklist to help new implementers of technology solutions ensure that deployment is appropriate and able to overcome conservation challenges.
+
+The publication also highlights existing gaps in understanding how technology impacts both wildlife and people, and emphasizes the need for transparency, inclusivity, and responsibility when deploying technology-based solutions.
+
+“Digital technology is a key enabler of conserving nature. With more and more deployment of technology and multi-sector collaborations, we believe that the efficiency and effect of nature conservation shall be improved continuously” said Catherine Du, Head of Huawei’s TECH4ALL program.
+
+Launched by IUCN and Huawei, Tech4Nature is developing digital solutions to pilot in five flagship countries: Switzerland, Spain, Mauritius, Mexico and China. The program aims to cover more than 300 protected areas worldwide by 2023 and evaluate conservation success through the IUCN Green List Standard. 
+
+Aiming to provide guidance on appropriate use of technology in area-based conservation and directly involve the ICT industry in supporting nature conservation outcomes, Tech4Nature – Solutions in Focus comes as the first publication under the IUCN-Huawei partnership.
+
+The initiative itself is also the first time that IUCN has embarked on a major partnership with the ICT industry, combining the organisation’s extensive standards, knowledge, and experience with the conservation with innovations made possible by technology.

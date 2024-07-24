@@ -1,0 +1,23 @@
+Increasingly accurate data are becoming available thanks to modern technology, such as satellite-based remote sensing. However, many challenges remain if we want to improve the monitoring of biodiversity and ultimately its conservation, according to the authors, who also stress the need to make biodiversity data more accessible to decision makers.
+
+“Satellites give us great data on the state of the planet, but they can’t tell us everything,” says lead author of the letter Dr PJ Stephenson of the newly established IUCN Species Survival Commission’s (SSC) Species Monitoring Specialist Group. “Even in the 21st century we need people on the ground in key sites, such as protected areas, to count animals and plants and assess the threats facing them. Only with solid field data to complement images from space can governments, NGOs and local people make the right conservation management decisions.”
+
+An array of monitoring tools exists to collect field data. One example is the Spatial Monitoring and Reporting Tool (SMART) which is being used successfully in countries like Colombia, Madagascar and Nepal to track poaching and other illegal activities in and around protected areas.
+
+Camera traps are widely and successfully used to track a range of species around the world, from tigers in Asia, to elephants in Africa, to bears in North America. Local people have a key role to play through ‘citizen science’, as evidenced by the 10 million observations collected monthly by members of the public for eBird – an online platform for real-time reporting of information on the abundance and distribution of birds.
+
+“Even in the most technologically advanced parts of the world it is rare that policy makers get the information they need in formats they can understand and readily use,” says Dr Jon Hutton of the Luc Hoffmann Institute. “Scientists need to work with decision makers in a much more integrated way to make sure that methods, tools and data are fit for purpose and of practical use.”
+
+When biodiversity data are collected they need to be stored and shared in appropriate databases, according to the experts.
+
+“Databases for storing and sharing biodiversity information, such as the IUCN Red List of Threatened SpeciesTM, are under-funded,” says Dr Thomas Brooks, Head of IUCN’s Science and Knowledge Unit. “We encourage more investment in existing monitoring systems and databases that address the needs of end users in high-biodiversity countries. This includes converting data into formats such as synthesized reports, maps and dashboards for easier interpretation and use.”
+
+“Ultimately, it’s about providing more support for the countries that house most of the species,” adds Dr Stephenson. “If we work together to build capacity for monitoring on the ground we will produce more of the data that are needed to improve environmental decision making and enhance the impact of conservation action.”
+
+The letter, Priorities for big biodiversity data, can be accessed here.
+
+Organisations contributing to the letter include:
+
+IUCN SSC Species Monitoring Specialist Group; IUCN Science & Knowledge Unit; BirdLife International; Department of Zoology, University of Cambridge; Conservation International, Group on Earth Observations; NASA Jet Propulsion Laboratory, California Institute of Technology; Secretariat of the Convention on Biological Diversity; Luc Hoffmann Institute, UN Environment World Conservation Monitoring Centre; Global Wildlife Conservation; Zoological Society of London.
+
+More information about the IUCN SSC Species Monitoring Specialist Group can be accessed here.
