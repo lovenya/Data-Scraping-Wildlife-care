@@ -1,0 +1,26 @@
+SINGAPORE – INTERPOL cyber threat researchers have identified a threat to the blockchain in virtual transactions which could result in their being embedded with malware or other illegal data, including child abuse images.        
+        
+            
+                
+                                            
+    
+    
+                                    
+                
+                    1 /
+                    1
+                
+                
+                    
+                        
+                    
+                
+                
+                    
+                        
+                    
+                
+            
+        
+    
+Depending on the cryptocurrency and its protocols, there is a fixed open space on the blockchain – the public ‘ledger’ of transactions –  where data can be stored, referenced or hosted within encrypted transactions and their records.It is this open space which was identified as the potential target for malware by experts, an INTERPOL officer and a seconded specialist from Kaspersky Lab, in the Research and Innovation unit at INTERPOL’s Global Complex for Innovation (IGCI).The design of the blockchain means there is the possibility of malware being injected and permanently hosted with no methods currently available to wipe this data. This could affect ‘cyber hygiene’ as well as the sharing of child sexual abuse images where the blockchain could become a safe haven for hosting such data.It could also enable crime scenarios in the future such as the deployment of modular malware, a reshaping of the distribution of zero-day attacks, as well as the creation of illegal underground marketplaces dealing in private keys which would allow access to this data.“To conduct this type of research and identify new cyberthreats were among the key aims behind the creation of the INTERPOL Global Complex for Innovation,” said IGCI Executive Director Noboru Nakatani.“Having identified this threat, it is now important for INTERPOL to spread awareness amongst the public and law enforcement, as well as encourage support from communities working in this field to find solutions for the potential blockchain ‘abuse’.“In addition to our own experts, the research was conducted with support from a specialist from Kaspersky Lab based at the IGCI which again underlines the value of sharing expertise between the public and private sectors,” added Mr Nakatani.The research was unveiled at the Black Hat Asia 2015 event in Singapore, just weeks before the official inauguration of the IGCI. INTERPOL’s state-of-the-art complex will provide its 190 member countries with a cutting-edge research and development facility for the identification of crimes and criminals, innovative training, operational support and partnerships.

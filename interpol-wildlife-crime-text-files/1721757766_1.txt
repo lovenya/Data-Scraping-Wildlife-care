@@ -1,0 +1,31 @@
+LYON, France – A joint INTERPOL and Trend Micro research paper on cybercrime activity across West Africa has revealed a significant growth in cyber frauds on individuals and businesses.        
+        
+            
+                
+                                            
+    
+            The joint INTERPOL-Trend Micro paper shows two major types of threat actors are active throughout the West Africa region – so-called ‘Yahoo boys’ and ‘Next-Level Cybercriminals’.
+    
+                                            
+    
+            ‘Cybercrime in West Africa: Poised for an Underground Economy’ a joint INTERPOL – Trend Micro paper shows West African cybercriminals are increasingly using social engineering tactics resulting in a significant growth in cyber frauds on individuals and businesses.
+    
+                                    
+                
+                    1 /
+                    2
+                
+                
+                    
+                        
+                    
+                
+                
+                    
+                        
+                    
+                
+            
+        
+    
+Combining survey results from INTERPOL member countries across the region with research findings by Trend Micro, the ‘Cybercrime in West Africa: Poised for an Underground Market’ paper shows West African cybercriminals are increasingly using social engineering tactics.The survey showed an increase of 132 per cent of reported cybercrime between 2013 and 2015, with an average of USD2.7 million from business and USD422,000 from individuals stolen each year. However an average of 30 per cent of cybercrimes reported to law enforcement in the region over the same period resulted in arrests.The paper shows two major types of threat actors are active throughout the region – so-called ‘Yahoo boys’ and ‘Next-Level Cybercriminals’.Named for their reliance on Yahoo apps to communicate, the Yahoo boys came to prominence in the early 2000s, focusing on less technically advanced schemes such as advanced-fee, stranded traveller and romance frauds.‘Next-Level Cybercriminals’ carry out more sophisticated attacks, such as Business Email Compromise (BEC) and tax frauds, often using keylogging software, Remote Access Trojans (RATs) and other crime-enabling software.“This joint paper shows that criminals across the region are becoming more technically savvy, and this emerging underground market will require an even stronger law enforcement response in the future, both in terms of training for investigators and ensuring the appropriate legislation is in place,” said Noboru Nakatani, Executive Director of INTERPOL’s Global Complex for Innovation (IGCI).“In addition to building awareness of cybercrime-related issues across West Africa and beyond, the research also highlights the importance of public-private partnerships in identifying and arresting criminals, as well as educating businesses and governments about cyber threats.“The joint paper with Trend Micro, and other activities coordinated by the IGCI, demonstrate the Organization’s ongoing commitment to collaborative partnerships to mitigate the damage caused by cybercriminals on the world economy and society,” concluded Mr Nakatani.In 2016, INTERPOL and the Nigerian Economic and Financial Crime Commission, supported by private sector partners including Trend Micro, carried out a joint operation which led to the arrest of 'Mike' in Nigeria, the alleged head of an international criminal network behind thousands of online frauds worth more than USD 60 million and involving victims worldwide.“Public-private partnerships are an integral part of Trend Micro’s ongoing pursuit to make the digital world safer for everyone,” said Raimund Genes, chief technology officer for Trend Micro.“We are always happy to collaborate with INTERPOL in joint efforts to expose and takedown cybercrime around the world. Through this research on West Africa, we hope to improve the security of this region and educate local governments, as well as global businesses, on the risks emanating from this region,” added Mr Genes.Also included in the joint INTERPOL-Trend Micro report is an overview of the activities of an alleged cybercriminal, who had mistakenly installed a keylogger on his own machine, enabling researchers to access his logs and follow the various stages of his different frauds.Of the 16 INTERPOL member countries in West Africa, the following 11 responded to the survey; Benin, Cape Verde, Côte d’Ivoire, Gambia, Ghana, Liberia, Mauritania, Niger, Nigeria, Senegal and Sierra Leone.

@@ -1,0 +1,55 @@
+SINGAPORE – The latest edition of the INTERPOL Digital Security Challenge had participants hunting down a suspect who had encrypted confidential medical records with ransomware.        
+        
+            
+                
+                                            
+    
+            The latest edition of the INTERPOL Digital Security Challenge had participants hunting down a suspect who had encrypted confidential medical records with ransomware.
+    
+                                            
+    
+            Cybercrime investigators and digital forensic experts from 20 countries and territories were divided into teams, racing against the clock and each other in order to solve the crime, identify the suspect and gather enough evidence for a successful prosecution.
+    
+                                            
+    
+            The Digital Security Challenge was held at the INTERPOL Global Complex for Innovation in Singapore.
+    
+                                            
+    
+            The challenge was organized in close collaboration with NEC Corporation and Cyber Defense Institute and included training sessions to develop participants’ practical knowledge on issues ranging from identifying malware to bitcoin analytics, delivered by private sector specialists from Cellebrite, LAC, Meiya Pico, SECOM and TrendMicro.
+    
+                                            
+    
+            With as many as 21 billion devices used by businesses and consumers around the world forecast to be connected to the Internet by 2020, the challenge is one of several initiatives launched by the IGCI to help member countries develop preparedness and expertise in addressing cyber security.
+    
+                                            
+    
+            Using PCs and laptops pre-loaded with a range of digital forensic tools, the teams won points for each successful stage of the investigation.
+    
+                                            
+    
+            Using PCs and laptops pre-loaded with a range of digital forensic tools, the teams won points for each successful stage of the investigation which began with a ‘hospital’ asking for police assistance.
+    
+                                            
+    
+            The aim of the exercise is to provide a realistic simulated environment for specialists to further develop their knowledge and exchange expertise in investigating cybercrimes.
+    
+                                    
+                
+                    1 /
+                    8
+                
+                
+                    
+                        
+                    
+                
+                
+                    
+                        
+                    
+                
+            
+        
+    
+Cybercrime investigators and digital forensic experts from 20 countries and territories were divided into teams, racing against the clock and each other in order to solve the crime, identify the suspect and gather enough evidence for a successful prosecution.The aim of the exercise is to provide a realistic simulated environment for specialists to further develop their knowledge and exchange expertise in investigating cybercrimes.Ransomware is one of the fastest growing types of malware, with a report by Trend Micro showing a 752 per cent increase in new ransomware families in 2016 compared to the previous year.Easy to deploy, ransomware is a type of malware which blocks a computer, or encrypts the data on a system, with money then demanded to restore functionality, and is estimated to cost businesses hundreds of millions of dollars each year.Using PCs and laptops pre-loaded with a range of digital forensic tools, the teams won points for each successful stage of the investigation which began with a ‘hospital’ asking for police assistance.The challengeIn the scenario, the investigators first pinpointed which PC terminal in the hospital had been infected, and established that this was via a ‘dropper’ (a type of malware to launch viruses) from an email containing a suspicious link.After identifying the Command and Control server which was communicating with the ransomware, the teams analyzed the access log which led them to an IP address linked to the suspect’s home provider and his phone was then seized.Analysis of the phone’s data showed it had been used to send the email containing the ‘dropper’ to infect the PC at the hospital. Further analysis showed a previous connection to a free Wifi service at a nearby airport, which had also been used to connect to the ransomware.Although not part of the challenge itself, participants were given a presentation by NEC Corporation on facial recognition software and its potential use in cyber investigations in connecting virtual and physical evidence, as could have been the case at the airport.“Cybercrime investigations are becoming increasingly complicated and this challenge replicated some of the twists and turns encountered by investigators every day,” said Noboru Nakatani, Executive Director of the INTERPOL Global Complex for Innovation (IGCI) which hosted the challenge.“As well as providing participants with the skills they need to conduct effective investigations, the digital security challenge also highlights the need for close cooperation with the private sector which has been the ethos of the IGCI since we first opened our doors,” added Mr Nakatani.Developing expertise with private sector supportThe challenge was organized in close collaboration with NEC Corporation and Cyber Defense Institute which contributed to the scenario development. The four-day (14 – 17 March) event included training sessions to develop participants’ practical knowledge on issues ranging from identifying malware to bitcoin analytics, delivered by private sector specialists from Cellebrite, LAC, Meiya Pico, SECOM and TrendMicro.“The Digital Security Challenge was a very practical demonstration of INTERPOL’s commitment to improve the cybersecurity skills of investigators throughout the world. NEC is pleased to have again helped develop this forward-looking exercise and provide INTERPOL with our expertise,” said Kazuhiko Shiraishi, General Manager of NEC Corporation’s National Security Solutions Division.Kenji Hironaka, Cyber Defense Institute President said: “The Cyber Defense Institute is proud to have provided forensic content and technical support throughout this event, which has been as great a success as the first challenge.”With as many as 21 billion devices used by businesses and consumers around the world forecast to be connected to the Internet by 2020, the challenge is one of several initiatives launched by the IGCI to help member countries develop preparedness and expertise in addressing cyber security.In addition to the main digital security challenges hosted at the IGCI, INTERPOL is also working closely with member countries to deliver nationally-hosted ‘@Your Site’ challenge events, the first of which was held in Tokyo, Japan in February this year.

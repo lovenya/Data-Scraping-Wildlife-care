@@ -1,0 +1,91 @@
+LYON, France: In 2004, Croatian police found a man’s body in the Adriatic Sea.The condition of the body, which rendered identification through fingerprints or facial recognition impossible, meant that – for more than a decade – it remained unidentified.Enter I-Familia, a groundbreaking new database officially launched this month that applies cutting-edge scientific research and uses the DNA of relatives to identify missing persons or unidentified human remains around the world.In late 2020, DNA from the children of an Italian man missing since 2004 was added to I-Familia and then checked against DNA from all unidentified human remains in the system.  A match was found between the children’s DNA and that of the body found in the Adriatic Sea, closing a case that had gone cold 16 years earlier.Global database for kinship matchingFamily members’ DNA profiles can be compared to that of an unidentified body or human remains through what is known as DNA kinship matching. This method is often used when a direct sample from the missing person – from a prior medical sample or a personal item such as a toothbrush – is not available.However, complex calculations are required to confirm a match because biological relatives share differing percentages of the DNA. This complexity is magnified when undertaken at the international level, due to the genetic variation among populations across the world.I-Familia is the first global database to automatically control for such differences without requiring knowledge of the missing person’s genetic ancestry and provide standardized guidelines on what constitutes a match.“Identifying missing persons globally has always been challenging, due to the lack of data exchange procedures combined with the scientific complexity of statistical interpretation,” said Dr Arnoud Kal, senior forensic scientist at the Netherlands Forensic Institute  – one of the world’s leading forensic laboratories.“Therefore, we believe the development by INTERPOL of I-Familia opens up new opportunities for member countries that will positively impact the effectiveness of international missing person investigations”, Dr Kal added.The missing, and the impact on their familiesA countless number of individuals go missing globally each year due to crime, conflicts, accidents or natural disasters. By late 2020, over 12,000 active Yellow Notices – international police alerts for missing persons – had been issued by the INTERPOL General Secretariat.For families facing the uncertainty of whether their loved ones are alive or dead, sometimes for many years, the emotional toll can be crushing. The absence of a death certificate can also have considerable administrative and financial implications.“All countries have unsolved missing persons investigations as well as human remains that cannot be identified using their national systems alone,” said INTERPOL Secretary General Jürgen Stock.“I-Familia is a humanitarian tool which, enabled by INTERPOL’s global reach, opens up vast new possibilities to identify missing persons and to provide families with answers,” added Secretary General Stock.How I-Familia worksBuilding on INTERPOL’s long-standing success in direct DNA matching, DNA profiles are submitted by INTERPOL’s 194 member countries to make links between missing persons and cases related to human remains.I-Familia is made up of three components:A dedicated global database to host the DNA profiles provided by relatives, held separately from any criminal data;The DNA matching software, called Bonaparte, developed by Dutch company Smart Research;Interpretation guidelines, produced by INTERPOL, to efficiently identify and report potential matches.The Bonaparte technology uses advanced statistical algorithms to calculate the probability of a match compared against an interpretation table. This powerful software can perform millions of calculations in a short space of time. The result is then interpreted by forensic DNA experts at the INTERPOL General Secretariat.        
+        
+            
+                
+                                            
+    
+            All countries have unsolved missing persons investigations
+    
+                                            
+    
+            I-Familia is a global database for kinship matching
+    
+                                            
+    
+            Complexity is magnified due to the genetic variation among world populations
+    
+                                            
+    
+            By late 2020, over 12,000 active Yellow Notices had been issued by INTERPOL
+    
+                                            
+    
+            Complex calculations are required to confirm a match
+    
+                                            
+    
+            I-Familia is a humanitarian tool enabled by INTERPOL’s global reach
+    
+                                            
+    
+            Family members’ DNA profiles can be compared to that of an unidentified body or human remains
+    
+                                            
+    
+            Kinship matching is used when a direct sample from the missing person
+    
+                                            
+    
+            The processing of DNA data via INTERPOL is carried out according to robust data protection rules
+    
+                                            
+    
+            The emotional toll of missing persons on families can be crushing
+    
+                                            
+    
+            There is no nominal data attached to the profile
+    
+                                            
+    
+            Many countries cannot identify human remains using national systems alone
+    
+                                            
+    
+            I-Familia opens up new opportunities for member countries in their missing persons investigations
+    
+                                            
+    
+            I-Familia is based on INTERPOL's longstanding success in DNA matching
+    
+                                            
+    
+            In the event of a match, notifications are sent to the relevant member countries
+    
+                                            
+    
+            Results are interpreted by forensic DNA experts at the INTERPOL General Secretariat
+    
+                                            
+    
+            The Bonaparte technology uses advanced statistical algorithms
+    
+                                    
+                
+                    1 /
+                    17
+                
+                
+                    
+                        
+                    
+                
+                
+                    
+                        
+                    
+                
+            
+        
+    
+Data protectionThe processing of DNA data via INTERPOL is carried out via secure communications channels and in compliance with the Organization’s robust data protection rules as well as the INTERPOL policy on using family DNA profiles of missing persons for kinship matching.Family members must give their consent for their data to be used for international searching. There is no nominal data attached to the profile, which is submitted in the form of an alphanumerical code.In the event of a match, notifications are sent to the countries that supplied the DNA profile from the unidentified body and from the family respectively. Further checks (such as dental records and personal belongings) can then be carried out to confirm the potential match.I-Familia was made possible thanks to the support of the NFI and Smart Research. For more information on I-Familia, visit the INTERPOL website: https://www.interpol.int/How-we-work/Forensics/I-Familia

@@ -1,0 +1,5 @@
+Criminal databasesWe manage a range of databases containing information related to criminals and crimes.The databases contain millions of records with information on individuals such as names and fingerprints; stolen property such as passports and vehicles; and weapons and threats such as firearms.    
+    
+        
+            
+Secure police communicationsNational police can search our databases in real time as part of their investigations. This can be done via their INTERPOL National Central Bureau, or directly at the frontline, for instance by specialized crime units and border officials.Databases are accessed via I-24/7, our secure global police communications system. This is the technical network that links law enforcement in all member countries and enables authorized users to share sensitive and urgent police information with their counterparts around the globe.Legal frameworkOur member countries contribute data on a voluntary basis. This is subject to a strict legal framework and data protection rules in order to foster trust and ensure the quality of the information.

@@ -1,0 +1,26 @@
+SINGAPORE – A notorious ‘phishing-as-a-service’ (PaaS) platform known as ‘16shop' has been shut down in a global investigation coordinated by INTERPOL, with Indonesian authorities arresting its operator and one of its facilitators, with another arrested in Japan.
+ 
+The three arrests, which concluded with actions against a suspect last month, was made possible due to the intensive intelligence-sharing between the INTERPOL General Secretariat’s cybercrime directorate, national law enforcement in Indonesia, Japan and the United States and private sector partners including Cyber Defense Institute, Group-IB, Palo Alto Networks Unit 42 and Trend Micro, with added support from Cybertoolbelt.
+ 
+The PaaS platform sold ‘phishing kits’ to hackers seeking to defraud Internet users through email scams where victims typically receive an email with a pdf file or link that redirects to a site requesting the victims’ credit card or other personally identifiable information. This information is then stolen and used to extract money from the victims.
+ 
+Phishing is considered the most prevalent cyber threat in the world, and it is estimated that up to 90 per cent of data breaches are linked to successful phishing attacks, making it a major source of stolen credentials and information.
+    
+        “Cyberattacks such as phishing may be borderless and virtual in nature, but their impact on victims is real and devastating.”
+        Bernardo Pillot, INTERPOL’s Assistant Director of Cybercrime Operations
+    
+“In recent years, we have seen an unprecedented increase in both the number of cyber threats and their sophistication, with attacks becoming more tailored as criminals aim for maximum impact, and maximum profit,” added Assistant Director Pillot. Luxury vehicles The PaaS platform was flagged by analysts in INTERPOL’s cybercrime division during an ongoing project researching cyber threats in the ASEAN region, supported by Japan’s National Police Agency.
+ 
+Assisted with information from an array of private sector partners, the INTERPOL team was soon able to determine the identity and probable location of the platform’s administrator. As the platform’s registration indicated, he was based in Indonesia.
+ 
+Because the platform’s servers were hosted by a company based in the United States, analysts liaised with the INTERPOL National Central Bureau in Washington and the Federal Bureau of Investigation to secure key information for Indonesian investigators.
+ 
+The INTERPOL team compiled and dispatched a criminal intelligence report to the Indonesian National Police’s Directorate of Cyber Crimes, which allowed national law enforcement to arrest the administrator, a 21-year-old man, seizing electronic items and several luxury vehicles in the process.
+ 
+Following the successful apprehension of the administrator, further information was shared between the National Police Agency of Japan and the Indonesian National Police resulting in the identification and arrest of two facilitators.
+ 
+“Phishing isn't a new phenomenon, but when the crime-ware is being offer widely on subscription and to automate phishing campaigns, it enables any person to leverage this type of service to launch a phishing attack with a few clicks,” said Brigadier General Adi Vivid Agustiadi Bachtiar, Director of the Indonesian National Police’s Cyber Crime Investigation.
+ 
+“This operation is only successful as we work closely with various stakeholders from the law enforcement community as well as the private sectors, to uproot the root problem to stop the crime-ware being offered as a service and also stopping more people from falling victim to phishing attacks,” added Brigadier General Adi Vivid Agustiadi Bachtiar.
+ 
+INTERPOL’s cybercrime directorate brings together cyber experts from law enforcement and industry to gather and analyze all available information on criminal activities in cyberspace to provide countries with coherent, actionable intelligence.

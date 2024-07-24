@@ -1,0 +1,26 @@
+SINGAPORE – INTERPOL is to integrate Microsoft’s PhotoDNA technology into its International Child Sexual Exploitation (ICSE) database as part of the world police body’s efforts to identify victims of child abuse worldwide.        
+        
+            
+                
+                                            
+    
+    
+                                    
+                
+                    1 /
+                    1
+                
+                
+                    
+                        
+                    
+                
+                
+                    
+                        
+                    
+                
+            
+        
+    
+PhotoDNA calculates the distinct characteristics of a digital image, creating a unique signature, also known as a ‘hash’. This can then be compared with the hashes of other images to efficiently and reliably find matching signatures. Where the PhotoDNA tool differs from other hash algorithms is that it finds images even if they have been changed, making it possible to find many more matches than with classic hash.The PhotoDNA signatures will be produced from the ICSE database, along with other ‘hashing’ algorithms producing specific signatures, against which member countries can compare their files for potential matches.“It is essential for all child abuse and exploitation material to be analysed as thoroughly and efficiently as possible to help identify and rescue victims as quickly as possible,” said Mick Moran head of INTERPOL’s Human Trafficking and Child Exploitation unit.“What is also essential is eliminating duplication of effort, to avoid officers spending valuable time trying to identify a victim who may have already been saved. PhotoDNA, as part of the ICSE database will help our member countries address these issues,” added Mr Moran. Specialized investigators from 46 countries and Europol currently have direct access to ICSE, with connection to a further 25 countries under way.“The problem of trading child sexual abuse images, and the re-victimization for those whose pictures continue to surface online, is very troubling. PhotoDNA, which can identify the ‘worst of the worst’ images, even if they have been altered, can help address this problem,” said Courtney Gregoire, Senior Attorney, Microsoft’s Digital Crimes Unit.“Microsoft’s donation of its PhotoDNA technology is another example where public and private partnerships bring added value, which in this case will help rescue victims of child abuse. INTERPOL will continue to work with our partners to challenge this evolving crime,” said Glyn Lewis, Director of INTERPOL’s Specialized Crime and Analysis unit.PhotoDNA will also be available as a signature list for INTERPOL’s Baseline project which seeks to empower industry and network administrators to recognize, report and remove child abuse material from their networks.The project, currently in the pilot phase, allows industry to cross-match image signatures hosted on their network against signatures extracted from some of the worst child abuse materials in ICSE.Accessible to victim identification specialists through INTERPOL's secure I-24/7 global police communications system, ICSE also uses sophisticated image comparison software to make connections between victims and places. By the end of March 2015, the database had assisted in the identification of more than 6,300 child sexual abuse victims and the arrest of more than 3,200 offenders.

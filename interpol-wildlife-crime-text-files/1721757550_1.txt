@@ -1,0 +1,14 @@
+LYON, France – In January this year, Brazilian authorities announced the arrest of five administrators behind a Grandoreiro banking trojan operation.Considered a major cybersecurity threat across Spanish-speaking countries since 2017, Grandoreiro malware is introduced through phishing emails impersonating recognized organizations such as courts or telecom and energy companies.Once in, the malware tracks keyboard inputs, simulates mouse activity, shares screens, and displays deceptive pop-ups, collecting data such as usernames, operating system information, device runtime and most importantly, bank identifiers.With full control over victims’ bank accounts, criminals empty them, sending funds through a money mule network to launder the illicit proceeds before transferring the funds to Brazil.The organization behind the malware is thought to have defrauded victims of more than EUR 3.5 million, however, according to CaixaBank several failed attempts could have yielded more than EUR 110 million for the criminal organization.Brazil and Spain leverage INTERPOL’s network and expertiseBetween 2020 and 2022, as part of independent national cybercrime investigations, Brazil and Spain collected Grandoreiro malware samples. When they both turned to INTERPOL for support in analysing the material, INTERPOL’s Cybercrime unit took on a coordinating role, launching an operation and calling on partners Trend Micro, Kaspersky, Group-IB and Scitum.By August 2023, analytical reports had identified matches between samples, allowing investigators to close in on the organized crime group. Following a series of coordination meetings, Brazil carried out house searches across five states, arresting five programmers and operators behind the banking malware.Emphasizing the importance of a collective approach, Craig Jones, Director of INTERPOL’s Cybercrime unit, said: "This operational success vividly underscores the importance of sharing intelligence through INTERPOL, and why we are committed to acting as a bridge between public and private sectors. It also sets the stage for further cooperation in the region.”INTERPOL continues to support Brazil and Spain, as well as other countries, as investigations are ongoing.    
+        
+            
+                
+                                            
+    
+    
+                                            
+    
+    
+                                    
+                
+                    1 /
+                    2

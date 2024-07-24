@@ -1,0 +1,67 @@
+Donor: United States Department of State
+Budget: USD 2 million
+Timeframe: September 2021 - June 2024The situationMalware and cryptocurrency abuse are at the heart of many cyberthreats targeting Southeast Asia. These technologies are often interconnected, with malware either being used for illegal access or damage to systems, and cryptocurrencies being the default payment method or extortion demand involved in ransomware.About the projectThis project strengthens the ability of countries in the Association of Southeast Asian Nations (ASEAN) to combat cybercrime and work together as a region.It fosters regional strategic discussion, identifies trends and improves information exchange among all 10 ASEAN member countries (Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand and Vietnam).Previously known as the ASEAN Cyber Capacity Development Project, the project is now in its third phase and has been re-named Cyber Capabilities & Capacity Development Project (C3DP).Current activitiesBuilding on the first two phases of the project, C3DP is working to deliver the following main activities under phase three:specialized training courses for cybercrime personnel in response to threat trends in the region;table-top exercises to test and enhance investigators’ ability to respond to such incidents;a knowledge base accessible to peers in the region;expert groups in areas of growing concern, namely cryptocurrency investigations and malware analysis;an e-learning course on how to obtain electronic evidence from service providers, including those located in different jurisdictions.Project updatesJune 2023
+Advanced Malware Analysis TrainingA specially tailored training session strengthened the capacity of Southeast Asian law enforcement officers to detect and investigate malware-related cybercrimes. It also demonstrated the importance of building private sector partnerships to  share expertise, fight cybercriminals and protect communities. This training was conducted in Manila, Philippines in collaboration with Trend Micro, a global leader in cybersecurity.Through this training, we established a select group of participants to form the INTERPOL Regional Expert Group on Malware Analysis (REG-MA). This group will serve as a regional resource facilitating information and knowledge sharing, offering investigative support, and providing peer mentoring in the field of malware analysis.    
+        
+            
+                
+                                            
+    
+    
+                                            
+    
+    
+                                    
+                
+                    1 /
+                    2
+                
+                
+                    
+                        
+                    
+                
+                
+                    
+                        
+                    
+                
+            
+        
+    
+Guidelines for Seizing Virtual AssetsLaunched in October 2023, these guidelines aim to enhance understanding of virtual assets (VA) and blockchain technology in criminal investigations, providing standardized templates for VA seizure, ensuring compliance with regulations, raising awareness of associated risks, and emphasizing evidence integrity.These guidelines aim to enhance understanding of virtual assets (VA) and blockchain technology in criminal investigations, providing standardized templates for VA seizure, ensuring compliance with regulations, raising awareness of associated risks, and emphasizing evidence integrity. It also highlights the importance of collaboration for effective information sharing and coordinated efforts.
+    
+        
+            
+Law enforcement resourcesOver its first two phases, the project implemented numerous cybercrime and digital evidence training activities and workshops.It also developed valuable products for the law enforcement community in ASEAN and beyond. These include the three main resources described below.INTERPOL Cybercrime Strategy GuidebookThis step-by-step guide is the resource for INTERPOL member countries wishing to create or enhance their national Cybercrime Strategy. The Guidebook also helps countries gain insight into their current response to cybercrime and provides a means to design a more robust strategy and programme. The Guidebook can be downloaded in the Related documents section below.    
+    
+        
+            
+E-Learning course on identifying and seizing digital evidenceThis self-paced e-learning course is designed for crime scene first responders involved in planning, identifying and seizing digital evidence at a physical crime scene.The course is available on INTERPOL’s restricted access platform. Law enforcement officers may request access via the form published in the Related Documents section below.This e-learning course was developed in cooperation with the National White Collar Crime Center (NW3C) and reviewed by the High Technology Crime Investigation Association (HTCIA) and the International Association of Chiefs of Police (IACP).
+    
+        
+            
+E-Learning on obtaining cross-border electronic evidenceThis e-Learning module is designed to help Law Enforcement Officers understand how to obtain electronic evidence from online service providers, especially those located in other jurisdictions. The module covers different types of ISP-held evidence, preservation techniques, request procedures, and legal aspects.The course is available on INTERPOL's restricted access platform. Law enforcement officers may request access via the form published in the Related Documents section below. This e-learning course was developed in cooperation with the National White Collar Crime Center (NW3C).
+    
+        
+            
+National Cyber ReportsThese are detailed assessments of each country’s capability to prevent, detect and investigate cybercrime, made available to the country in question only. Each assessment was followed by a tailored report which made recommendations for enhancing the existing institutional, operational, legal and technical frameworks for dealing with cybercrime.AcknowledgmentsThe ASEAN Cyber Capacity Development Project (as it was then known) was initially funded by the Japan-ASEAN Integration Fund (JAIF) 2.0, via the ASEAN Secretariat and with the Singapore Ministry of Home Affairs as the project proponent. The first phase ran from October 2016 to April 2019 and the second phase from April 2019 to November 2021.        
+        
+            
+                
+                                            
+    
+    
+                                            
+    
+    
+                                            
+    
+    
+                                            
+    
+    
+                                    
+                
+                    1 /
+                    4

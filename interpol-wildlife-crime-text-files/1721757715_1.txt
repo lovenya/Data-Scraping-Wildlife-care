@@ -1,0 +1,29 @@
+SINGAPORE - The Simda botnet, believed to have infected more than 770,000 computers worldwide, has been targeted in a global operation coordinated from the INTERPOL Global Complex for Innovation (IGCI) in Singapore.        
+        
+            
+                
+                                            
+    
+    
+                                    
+                
+                    1 /
+                    1
+                
+                
+                    
+                        
+                    
+                
+                
+                    
+                        
+                    
+                
+            
+        
+    
+In a series of simultaneous actions around the world, on Thursday 9 April, 10 command and control servers were seized in the Netherlands, with additional servers taken down in the US, Russia, Luxembourg and Poland.Microsoft’s Digital Crimes Unit provided forensic intelligence to INTERPOL and other partners after its big data analysis found a sharp increase in Simda infections around the world.The INTERPOL Digital Crime Centre (IDCC) at the IGCI worked with Microsoft, Kaspersky Lab, Trend Micro and Japan’s Cyber Defense Institute to perform additional analysis of the Simda botnet resulting in a ‘heat map’ showing the spread of the infections globally, and the location of the command and control servers.Simda was used by cyber criminals to gain remote access to computers enabling the theft of personal details, including banking passwords, as well as to install and spread other malicious malware.The majority of computer owners will be unaware their machine has been infected and are advised to check their machines and run a broad spectrum anti-virus software. Microsoft has released a remedy to clean and restore an infected computer’s defenses which has also been provided to Computer Emergency Response Teams and Internet Service Providers for their customers to clean infected computers and keep people safe online.Active for several years, Simda had been increasingly refined to exploit any vulnerability, with new more difficult to detect versions being generated and distributed every few hours. It has been used for crimes against citizens, financial institutions and the Internet itself, catching and redirecting traffic.In the first two months of 2015, some 90,000 new infections were detected in the US alone. The Simda botnet has been seen in more than 190 countries, with the worst affected including the US, UK, Turkey, Canada and Russia.“This successful operation shows the value and need for partnerships between national and international law enforcement with private industry in the fight against the global threat of cybercrime,” said Sanjay Virmani, Director of the IDCC. “This operation has dealt a significant blow to the Simda botnet and INTERPOL will continue in its work to assist member countries protect their citizens from cybercriminals and to identify other emerging threats.”Head of the Central Criminal Investigation Division of Netherlands Police, Wilbert Paulissen said: “Working together is of great importance in order to address cybercrime worldwide. It is good to see each partner in the investigation of cybercrime working towards the same goal: to catch and prosecute the suspects who are responsible for this.“The creation of the INTERPOL Global Complex for Innovation in Singapore will help strengthen the fight against cybercrime worldwide,” added Mr Paulissen.“Our collective efforts, and cooperation in this investigation have made a positive impact in combating this constant, evolving threat,” said Joseph Demarest, Assistant Director, FBI Cyber Division. “We will continue working alongside our international partners and international law enforcement to aggressively pursue cyber criminals around the world.”Intelligence is now being gathered in order to identify the actors behind the Simda botnet who had applied a business model to their criminal activities, charging ‘users’ per successful malware installation.The operation involved officers from the Dutch National High Tech Crime Unit (NHTCU) in the Netherlands, the Federal Bureau of Investigation (FBI) in the US, the Police Grand-Ducale Section Nouvelles Technologies in Luxembourg, and the Russian Ministry of the Interior’s Cybercrime Department “K” supported by the INTERPOL National Central Bureau in Moscow.National and regional Computer Emergency Response Teams will be updated to relay information to their partners for risk mitigation.Microsoft has developed a free cleaning agent for Simda.  If you have been infected by Simda.AT, run a comprehensive scan of your environment using Microsoft Safety Scanner, Microsoft Security Essentials or Windows Defender.Kaspersky Lab has set up a self-check webpage where the public can see if their IP address has been found to be part of a Simda botnet: https://checkip.kaspersky.comFree virus scans are available from:
+Kaspersky Lab: http://www.kaspersky.com/security-scan
+Trend Micro:  http://housecall.trendmicro.com/
+Cyber Defense Institute: http://www.cyberdefense.jp/simda/Computers users should clean their machines regularly, especially after having found their computer infected with Simda as even after its removal other installed malware might still reside.The results of the operation were announced at the official opening of the INTERPOL Global Complex for Innovation. The state-of-the-art complex will provide the world police body’s 190 member countries with a cutting-edge research and development facility for the identification of crimes and criminals, innovative training, operational support and partnerships.
